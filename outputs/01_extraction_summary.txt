@@ -1,0 +1,170 @@
+Files read: 134
+Demonstrative tokens: 7593
+
+By distance: {'proximal': 5323, 'distal': 2270}
+By form type: {'bare': 4886, 'other suffix': 468, 'locative (-ja)': 1031, 'manner (-jur/-juri)': 555, 'plural (-a/-aha)': 600, 'complementizer-like (-ke)': 53}
+By speaker role: {'Target_Child': 2955, 'Mother': 1912, 'Caretaker': 244, 'Brother': 891, '': 2, 'Father': 1438, 'Media': 27, 'Relative': 124}
+By child: {'Lilia': 2763, 'Minu': 4830}
+
+Top forms:
+  in: 3086
+  un: 1446
+  inja: 617
+  injuri: 431
+  ina: 343
+  unja: 227
+  una: 184
+  hæmin: 177
+  ino: 157
+  hæmun: 156
+  ine: 94
+  injast: 89
+  hæminjuri: 66
+  inke: 53
+  inaha: 41
+  unyeki: 35
+  inæm: 31
+  uno: 30
+  hæmunja: 28
+  unjuri: 27
+  inaro: 23
+  an: 21
+  uni: 19
+  hæminja: 19
+  hæmine: 16
+
+Files:
+  011121.cha
+  020002.cha
+  020023.cha
+  020103.cha
+  020110.cha
+  020200a.cha
+  020200b.cha
+  020310.cha
+  020321.cha
+  020407a.cha
+  020407b.cha
+  020407c.cha
+  020417.cha
+  020430.cha
+  020509.cha
+  020529.cha
+  020604a.cha
+  020604b.cha
+  020716.cha
+  020728a.cha
+  020728b.cha
+  020728c.cha
+  020805.cha
+  020812.cha
+  020819.cha
+  020822.cha
+  020910.cha
+  020922.cha
+  020930.cha
+  021011.cha
+  021021.cha
+  040112.cha
+  040114.cha
+  040117.cha
+  040119a.cha
+  040119b.cha
+  040127.cha
+  040201.cha
+  040205.cha
+  040208.cha
+  040210.cha
+  040215.cha
+  040224.cha
+  040225.cha
+  040228.cha
+  040305.cha
+  040308.cha
+  040311a.cha
+  040311b.cha
+  040311c.cha
+  040313a.cha
+  040313b.cha
+  040328.cha
+  040329a.cha
+  040329b.cha
+  040329c.cha
+  040329d.cha
+  040329e.cha
+  040330a.cha
+  040330b.cha
+  040410.cha
+  040415.cha
+  040416.cha
+  040418.cha
+  040419.cha
+  040423.cha
+  040506.cha
+  040507.cha
+  040509.cha
+  040510.cha
+  040512.cha
+  040514.cha
+  040520a.cha
+  040520b.cha
+  040520c.cha
+  040529.cha
+  040600.cha
+  040614a.cha
+  040614b.cha
+  040617a.cha
+  040617b.cha
+  040717a.cha
+  040717b.cha
+  040717c.cha
+  040719.cha
+  040721a.cha
+  040721b.cha
+  040805.cha
+  040809a.cha
+  040809b.cha
+  040810a.cha
+  040810b.cha
+  040810c.cha
+  040813.cha
+  040821.cha
+  040823.cha
+  040903.cha
+  040914a.cha
+  040914b.cha
+  040921a.cha
+  040921b.cha
+  040921c.cha
+  040929a.cha
+  040929b.cha
+  041015.cha
+  041025a.cha
+  041025b.cha
+  041026.cha
+  041030a.cha
+  041030b.cha
+  050014a.cha
+  050014b.cha
+  050015.cha
+  050016.cha
+  050021.cha
+  050106a.cha
+  050106b.cha
+  050110a.cha
+  050110b.cha
+  050110c.cha
+  050111.cha
+  050116.cha
+  050118.cha
+  050121.cha
+  050201a.cha
+  050201b.cha
+  050206a.cha
+  050206b.cha
+  050215a.cha
+  050215b.cha
+  050218.cha
+  050220.cha
+  050222.cha
+  050225.cha

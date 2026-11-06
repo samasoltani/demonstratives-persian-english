@@ -4,7 +4,8 @@ Extract every candidate demonstrative (in / un / an and their derived forms)
 from the Persian CHAT (.cha) files and save one row per token as a CSV.
 
 Input : data/raw/persian/**/*.cha
-Output: data/interim/persian_demonstratives.csv
+Output: outputs/01_extraction_summary.txt (summary of the run)
+        data/interim/persian_demonstratives.csv
         data/interim/persian_utterance_counts.csv  (denominators for later rates)
 
 Run from PyCharm (no need to set a working directory):
@@ -179,16 +180,31 @@ def main():
         w.writeheader()
         w.writerows(counts)
 
-    # ---- quick summary ----
-    print(f"Files read: {len(files)}")
-    print(f"Demonstrative tokens: {len(rows)}")
-    print("\nBy distance:", dict(Counter(r["distance"] for r in rows)))
-    print("By form type:", dict(Counter(r["form_type"] for r in rows)))
-    print("By speaker role:", dict(Counter(r["role"] for r in rows)))
-    print("\nTop forms:")
-    for tok, n in Counter(r["token"] for r in rows).most_common(15):
-        print(f"  {tok}: {n}")
-    print(f"\nSaved to: {OUT_DIR}")
+    # ---- summary: printed AND saved so it can be pushed to GitHub ----
+    summary = [
+        f"Files read: {len(files)}",
+        f"Demonstrative tokens: {len(rows)}",
+        "",
+        f"By distance: {dict(Counter(r['distance'] for r in rows))}",
+        f"By form type: {dict(Counter(r['form_type'] for r in rows))}",
+        f"By speaker role: {dict(Counter(r['role'] for r in rows))}",
+        f"By child: {dict(Counter(r['child'] for r in rows))}",
+        "",
+        "Top forms:",
+    ]
+    for tok, n in Counter(r["token"] for r in rows).most_common(25):
+        summary.append(f"  {tok}: {n}")
+    summary.append("")
+    summary.append("Files:")
+    for path in files:
+        summary.append(f"  {path.name}")
+    text_out = "\n".join(summary)
+    print(text_out)
+
+    out_dir = ROOT / "outputs"
+    out_dir.mkdir(parents=True, exist_ok=True)
+    (out_dir / "01_extraction_summary.txt").write_text(text_out, encoding="utf-8")
+    print(f"\nSaved to: {OUT_DIR} and outputs/01_extraction_summary.txt")
 
 
 if __name__ == "__main__":
