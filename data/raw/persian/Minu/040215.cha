@@ -1,0 +1,2163 @@
+@UTF8
+@PID:	11312/c-00026860-1
+@Begin
+@Languages:	fas
+@Participants:	CHI Minu Target_Child, FAT Ali Father, AUN Xaleh_Aunt Relative
+@ID:	fas|Family|CHI|4;02.15|female|||Target_Child|||
+@ID:	fas|Family|FAT||male|||Father|||
+@ID:	fas|Family|AUN|||||Relative|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=fas | 2026-05-07T05:41:21-04:00]
+@Media:	040215, audio
+@Activities:	Playtime.
+@Date:	08-JAN-2007
+@Location:	Tehran , Iran
+@Transcriber:	Neiloufar Family
+@Types:	long, toyplay, TD
+*CHI:	&~singing . 1_5703
+*AUN:	xxx amæd ? 5703_9194
+%xmor:	unk|xxx v|amædæn&past&3s ?
+%mor:	propn|amæd ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	dare miyad . 9194_11388
+%xmor:	v:mod|dashtæn&pres-3s prog#v|amædæn&pres&3s .
+%mor:	propn|dare propn|miyad .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xxx nayumæde arusækaro jæm kon bebærim un otaq sobone boxoræn . 11388_17971
+%xmor:	unk|xxx neg#v|amædæn&PAST-3S n|arusæk-PL ptl|ro pv:adj|jæm v:lv|kærdæn&pres&imp&2s subj#v|bordæn&PRES-1P pro:dem|un n|otaq n|sobone subj#v|xordæn&pres-3p .
+%xcau:	$C:lv:kærdæn $C:lex:bordæn
+%mor:	propn|nayumæde propn|arusækaro propn|jæm propn|kon propn|bebærim propn|un propn|otaq propn|sobone propn|boxoræn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|PUNCT
+*AUN:	amade bashæn qævi bashæn . 17971_19202
+%xmor:	adj|amade v|budæn&pres&subj-3p adj|qævi v|budæn&pres&subj-3p .
+%mor:	propn|amade propn|bashæn propn|qævi propn|bashæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	næ , ma qævi hæstim ! 19202_22044
+%xmor:	co|næ pro|ma adj|qævi v|budæn&pres-1p !
+%mor:	propn|næ cm|cm propn|ma propn|qævi propn|hæstim !
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|1|PUNCT
+*AUN:	qævi hæstin ? 22044_23091
+%xmor:	adj|qævi v|budæn&pres-2P ?
+%mor:	propn|qævi propn|hæstin ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	bæle . 23091_23674
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	pæs bidar shin æge xab bashin ke xxx behetun hæmle mikone . 23674_26748
+%xmor:	conj|pæs pv:adj|bidar v:lv|shodæn&PRES&IMP-2P conj|æge n|xab v|budæn&PRES&IMP&2P pro:rel|ke unk|xxx prep|be-2P pv:n|hæmle prog#v:lv|kærdæn&pres-3s .
+%mor:	propn|pæs propn|bidar propn|shin propn|æge propn|xab punct|bashin propn|ke propn|behetun propn|hæmle propn|mikone .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|7|PUNCT 7|1|CONJ 8|7|FLAT-NAME 9|7|FLAT-NAME 10|7|FLAT-NAME 11|1|PUNCT
+*AUN:	bidar shin ma ræxtexabetuno amade mikonim inja jæm mikonim . 26748_29840
+%xmor:	pv:adj|bidar v:lv|shodæn&PRES&IMP-2P pro|ma n|ræxtexab-2P ptl|ro pv:adj|amade prog#v:lv|kærdæn&pres-1p pro:dem|inja pv:adj|jæm prog#v:lv|kærdæn&pres-1p .
+%xcau:	$C:lv:kærdæn
+%mor:	punct|bidar propn|shin propn|ma propn|ræxtexabetuno propn|amade punct|mikonim propn|inja propn|jæm punct|mikonim .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|7|PUNCT 7|2|CONJ 8|7|FLAT-NAME 9|2|PUNCT 10|2|PUNCT
+*AUN:	xxx inja . 29840_30906
+%xmor:	unk|xxx pro:dem|inja .
+%mor:	propn|inja .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&~singing . 30906_40979
+*AUN:	ræxtexabeto <xxx> [>] . 40979_45118
+%xmor:	n|ræxtexab-2S ptl|ro unk|xxx .
+%mor:	propn|ræxtexabeto .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	<yæni miduni> [<] væqte æsrune xxx rah miyad . 45118_49757
+%xmor:	adv|yæni prog#v|danestæn&pres-2s n|væqt-EZ n|æsrune unk|xxx n|rah prog#v|amædæn&pres&3s .
+%mor:	propn|yæni propn|miduni propn|væqte propn|æsrune propn|rah propn|miyad .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	mæn [///] æslan ælan xxx væqte æsrune shode bud . 49757_53896
+%xmor:	adv|æslan adv|ælan unk|xxx n|væqt-EZ n|æsrune v:ptcp|shodæn-PTCP v:aux|budæn&past&3s .
+%mor:	propn|æslan propn|ælan propn|væqte propn|æsrune propn|shode propn|bud .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*AUN:	bashe . 53896_54877
+%xmor:	co|bashe .
+%mor:	punct|bashe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	tæxteto xxx . 54877_60348
+%xmor:	n|tæxt-2S ptl|ro unk|xxx .
+%mor:	propn|tæxteto .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	gom næshe . 60348_61128
+%xmor:	pv:adj|gom neg#v:lv|shodæn&pres-3s .
+%mor:	propn|gom propn|næshe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xob . 61128_61859
+%xmor:	co|xob .
+%mor:	propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	berin bæcheha . 61859_62442
+%xmor:	subj#v|ræftæn&pres-2p n|bæche-pl .
+%mor:	propn|berin propn|bæcheha .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	hæmætun berin . 62442_63006
+%xmor:	pro|hæme-2P subj#v|ræftæn&pres-2p .
+%mor:	propn|hæmætun propn|berin .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	bazæm [/] mæsælæn ælan væqte æsrunæst . 63006_66498
+%xmor:	adv|mæsælæn adv|ælan n|væqt-EZ n|æsrune~v|budæn&PRES&3S .
+%mor:	propn|mæsælæn propn|ælan propn|væqte propn|æsrunæst .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*AUN:	bia hæmæshuno bebær . 66498_68044
+%xmor:	imp#v|amædæn&pres&2s pro|hæme-3P ptl|ro imp#v|bordæn&pres&2s .
+%xcau:	$C:lex:bordæn
+%mor:	propn|bia propn|hæmæshuno propn|bebær .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	<mæn miræm> [/] <mæn miræm> [/] mæn miræm æsrune xxx . 68044_78117
+%xmor:	pro|mæn prog#v|ræftæn&pres-1s n|æsrune unk|xxx .
+%mor:	propn|mæn propn|miræm propn|æsrune .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	xxx . 78117_88774
+%xmor:	unk|xxx .
+*AUN:	væli bayæd ælan sobhune boxoræn , æsrune næxoræn . 88774_94710
+%xmor:	conj|væli v:mod|bayestæn&past&3s adv|ælan n|sobhune subj#v|xordæn&pres-3p n|æsrune neg#v|xordæn&pres-3p .
+%mor:	propn|væli propn|bayæd propn|ælan propn|sobhune propn|boxoræn cm|cm propn|æsrune propn|næxoræn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|7|PUNCT 7|1|CONJ 8|7|FLAT-NAME 9|1|PUNCT
+*CHI:	næ ælan mæsælæn æsrune boxoræn . 94710_96737
+%xmor:	co|næ adv|ælan adv|mæsælæn n|æsrune subj#v|xordæn&pres-3p .
+%mor:	propn|næ propn|ælan propn|mæsælæn propn|æsrune propn|boxoræn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	mæsælæn ! 96737_97636
+%xmor:	adv|mæsælæn !
+%mor:	propn|mæsælæn !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx bazi . 97636_98682
+%xmor:	unk|xxx n|bazi .
+%mor:	propn|bazi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	mæsælæn . 98682_100312
+%xmor:	adv|mæsælæn .
+%mor:	propn|mæsælæn .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	chai berizæm bæratun xxx xanum ? 100312_107542
+%xmor:	n|chai subj#v|rixtæn&PRES-1S prep|bæra-2P unk|xxx n|xanum ?
+%xcau:	$C:lex:rixtæn
+%mor:	propn|chai propn|berizæm propn|bæratun propn|xanum ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*AUN:	xxx dæstetun dærd nækone . 107542_109255
+%xmor:	unk|xxx n|dæst-2P pv:n|dærd neg#v:lv|kærdæn&PRES-3S .
+%mor:	propn|dæstetun propn|dærd propn|nækone .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	næ [/] næ [/] næ [/] næ . 109255_110152
+%xmor:	co|næ .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mæsælæn +//. 110152_111051
+%xmor:	adv|mæsælæn +//.
+%mor:	propn|mæsælæn +//.
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	næ [/] næ [/] næ . 111051_112115
+%xmor:	co|næ .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	<vaqæn mæsælæn ælan> [///] vaqæn mæsælæn sobhune +//. 112115_117967
+%xmor:	adv|vaqæn adv|mæsælæn n|sobhune +//.
+%mor:	propn|vaqæn propn|mæsælæn propn|sobhune +//.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	sobh sobh . 117967_118764
+%xmor:	n|sobh n|sobh .
+%mor:	propn|sobh propn|sobh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	sobh sobh sobhe . 118764_120810
+%xmor:	n|sobh n|sobh n|sobh~v|budæn&PRES&3S .
+%mor:	propn|sobh propn|sobh propn|sobhe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	are hænuz sobhe sobhe . 120810_122588
+%xmor:	co|are adv|hænuz n|sobh-EZ n|sobh~v|budæn&PRES&3S .
+%mor:	propn|are propn|hænuz propn|sobhe propn|sobhe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	mænæm mænæm kudæke zængule pa . 122588_126579
+%xmor:	pro|mæn~v|budæn&PRES&1S pro|mæn~v|budæn&PRES&3S n|kudæk-EZ n|zængule n|pa .
+%mor:	propn|mænæm propn|mænæm propn|kudæke propn|zængule propn|pa .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*AUN:	barikæla be to xxx zængule pa . 126579_129421
+%xmor:	co|barikæla prep|be pro|to unk|xxx n|zængule n|pa .
+%mor:	propn|barikæla propn|be propn|to propn|zængule propn|pa .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	umædæm . 129421_131051
+%xmor:	v|amædæn&PASt-1S .
+%mor:	propn|umædæm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	umædæm . 131051_132347
+%xmor:	v|amædæn&PASt-1S .
+%mor:	propn|umædæm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	fædaye to . 132347_133894
+%xmor:	n|fæda-EZ pro|to .
+%mor:	propn|fædaye propn|to .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	dæro baz konin bæcheha jun . 133894_137134
+%xmor:	n|dær ptl|ro pv:adj|baz v:lv|kærdæn&pres-2p n|bæche-pl n|jun .
+%xcau:	$C:lv:kærdæn
+%mor:	propn|dæro propn|baz propn|konin propn|bæcheha propn|jun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	mæn miræm dæro xxx . 137134_141440
+%xmor:	pro|mæn prog#v|ræftæn&pres-1s n|dær ptl|ro unk|xxx .
+%mor:	propn|mæn propn|miræm propn|dæro .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	bashe , boro baz kon . 141440_142337
+%xmor:	co|bashe imp#v|ræftæn&pres&2s pv:adj|baz v:lv|kærdæn&pres&imp&2s .
+%xcau:	$C:lv:kærdæn
+%mor:	propn|bashe cm|cm propn|boro propn|baz propn|kon .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|1|PUNCT
+*AUN:	&~cough . 142337_148439
+*AUN:	æz unja ? 148439_149255
+%xmor:	prep|æz pro:dem|unja ?
+%mor:	propn|æz propn|unja ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	e dare miyad tu . 149255_152097
+%xmor:	co|e v:mod|dashtæn&pres-3s prog#v|amædæn&pres&3s prep|tu .
+%mor:	propn|e propn|dare propn|miyad punct|tu .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT 5|1|PUNCT
+*AUN:	dæro bebænd ke biyad tu . 152097_153144
+%xmor:	n|dær ptl|ro imp#v|bæstæn&PRES&2S conj|ke subj#v|amædæn&pres&3s prep|tu .
+%xcau:	$C:lex:bæstæn
+%mor:	propn|dæro propn|bebænd propn|ke propn|biyad punct|tu .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT 6|1|PUNCT
+*AUN:	vaista mæn dæro baz konæm . 153144_155107
+%xmor:	pv:n|vai v:lv|istadæn&PRES&IMP&2S pro|mæn n|dær ptl|ro pv:adj|baz v:Lv|kærdæn&pres-1s .
+%xcau:	$C:lv:kærdæn
+%mor:	propn|vaista propn|mæn propn|dæro propn|baz propn|konæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	næ ! 155107_156235
+%xmor:	co|næ !
+%mor:	propn|næ !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx amæd . 156235_157615
+%xmor:	unk|xxx v|amædæn&past&3s .
+%mor:	propn|amæd .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ey dad o bidad . 157615_161190
+%xmor:	co|ey n|dad conj|o n|bidad .
+%mor:	propn|ey propn|dad propn|o propn|bidad .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	xxx jan , mæn mifæhmæm chi kar konæm . 161190_164199
+%xmor:	unk|xxx n|jan pro|mæn prog#v|fæhmidæn&pres-1s n|chi n|kar v|kærdæn&pres-1s .
+%mor:	propn|jan cm|cm propn|mæn propn|mifæhmæm propn|chi propn|kar propn|konæm .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|4|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|1|PUNCT
+*CHI:	xxx . 164199_168023
+%xmor:	unk|xxx .
+*CHI:	&~singing . 168023_179245
+*AUN:	xxx . 179245_182504
+%xmor:	unk|xxx .
+*AUN:	movazeb bash . 182504_185578
+%xmor:	adj|movazeb v|budæn&imp&2s .
+%mor:	propn|movazeb propn|bash .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	movazebe xxx xxx . 185578_187041
+%xmor:	adj|movazeb-EZ unk|xxx unk|xxx .
+%mor:	propn|movazebe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx . 187041_190050
+%xmor:	unk|xxx .
+*AUN:	xxx shode . 190050_193393
+%xmor:	unk|xxx v|shodæn&past-3s .
+%mor:	punct|shode .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx ? 193393_194522
+%xmor:	unk|xxx ?
+*CHI:	næ xunæsho ye juri +//. 194522_196633
+%xmor:	co|næ n|xune-3S ptl|ro qn|ye adv|juri +//.
+%mor:	propn|næ propn|xunæsho propn|ye propn|juri +//.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	næ bezar +//. 196633_200874
+%xmor:	co|næ imp#v|gozashtæn&pres&2s +//.
+%mor:	propn|næ punct|bezar +//.
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*CHI:	næ bezar +//. 200874_204597
+%xmor:	co|næ imp#v|gozashtæn&pres&2s +//.
+%com:	go to other room .
+%mor:	propn|næ punct|bezar +//.
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*CHI:	mæsælæn in peræns jan mishe , bashe ? 204597_228818
+%xmor:	adv|mæsælæn pro:dem|in n:prop|peræns_jan prog#v|shodæn&pres-3s co|bashe ?
+%mor:	propn|mæsælæn propn|in propn|peræns propn|jan propn|mishe cm|cm punct|bashe ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT 7|1|PUNCT 8|1|PUNCT
+*AUN:	mm . 228818_229550
+%xmor:	co|mm .
+%mor:	propn|mm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx . 229550_234356
+%xmor:	unk|xxx .
+*FAT:	ærusæke xær dare xxx baba jun ? 234356_240439
+%xmor:	n|ærusæk-EZ n|xær v|dashtæn&pres-3s unk|xxx n|baba n|jun ?
+%mor:	propn|ærusæke propn|xær propn|dare propn|baba propn|jun ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	chi gofti ? 240439_241336
+%xmor:	wh|chi v|goftæn&past-2s ?
+%mor:	propn|chi propn|gofti ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	migæm ærusæke xære pæræns jane ? 241336_244113
+%xmor:	prog#v|goftæn&pres-1s n|ærusæk-EZ n|xær-EZ n:prop|pæræns_jan~v|budæn&PRES&3S ?
+%mor:	propn|migæm propn|ærusæke propn|xære propn|pæræns propn|jane ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	bæle . 244113_246308
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	næ [/] næ [/] næ . 246308_250845
+%xmor:	co|næ .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	to xxx . 250845_252160
+%xmor:	pro|to unk|xxx .
+%mor:	punct|to .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&~yell . 252160_258493
+*CHI:	nishet zædæm . 258493_259706
+%xmor:	pv:n|nish-2S v:lv|zædæn&past-1s .
+%mor:	propn|nishet propn|zædæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	emruz xxx nist , koja budi , ræfti bæcheharo gul zædi ? 259706_266789
+%xmor:	n|emruz unk|xxx v|budæn&pres&neg&3s wh|koja v|budæn&past-2s v|ræftæn&past-2s n|bæche-PL ptl|ro pv:n|gul v:lv|zædæn&past-2s ?
+%mor:	propn|emruz propn|nist cm|cm propn|koja propn|budi cm|cm propn|ræfti propn|bæcheharo propn|gul propn|zædi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|7|PUNCT 7|4|CONJ 8|7|FLAT-NAME 9|7|FLAT-NAME 10|7|FLAT-NAME 11|1|PUNCT
+*CHI:	bæle ! 266789_267471
+%xmor:	co|bæle !
+%mor:	propn|bæle !
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx . 267471_273489
+%xmor:	unk|xxx .
+*CHI:	hisss@o . 273489_277230
+%xmor:	o|hisss .
+%mor:	on|hisss .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	ey vai ! 277230_277730
+%xmor:	co|ey co|vai !
+%mor:	propn|ey propn|vai !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	ey vai , in sheitunia chie æz xodet dær miyari ? 277730_280007
+%xmor:	co|ey co|vai pro:dem|in n|sheituni-PL wh|chi~v|budæn&PRES&3S prep|æz n|xod-2s pv:prep|dær prog#v:lv|aværdæn&PRES-2S ?
+%mor:	propn|ey propn|vai cm|cm propn|in propn|sheitunia propn|chie propn|æz propn|xodet propn|dær propn|miyari ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|4|FLAT-NAME 7|4|FLAT-NAME 8|4|FLAT-NAME 9|4|FLAT-NAME 10|4|FLAT-NAME 11|1|PUNCT
+*CHI:	hisss@o . 280007_280739
+%xmor:	o|hisss .
+%mor:	on|hisss .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	zæbunæmo ovordæm birun hisss@o . 280739_281785
+%xmor:	n|zæbun-1S ptl|ro v|aværdæn&past-1s adv|birun o|hisss .
+%xcau:	$C:lex:aværdæn
+%mor:	propn|zæbunæmo propn|ovordæm propn|birun on|hisss .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|DEP 5|1|PUNCT
+*CHI:	nishet zædæm ! 281785_282850
+%xmor:	pv:n|nish-2S v:lv|zædæn&past-1s !
+%mor:	propn|nishet propn|zædæm !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	vai ! 282850_284711
+%xmor:	co|vai !
+%mor:	propn|vai !
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx . 284711_286258
+%xmor:	unk|xxx .
+*CHI:	yæni gij miri [*] ? 286258_289267
+%xmor:	adv|yæni pv:adj|gij prog#v:lv|ræftæn&pres-2s ?
+%mor:	propn|yæni propn|gij propn|miri ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	are . 289267_291211
+%xmor:	co|are .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx delæmæm dærd gerefte . 291211_293322
+%xmor:	unk|xxx n|del-1S adv|hæm pv:n|dærd v:Lv|gereftæn&past-3s .
+%mor:	propn|delæmæm propn|dærd propn|gerefte .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	xeili nishet qævi bud . 293322_295599
+%xmor:	adv|xeili n|nish-2S adj|qævi v|budæn&past&3s .
+%mor:	propn|xeili propn|nishet propn|qævi propn|bud .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	mæn ye kari mitunæm bokonæm . 295599_303563
+%xmor:	pro|mæn qn|ye n|kar-DEF prog#v|tævanestæn&pres-1s subj#v|kærdæn&pres-1s .
+%mor:	propn|mæn propn|ye propn|kari propn|mitunæm propn|bokonæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	pæs toro mibæræm be kuhe atæsh nesho [= neshan] ! 303563_310396
+%xmor:	conj|pæs pro|to ptl|ro prog#v|bordæn&PRES-1S prep|be n|kuh-EZ n|atæsh n|nesho !
+%xcau:	$C:lex:bordæn
+%mor:	propn|pæs propn|toro propn|mibæræm punct|be propn|kuhe propn|atæsh propn|nesho !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|1|PUNCT
+*FAT:	atæsh neshan baba , atæsh neshan . 310396_313405
+%xmor:	n|atæsh n|neshan n|baba n|atæsh n|neshan .
+%mor:	propn|atæsh propn|neshan propn|baba cm|cm propn|atæsh propn|neshan .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|1|PUNCT
+*CHI:	+< ke ba atisha delo besuze ! 313405_314403
+%xmor:	conj|ke prep|ba n|atish-PL n|del ptl|ro subj#v|suxtæn&pres-3S !
+%mor:	propn|ke propn|ba propn|atisha propn|delo propn|besuze !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	atish begire . 314403_315766
+%xmor:	pv:n|atish subj#v:lv|gereftæn&pres-3s .
+%mor:	propn|atish propn|begire .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	atish begire . 315766_317544
+%xmor:	pv:n|atish subj#v:lv|gereftæn&pres-3s .
+%mor:	propn|atish propn|begire .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	atish begire . 317544_319007
+%xmor:	pv:n|atish subj#v:lv|gereftæn&pres-3s .
+%mor:	propn|atish propn|begire .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	atish begire . 319007_320720
+%xmor:	pv:n|atish subj#v:lv|gereftæn&pres-3s .
+%mor:	propn|atish propn|begire .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xxx . 320720_339821
+%xmor:	unk|xxx .
+*CHI:	xxx . 339821_347303
+%xmor:	unk|xxx .
+*AUN:	xxx . 347303_352025
+%xmor:	unk|xxx .
+*CHI:	are hisss@o . 352025_353238
+%xmor:	co|are o|hisss .
+%mor:	propn|are on|hisss .
+%gra:	1|0|ROOT 2|1|DEP 3|1|PUNCT
+*FAT:	chera arum arum sohbæt mikonin ? 353238_357312
+%xmor:	wh|chera adj|arum adj|arum pv:n|sohbæt prog#v:lv|kærdæn&PRES-2P ?
+%mor:	propn|chera propn|arum propn|arum propn|sohbæt punct|mikonin ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT 6|1|PUNCT
+*CHI:	beræm xodæmo shekle ye qæribe konæm . 357312_365441
+%xmor:	subj#v|ræftæn&pres-1s n|xod-1S ptl|ro pv:n|shekl-EZ qn|ye n|qæribe v:lv|kærdæn&pres-1s .
+%mor:	propn|beræm propn|xodæmo propn|shekle propn|ye propn|qæribe propn|konæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|3|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*AUN:	shekle qæribe ? 365441_366654
+%xmor:	n|shekl-EZ n|qæribe ?
+%mor:	propn|shekle propn|qæribe ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xob , un kolahæro bepush ke shekle qæribe xxx . 366654_371775
+%xmor:	co|xob pro:dem|un n|kola-DEF ptl|ro imp#v|pushidæn&pres&2s conj|ke n|shekl-EZ n|qæribe unk|xxx .
+%com:	CHI leaves room with AUN and comes back .
+%mor:	propn|xob cm|cm punct|un propn|kolahæro propn|bepush propn|ke propn|shekle propn|qæribe .
+%gra:	1|0|ROOT 2|4|PUNCT 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|4|FLAT-NAME 7|4|FLAT-NAME 8|4|FLAT-NAME 9|1|PUNCT
+*CHI:	xob ? 371775_460616
+%xmor:	co|xob ?
+%mor:	propn|xob ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xob . 460616_461347
+%xmor:	co|xob .
+%mor:	propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bædesh . 461347_462560
+%xmor:	adv|bæd-3S .
+%mor:	propn|bædesh .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	chi kar kærdi baba ? 462560_467115
+%xmor:	wh|chi n|kar v|kærdæn&past-2s n|baba ?
+%mor:	propn|chi propn|kar propn|kærdi propn|baba ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	&~singing . 467115_472752
+*FAT:	ræfti lebaseto ævæz kærdi ? 472752_477272
+%xmor:	v|ræftæn&past-2s n|lebas-2S ptl|ro pv:adj|ævæz v:lv|kærdæn&past-2s ?
+%xcau:	$C:lv:kærdæn
+%mor:	propn|ræfti propn|lebaseto propn|ævæz propn|kærdi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	hm ? 477272_479967
+%xmor:	co|hm ?
+%mor:	propn|hm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx . 479967_481744
+%xmor:	unk|xxx .
+*CHI:	bia birun . 481744_485236
+%xmor:	imp#v|amædæn&pres&2s adv|birun .
+%mor:	propn|bia propn|birun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	chi kar dari mikoni babai ? 485236_493216
+%xmor:	wh|chi n|kar v:mod|dashtæn&pres-2s prog#v|kærdæn&pres-2s n|babai ?
+%mor:	propn|chi propn|kar propn|dari propn|mikoni propn|babai ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	in ruba +... 493216_497039
+%xmor:	pro:dem|in n|ruba +...
+%mor:	punct|in propn|ruba +...
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|PUNCT
+*CHI:	xxx . 497039_505436
+%xmor:	unk|xxx .
+*CHI:	mæn mixam gulesh bezænæm . 505436_509740
+%xmor:	pro|mæn prog#v|xastæn&pres-1s pv:n|gul-3s subj#v:lv|zædæn&pres-1s .
+%mor:	propn|mæn propn|mixam propn|gulesh propn|bezænæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*AUN:	xxx gulesh bezæn . 509740_518752
+%xmor:	unk|xxx pv:n|gul-3s imp#v:lv|zædæn&pres&2s .
+%mor:	propn|gulesh propn|bezæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	inja xxx . 518752_523872
+%xmor:	pro:dem|inja unk|xxx .
+%mor:	propn|inja .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	inja . 523872_525037
+%xmor:	pro:dem|inja .
+%mor:	propn|inja .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	inja ? 525037_525835
+%xmor:	pro:dem|inja ?
+%mor:	propn|inja ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx . 525835_531538
+%xmor:	unk|xxx .
+*AUN:	fekr kærd mixad bere mehmuni . 531538_545103
+%xmor:	pv:n|fekr v:lv|kærdæn&past&3s prog#v|xastæn&pres-3s subj#v|ræftæn&pres-3s n|mehmuni .
+%mor:	propn|fekr propn|kærd propn|mixad propn|bere propn|mehmuni .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	afærin xale . 545103_553881
+%xmor:	co|afærin n|xale .
+%mor:	propn|afærin propn|xale .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	vaqæn xub xxx . 553881_555677
+%xmor:	adv|vaqæn adj|xub unk|xxx .
+%mor:	propn|vaqæn propn|xub .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	hala mæsælæn mæn mamaneshæm , bashe ? 555677_558103
+%xmor:	adv|hala adv|mæsælæn pro|mæn n|maman-3S adv|hæm co|bashe ?
+%mor:	propn|hala propn|mæsælæn propn|mæn propn|mamaneshæm cm|cm punct|bashe ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|CONJ 5|1|PUNCT 6|1|PUNCT 7|1|PUNCT
+*AUN:	e , to mamanesh shodi ? 558103_559566
+%xmor:	co|e pro|to n|maman-3S v|shodæn&past-2s ?
+%mor:	propn|e cm|cm punct|to propn|mamanesh propn|shodi ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|1|PUNCT
+*CHI:	næ , mæsælæn . 559566_560946
+%xmor:	co|næ adv|mæsælæn .
+%mor:	propn|næ cm|cm propn|mæsælæn .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|1|PUNCT
+*AUN:	mæsælæn . 560946_561562
+%xmor:	adv|mæsælæn .
+%mor:	propn|mæsælæn .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	ælæki gulesh zædi ? 561562_564006
+%xmor:	adv|ælæki pv:n|gul-3s v:lv|zædæn&past-2s ?
+%mor:	propn|ælæki propn|gulesh propn|zædi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	hala +/. 564006_565552
+%xmor:	adv|hala +/.
+%mor:	propn|hala +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx . 565552_566682
+%xmor:	unk|xxx .
+*CHI:	hala +/. 566682_567580
+%xmor:	adv|hala +/.
+%mor:	propn|hala +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	sælam maman jun sælam . 567580_570590
+%xmor:	co|sælam n|maman n|jun co|sælam .
+%mor:	propn|sælam propn|maman propn|jun propn|sælam .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	xxx xxx pælæng dashtæm . 570590_573516
+%xmor:	unk|xxx unk|xxx n|pælæng v|dashtæn&past-1s .
+%mor:	propn|pælæng propn|dashtæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	afærin , che mamane xubi hæsti . 573516_576707
+%xmor:	co|afærin co|che n|maman-EZ adj|xub-DEF v|budæn&pres-2s .
+%mor:	propn|afærin cm|cm propn|che propn|mamane propn|xubi propn|hæsti .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|1|PUNCT
+*AUN:	maman , mæn xeili goshnæme . 576707_580099
+%xmor:	n|maman pro|mæn adv|xeili adj|goshnæm~v|budæn&PRES&3S .
+%mor:	propn|maman cm|cm propn|mæn propn|xeili propn|goshnæme .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|1|PUNCT
+*AUN:	mæn delæm sobhone mixad . 580099_581395
+%xmor:	pro|mæn n|del-1s n|sobhone prog#v|xastæn&pres-3s .
+%mor:	propn|mæn propn|delæm propn|sobhone propn|mixad .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*AUN:	xxx . 581395_584654
+%xmor:	unk|xxx .
+*AUN:	berim mixaim dur æz xxx sobhune boxorim . 584654_588228
+%xmor:	subj#v|ræftæn&pres-1p prog#v|xastæn&pres-1p adj|dur prep|æz unk|xxx n|sobhune subj#v|xordæn&pres-1p .
+%mor:	propn|berim propn|mixaim propn|dur propn|æz propn|sobhune propn|boxorim .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	mesle inja . 588228_589608
+%xmor:	adj|mesl-EZ pro:dem|inja .
+%mor:	propn|mesle propn|inja .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	mesle inja . 589608_592135
+%xmor:	adj|mesl-EZ pro:dem|inja .
+%mor:	propn|mesle propn|inja .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xxx . 592135_594913
+%xmor:	unk|xxx .
+*CHI:	mænæm xxx æz in kishmisha . 594913_599385
+%xmor:	pro|mæn adv|hæm unk|xxx prep|æz pro:dem|in n|kishmish-PL .
+%mor:	propn|mænæm propn|æz propn|in propn|kishmisha .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*AUN:	xxx . 599385_608894
+%xmor:	unk|xxx .
+*CHI:	fæqæt kishmish . 608894_613514
+%xmor:	adv|fæqæt n|kishmish .
+%mor:	propn|fæqæt propn|kishmish .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	ke in beshe ruze mæbada . 613514_619366
+%xmor:	conj|ke pro:dem|in subj#v|shodæn&pres-3s n|ruz-EZ n|mæbada .
+%mor:	propn|ke punct|in propn|beshe propn|ruze propn|mæbada .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|1|PUNCT
+*AUN:	mæbada ? 619366_620829
+%xmor:	n|mæbada ?
+%mor:	propn|mæbada ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	gerdu boxor . 620829_622459
+%xmor:	n|gerdu imp#v|xordæn&pres&2s .
+%mor:	propn|gerdu propn|boxor .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xxx gerdu dust daræn . 622459_625552
+%xmor:	unk|xxx n|gerdu pv:n|dust v:lv|dashtæn&pres-3p .
+%mor:	propn|gerdu propn|dust propn|daræn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	xxx . 625552_628792
+%xmor:	unk|xxx .
+*AUN:	che gærdænesh laqære , minu . 628792_635375
+%xmor:	co|che n|gærdæn-3S adj|laqær~v|budæn&PRES&3S n:prop|minu .
+%mor:	propn|che propn|gærdænesh propn|laqære cm|cm propn|minu .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT 5|1|CONJ 6|1|PUNCT
+*AUN:	in xxx kuchulu xxx . 635375_656588
+%xmor:	pro:dem|in unk|xxx adj|kuchulu unk|xxx .
+%mor:	propn|in propn|kuchulu .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xxx . 656588_665866
+%xmor:	unk|xxx .
+*AUN:	ax jun , sobhune . 665866_679347
+%xmor:	co|ax n|jun n|sobhune .
+%mor:	propn|ax propn|jun cm|cm propn|sobhune .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT 4|1|CONJ 5|1|PUNCT
+*CHI:	mixai berim mehmuni ? 679347_681227
+%xmor:	prog#v|xastæn&pres-2s subj#v|ræftæn&pres-1p n|mehmuni ?
+%mor:	propn|mixai propn|berim propn|mehmuni ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	are , berim mehmuni sobhune boxorim , minu . 681227_683338
+%xmor:	co|are subj#v|ræftæn&pres-1p n|mehmuni n|sobhune subj#v|xordæn&pres-1p n:prop|minu .
+%mor:	propn|are cm|cm propn|berim propn|mehmuni propn|sobhune propn|boxorim cm|cm propn|minu .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|PUNCT 8|1|CONJ 9|1|PUNCT
+*FAT:	shoma toxme morq mixorin ? 683338_684734
+%xmor:	pro|shoma n|toxm-EZ n|morq prog#v|xordæn&PRES-2P ?
+%mor:	propn|shoma propn|toxme propn|morq propn|mixorin ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*AUN:	mæn , næ . 684734_685847
+%xmor:	pro|mæn co|næ .
+%mor:	propn|mæn cm|cm propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|1|PUNCT
+*FAT:	xxx . 685847_687959
+%xmor:	unk|xxx .
+*CHI:	mæn xxx . 687959_689023
+%xmor:	pro|mæn unk|xxx .
+%mor:	propn|mæn .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bordæmesh mehmuni , tuye kuhe atæsh neshan . 689023_693893
+%xmor:	v|bordæn&PAST-1S-3S n|mehmuni prep|tu-EZ n|kuh-EZ n|atæsh n|neshan .
+%xcau:	$C:lex:bordæn
+%mor:	propn|bordæmesh propn|mehmuni cm|cm punct|tuye propn|kuhe propn|atæsh propn|neshan .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|5|PUNCT 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|1|PUNCT
+*CHI:	yæni bordæm tuye qaresh . 693893_695939
+%xmor:	adv|yæni v|bordæn&PAST-1S prep|tu-EZ n|qar-3S .
+%xcau:	$C:lex:bordæn
+%mor:	propn|yæni propn|bordæm propn|tuye propn|qaresh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*AUN:	mhm . 695939_697069
+%xmor:	co|mhm .
+%mor:	propn|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	che xub . 697069_698051
+%xmor:	adv|che adj|xub .
+%mor:	propn|che propn|xub .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	boro æzizæm . 698051_702357
+%xmor:	imp#v|ræftæn&pres&2s n|æziz-1S .
+%mor:	propn|boro propn|æzizæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	mæn bædæn miyam pishet . 702357_705680
+%xmor:	pro|mæn adv|bædæn prog#v|amædæn&PRES-1S prep|pish-2S .
+%mor:	propn|mæn propn|bædæn propn|miyam propn|pishet .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	hæminja +/. 705680_707060
+%xmor:	pro:dem|hæminja +/.
+%mor:	propn|hæminja +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	baba , un shomine roshæne xxx . 707060_709504
+%xmor:	n|baba pro:dem|un n|shomine adv|roshæn~v|budæn&PRES&3S unk|xxx .
+%mor:	propn|baba cm|cm propn|un propn|shomine propn|roshæne .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|1|PUNCT
+*CHI:	ræfte jeloye atish . 721125_723319
+%xmor:	v|ræftæn&past-3s adv|jelo-EZ n|atish .
+%mor:	propn|ræfte propn|jeloye propn|atish .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	ræfte atæsh neshan xxx . 723319_725597
+%xmor:	v|ræftæn&past-3s n|atæsh n|neshan unk|xxx .
+%mor:	propn|ræfte propn|atæsh propn|neshan .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	xxx . 725597_731865
+%xmor:	unk|xxx .
+*AUN:	bia bia . 731865_733976
+%xmor:	imp#v|amædæn&pres&2s imp#v|amædæn&pres&2s .
+%mor:	propn|bia propn|bia .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	bia enqædr næzdik næro . 733976_735689
+%xmor:	imp#v|amædæn&pres&2s adv|enqædr pv:adj|næzdik neg_imp#v:lv|ræftæn&pres&2s .
+%mor:	propn|bia propn|enqædr propn|næzdik propn|næro .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	næ , inja hæstæm . 735689_737384
+%xmor:	co|næ pro:dem|inja v|budæn&pres-1s .
+%mor:	propn|næ cm|cm propn|inja propn|hæstæm .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|1|PUNCT
+*AUN:	æz dur negah kon , chonke xætærnake . 737384_740726
+%xmor:	prep|æz adj|dur pv:n|negah v:lv|kærdæn&pres&imp&2s conj|chonke adj|xætærnak~v|budæn&PRES&3S .
+%mor:	propn|æz propn|dur propn|negah propn|kon cm|cm propn|chonke propn|xætærnake .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|1|PUNCT
+*CHI:	xxx mixastesh ba atish xxx . 740726_744781
+%xmor:	unk|xxx prog#v|xastæn&PAST-3S prep|ba n|atish unk|xxx .
+%mor:	propn|mixastesh propn|ba propn|atish .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	xxx . 744781_748356
+%xmor:	unk|xxx .
+*CHI:	e chi shod ke xamush shod . 748356_754457
+%xmor:	co|e wh|chi v|shodæn&past&3s conj|ke pv:adj|xamush v:lv|shodæn&past&3s .
+%mor:	propn|e propn|chi propn|shod propn|ke propn|xamush propn|shod .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*AUN:	xob , atish xxx ye moqe xamushe , ye moqe roshæne . 754457_758115
+%xmor:	co|xob n|atish unk|xxx qn|ye n|moqe adj|xamush~v|budæn&PRES&3S qn|ye n|moqe adj|roshæn~v|budæn&PRES&3S .
+%mor:	propn|xob cm|cm propn|atish propn|ye propn|moqe propn|xamushe cm|cm propn|ye propn|moqe propn|roshæne .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|8|PUNCT 8|3|CONJ 9|8|FLAT-NAME 10|8|FLAT-NAME 11|1|PUNCT
+*CHI:	yeki digæshæm vaseye mæn , bashe ? 758115_763485
+%xmor:	n|yeki adv|dige-3S adv|hæm prep|vase-EZ pro|mæn co|bashe ?
+%mor:	propn|yeki propn|digæshæm propn|vaseye propn|mæn cm|cm punct|bashe ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT 6|1|PUNCT 7|1|PUNCT
+*AUN:	mælume . 763485_765364
+%xmor:	adj|mælum~v|budæn&PRES&3S .
+%mor:	propn|mælume .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	kodum mixai ? 765364_783485
+%xmor:	wh|kodum prog#v|xastæn&pres-2s ?
+%mor:	propn|kodum propn|mixai ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	mæn un sægæro . 783485_784781
+%xmor:	pro|mæn pro:dem|un n|sæge-DEF ptl|ro .
+%mor:	propn|mæn propn|un propn|sægæro .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	un sægæro . 784781_785845
+%xmor:	pro:dem|un n|sæg-DEF ptl|ro .
+%mor:	propn|un propn|sægæro .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xxx . 785845_789670
+%xmor:	unk|xxx .
+*CHI:	bezar . 789670_792179
+%xmor:	imp#v|gozashtæn&pres&2s .
+%mor:	punct|bezar .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	injaro ke xeili +//. 792179_799095
+%xmor:	pro:dem|inja ptl|ro pro:rel|ke adv|xeili +//.
+%mor:	propn|injaro propn|ke propn|xeili +//.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	didi ? 799095_799743
+%xmor:	v|didæn&past-2s ?
+%mor:	propn|didi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	mæn chaiharo rixtæm Qotsi xanum . 799743_801622
+%xmor:	pro|mæn n|chai-PL ptl|ro v|rixtæn&past-1s n:prop|Qotsi n|xanum .
+%xcau:	$C:lex:rixtæn
+%mor:	propn|mæn propn|chaiharo propn|rixtæm propn|Qotsi propn|xanum .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*AUN:	bashe . 801622_802104
+%xmor:	co|bashe .
+%mor:	punct|bashe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&~singing . 802104_804864
+*AUN:	minu , miyay sobhune boxorim ? 804864_806095
+%xmor:	n:prop|minu prog#v|amædæn&PRES-2S n|sobhune subj#v|xordæn&pres-1p ?
+%mor:	propn|minu cm|cm propn|miyay propn|sobhune propn|boxorim ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|1|PUNCT
+*AUN:	are ? 806095_807058
+%xmor:	co|are ?
+%mor:	propn|are ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	<mixain hala dastanesho vaseye> [>] . 806974_810066
+%xmor:	prog#v|xastæn&PRES-2P adv|hala n|dastan-3S ptl|ro prep|vase-EZ .
+%mor:	propn|mixain propn|hala propn|dastanesho propn|vaseye .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	<shoma biyain , xxx behesh midæm> [<] . 810066_810964
+%xmor:	pro|shoma imp#v|amædæn&pres-2p unk|xxx prep|be-3S prog#v|dadæn&pres-1s .
+%mor:	propn|shoma propn|biyain cm|cm propn|behesh propn|midæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|1|PUNCT
+*CHI:	hala inæm xxx . 810964_814705
+%xmor:	adv|hala pro:dem|in adv|hæm unk|xxx .
+%mor:	propn|hala propn|inæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	xxx . 814705_838112
+%xmor:	unk|xxx .
+*FAT:	næ xxx . 838112_838927
+%xmor:	co|næ unk|xxx .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx . 838927_839659
+%xmor:	unk|xxx .
+*FAT:	in chie baba jun ? 839659_847288
+%xmor:	pro:dem|in wh|chi~v|budæn&PRES&3S n|baba n|jun ?
+%mor:	punct|in propn|chie propn|baba propn|jun ?
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|PUNCT
+*CHI:	bærchæsp . 847288_849084
+%xmor:	n|bærchæsp .
+%mor:	propn|bærchæsp .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	chi karesh mikoni bærchæspo ? 849084_851528
+%xmor:	wh|chi n|kar-3S prog#v|kærdæn&pres-2s n|bærchæsp ptl|ro ?
+%mor:	propn|chi propn|karesh propn|mikoni propn|bærchæspo ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	xxx . 851528_859259
+%xmor:	unk|xxx .
+*CHI:	xxx . 859259_862019
+%xmor:	unk|xxx .
+*CHI:	surætæmo nemixam beshuræm . 862019_865926
+%xmor:	n|suræt-1S ptl|ro neg_prog#v|xastæn&pres-1s subj#v|shostæn&PRES-1S .
+%mor:	propn|surætæmo propn|nemixam propn|beshuræm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	nemixai beshuri ? 865926_866740
+%xmor:	neg_prog#v|xastæn&pres-2s subj#v|shostæn&PRES-2S ?
+%mor:	propn|nemixai propn|beshuri ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	bia . 866740_874138
+%xmor:	imp#v|amædæn&pres&2s .
+%mor:	propn|bia .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mæn ino +//. 874138_875518
+%xmor:	pro|mæn pro:dem|in ptl|ro +//.
+%mor:	propn|mæn propn|ino +//.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	mæn in gorbehæro mixam . 875518_877064
+%xmor:	pro|mæn pro:dem|in n|gorbe-DEF ptl|ro prog#v|xastæn&pres-1s .
+%mor:	propn|mæn punct|in propn|gorbehæro propn|mixam .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|1|PUNCT
+*FAT:	bechæspun inja . 877064_880138
+%xmor:	imp#v|chæspandæn&PRES&2S pro:dem|inja .
+%xcau:	$C:mor:chæspandæn
+%mor:	propn|bechæspun propn|inja .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	bechæspun inja baba jun . 880138_883647
+%xmor:	imp#v|chæspandæn&PRES&2S pro:dem|inja n|baba n|jun .
+%xcau:	$C:mor:chæspandæn
+%mor:	propn|bechæspun propn|inja propn|baba propn|jun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	bia xale Qotsi . 883647_884944
+%xmor:	imp#v|amædæn&pres&2s n|xale n:prop|Qotsi .
+%mor:	propn|bia propn|xale propn|Qotsi .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	xale Qotsi dare sobhune mixore . 884944_886639
+%xmor:	n|xale n:prop|Qotsi v:mod|dashtæn&pres-3s n|sobhune prog#v|xordæn&pres-3s .
+%mor:	propn|xale propn|Qotsi propn|dare propn|sobhune propn|mixore .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	mæn ino mixam . 886639_889416
+%xmor:	pro|mæn pro:dem|in ptl|ro prog#v|xastæn&pres-1s .
+%mor:	propn|mæn propn|ino propn|mixam .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	to uno mixai ? 889416_890462
+%xmor:	pro|to pro:dem|un ptl|ro prog#v|xastæn&pres-2s ?
+%mor:	propn|to propn|uno propn|mixai ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	bæle . 890462_891194
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	befærmain . 891194_891842
+%xmor:	imp#v|færmaidæn&pres-2P .
+%mor:	propn|befærmain .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bædesh bia sobhune boxor a . 891842_893805
+%xmor:	adv|bæd-3S imp#v|amædæn&pres&2s n|sobhune imp#v|xordæn&pres&2s co|a .
+%mor:	propn|bædesh propn|bia propn|sobhune propn|boxor propn|a .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*FAT:	xxx . 893805_895351
+%xmor:	unk|xxx .
+*CHI:	mixai dastanesho +/. 895351_897795
+%xmor:	prog#v|xastæn&pres-2s n|dastan-3S ptl|ro +/.
+%mor:	propn|mixai propn|dastanesho +/.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	&~yell . 897795_901387
+*CHI:	næ , xxx . 901387_907655
+%xmor:	co|næ unk|xxx .
+%mor:	propn|næ cm|cm .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*CHI:	mæsælæn in sæge male mæn bud . 907655_909849
+%xmor:	adv|mæsælæn pro:dem|in n|sæg-DEF n|mal-EZ pro|mæn v|budæn&past&3s .
+%mor:	propn|mæsælæn punct|in propn|sæge propn|male propn|mæn propn|bud .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|1|PUNCT
+*CHI:	næ , mæsælæn un sæge male mæn bud . 909849_911978
+%xmor:	co|næ adv|mæsælæn pro:dem|un n|sæg-DEF n|mal-EZ pro|mæn v|budæn&past&3s .
+%mor:	propn|næ cm|cm propn|mæsælæn propn|un propn|sæge propn|male propn|mæn propn|bud .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|3|FLAT-NAME 9|1|PUNCT
+*FAT:	mæge færq mikone , babai ? 911978_913507
+%xmor:	adv|mæge pv:n|færq prog#v:lv|kærdæn&pres-3s n|babai ?
+%mor:	propn|mæge propn|færq propn|mikone cm|cm propn|babai ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT 5|1|CONJ 6|1|PUNCT
+*CHI:	næ , mæsælæn un sæge male mæn bud . 913507_915618
+%xmor:	co|næ adv|mæsælæn pro:dem|un n|sæg-DEF n|mal-EZ pro|mæn v|budæn&past&3s .
+%mor:	propn|næ cm|cm propn|mæsælæn propn|un propn|sæge propn|male propn|mæn propn|bud .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|3|FLAT-NAME 9|1|PUNCT
+*CHI:	un sæge , bashe ? 915618_917331
+%xmor:	pro:dem|un n|sæg-DEF co|bashe ?
+%mor:	propn|un propn|sæge cm|cm punct|bashe ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT 4|1|PUNCT 5|1|PUNCT
+*AUN:	bashe , xxx . 917331_918794
+%xmor:	co|bashe unk|xxx .
+%mor:	propn|bashe cm|cm .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT
+*CHI:	mæsælæn in inværi +//. 918794_922701
+%xmor:	adv|mæsælæn pro:dem|in adv|inværi +//.
+%mor:	propn|mæsælæn propn|in propn|inværi +//.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	xxx inværi +... 922701_924080
+%xmor:	unk|xxx adv|inværi +...
+%mor:	propn|inværi +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	bæqælesh nemichæspuni ? 924080_926673
+%xmor:	n|bæqæl-3S neg_prog#v|chæspandæn&PRES-2S ?
+%xcau:	$C:mor:chæspandæn
+%mor:	propn|bæqælesh propn|nemichæspuni ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	næ , injuri . 926673_927738
+%xmor:	co|næ adv|injuri .
+%mor:	propn|næ cm|cm propn|injuri .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+*CHI:	xob , bæd æz ævæl goft +"/. 927738_934886
+%xmor:	co|xob adv|bæd prep|æz n|ævæl v|goftæn&past&3s +"/.
+%mor:	propn|xob cm|cm propn|bæd propn|æz propn|ævæl propn|goft +"/.
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|1|PUNCT
+*CHI:	+" ey vai gorbæt dare miyofte ! 934886_937728
+%xmor:	co|ey co|vai n|gorbe-2S v:mod|dashtæn&pres-3s prog#v|oftadæn&PRES-3S !
+%mor:	propn|ey propn|vai propn|gorbæt propn|dare propn|miyofte !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	+" gorbæt pærid . 937728_939025
+%xmor:	n|gorbe-2S v|pæridæn&PAST&3S .
+%mor:	propn|gorbæt propn|pærid .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	+" gorbæt dare miyofte ! 939025_940654
+%xmor:	n|gorbe-2S v:mod|dashtæn&pres-3s prog#v|oftadæn&PRES-3S !
+%mor:	propn|gorbæt propn|dare propn|miyofte !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	gorbæsh dare miyofte ? 940654_942117
+%xmor:	n|gorbe-3S v:mod|dashtæn&pres-3s prog#v|oftadæn&PRES-3S ?
+%mor:	propn|gorbæsh propn|dare propn|miyofte ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	+< xxx gorbæsh dare miyofte ? 942117_943265
+%xmor:	unk|xxx n|gorbe-3S v:mod|dashtæn&pres-3s prog#v|oftadæn&PRES-3S ?
+%mor:	propn|gorbæsh propn|dare propn|miyofte ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	gorbæt dare miyofte ! 943265_946673
+%xmor:	n|gorbe-2S v:mod|dashtæn&pres-3s prog#v|oftadæn&PRES-3S !
+%mor:	propn|gorbæt propn|dare propn|miyofte !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	xxx . 946673_950497
+%xmor:	unk|xxx .
+*CHI:	bezaræm xxx . 950497_954070
+%xmor:	subj#v|gozashtæn&pres-1s unk|xxx .
+%mor:	propn|bezaræm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	babai , sandeviche nun pænir mixori ? 954070_957246
+%xmor:	n|babai n|sandevich-EZ n|nun n|pænir prog#v|xordæn&pres-2s ?
+%mor:	propn|babai cm|cm propn|sandeviche propn|nun propn|pænir propn|mixori ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|1|PUNCT
+*CHI:	næ [/] næ [/] næ . 957246_959191
+%xmor:	co|næ .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	hichkodum . 959191_959839
+%xmor:	adv|hichkodum .
+%mor:	propn|hichkodum .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	hichkodum . 959839_960969
+%xmor:	adv|hichkodum .
+%mor:	propn|hichkodum .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx . 960969_965210
+%xmor:	unk|xxx .
+*CHI:	sandeviche nun pænir . 965210_971293
+%xmor:	n|sandevich-EZ n|nun n|pænir .
+%mor:	propn|sandeviche propn|nun propn|pænir .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	bashe . 971293_972274
+%xmor:	co|bashe .
+%mor:	punct|bashe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sandeviche nun pænir mixoræm . 972274_974552
+%xmor:	n|sandevich-EZ n|nun n|pænir prog#v|xordæn&pres-1s .
+%mor:	propn|sandeviche propn|nun propn|pænir propn|mixoræm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	bashe . 974552_975467
+%xmor:	co|bashe .
+%mor:	punct|bashe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	boxor qævi shi ba pæræns jan betuni bejængi . 975467_980837
+%xmor:	imp#v|xordæn&pres&2s pv:adj|qævi v:lv|shodæn&pres-2s prep|ba n:prop|pæræns_jan subj#v|tævanestæn&pres-2s subj#v|jængidæn&pres-2s .
+%mor:	propn|boxor propn|qævi propn|shi propn|ba propn|pæræns propn|jan propn|betuni propn|bejængi .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*FAT:	xxx . 980837_983032
+%xmor:	unk|xxx .
+*CHI:	are . 983032_985309
+%xmor:	co|are .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx nun pænir væræqeia . 985309_989050
+%xmor:	unk|xxx n|nun n|pænir adj|væræqe-ADJR-PL .
+%mor:	propn|nun propn|pænir propn|væræqeia .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	bashe ba pænir væræqei dorost mikonæm . 989050_991559
+%xmor:	co|bashe prep|ba n|pænir adj|væræqe-ADJR pv:adj|dorost prog#v:lv|kærdæn&pres-1s .
+%xcau:	$C:lv:kærdæn
+%mor:	propn|bashe propn|ba propn|pænir propn|væræqei propn|dorost propn|mikonæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	xxx . 991559_1006522
+%xmor:	unk|xxx .
+*CHI:	mæn pæræns jan donbal mikonæm . 1006522_1009115
+%xmor:	pro|mæn n:prop|pæræns_jan pv:n|donbal prog#v:lv|kærdæn&pres-1s .
+%mor:	propn|mæn propn|pæræns propn|jan propn|donbal propn|mikonæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	xxx . 1009115_1011559
+%xmor:	unk|xxx .
+*CHI:	bia . 1011559_1014087
+%xmor:	imp#v|amædæn&pres&2s .
+%mor:	propn|bia .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xale Qodsi ? 1014087_1015467
+%xmor:	n|xale n:prop|Qodsi ?
+%mor:	propn|xale propn|Qodsi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	bæle . 1015467_1015967
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bayæd pæræns jano <dore mæn> [///] donbale mæn bekeshuni . 1015967_1022650
+%xmor:	v:mod|bayestæn&past&3s n:prop|pæræns_jano n|donbal-EZ pro|mæn subj#v|keshandæn&PRES-2S .
+%xcau:	$C:mor:keshandæn
+%mor:	propn|bayæd propn|pæræns propn|jano propn|donbale propn|mæn propn|bekeshuni .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*AUN:	e , bæd xxx mixore ? 1022650_1024529
+%xmor:	co|e adv|bæd unk|xxx prog#v|xordæn&pres-3s ?
+%mor:	propn|e cm|cm propn|bæd propn|mixore ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|1|PUNCT
+*CHI:	are . 1024529_1025427
+%xmor:	co|are .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	ahan . 1025427_1026824
+%xmor:	co|ahan .
+%mor:	propn|ahan .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	injuri . 1026824_1027473
+%xmor:	adv|injuri .
+%mor:	propn|injuri .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	xale dare sobhane mixore . 1027473_1029167
+%xmor:	n|xale v:mod|dashtæn&pres-3s n|sobhane prog#v|xordæn&pres-3s .
+%mor:	propn|xale propn|dare propn|sobhane propn|mixore .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	hala xxx +//. 1029167_1042667
+%xmor:	adv|hala unk|xxx +//.
+%mor:	propn|hala +//.
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	chai bærat berizæm minu jun ? 1042667_1047056
+%xmor:	n|chai prep|bæra-2s subj#v|rixtæn&PRES-1S n:prop|minu n|jun ?
+%xcau:	$C:lex:rixtæn
+%mor:	propn|chai propn|bærat propn|berizæm propn|minu propn|jun ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	xxx . 1047056_1056649
+%xmor:	unk|xxx .
+*FAT:	chi ? 1056649_1061352
+%xmor:	wh|chi ?
+%mor:	propn|chi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx ? 1061352_1072973
+%xmor:	unk|xxx ?
+*AUN:	xxx ? 1072973_1076149
+%xmor:	unk|xxx ?
+*CHI:	bæle . 1076149_1077362
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx . 1077362_1078825
+%xmor:	unk|xxx .
+*AUN:	xxx . 1078825_1081685
+%xmor:	unk|xxx .
+*CHI:	oftad . 1081685_1083214
+%xmor:	v|oftadæn&past&3s .
+%mor:	propn|oftad .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	oftad ? 1083214_1084195
+%xmor:	v|oftadæn&past&3s ?
+%mor:	propn|oftad ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx hæm oftad ? 1084195_1085658
+%xmor:	unk|xxx adv|hæm v|oftadæn&past&3s ?
+%mor:	propn|hæm propn|oftad ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	bæle . 1085658_1086306
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx . 1086306_1088584
+%xmor:	unk|xxx .
+*FAT:	ox , baba un ærusæk vaqæn momkene unjuri beshkæne a . 1088584_1095167
+%xmor:	co|ox n|baba pro:dem|un n|ærusæk adv|vaqæn adj|momken~v|budæn&PRES&3S adv|unjuri subj#v|shekæstæn&pres-3s co|a .
+%mor:	propn|ox cm|cm propn|baba propn|un propn|ærusæk propn|vaqæn propn|momkene propn|unjuri propn|beshkæne punct|a .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|3|FLAT-NAME 9|3|FLAT-NAME 10|3|PUNCT 11|1|PUNCT
+*FAT:	arusæke nærm nist ke . 1095167_1101352
+%xmor:	n|arusæk-DEF adj|nærm v|budæn&pres&neg&3s pro:rel|ke .
+%mor:	propn|arusæke propn|nærm propn|nist punct|ke .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT 5|1|PUNCT
+*CHI:	nærm bud ke . 1101352_1103464
+%xmor:	adj|nærm v|budæn&past&3s pro:rel|ke .
+%mor:	propn|nærm propn|bud propn|ke .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	nærm bud ke . 1103464_1105658
+%xmor:	adj|nærm v|budæn&past&3s pro:rel|ke .
+%mor:	propn|nærm propn|bud propn|ke .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	xxx . 1105658_1107204
+%xmor:	unk|xxx .
+*AUN:	ostoxunash mishkæne . 1107204_1108250
+%xmor:	n|ostoxun-PL-3S prog#v|shekæstæn&pres-3s .
+%mor:	propn|ostoxunash propn|mishkæne .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	ostoxun bændi dare . 1108250_1110213
+%xmor:	n|ostoxunbændi v|dashtæn&pres-3s .
+%mor:	propn|ostoxun propn|bændi propn|dare .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	xxx . 1110213_1111444
+%xmor:	unk|xxx .
+*CHI:	unæm ostoxune maro dare ? 1111444_1115185
+%xmor:	pro:dem|un adv|hæm n|ostoxun-EZ pro|ma ptl|ro v|dashtæn&pres-3s ?
+%mor:	propn|unæm propn|ostoxune propn|maro propn|dare ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	næ , ostoxun , ye seri felez dare , ke unjuri dæst o pasho saf negær dashte . 1115185_1122351
+%xmor:	co|næ n|ostoxun qn|ye n|seri n|felez v|dashtæn&pres-3s conj|ke adv|unjuri n|dæst conj|o n|pa-3S ptl|ro adj|saf pv:n|negær v:lv|dashtæn&PAST-3S .
+%mor:	propn|næ cm|cm propn|ostoxun cm|cm propn|ye propn|seri propn|felez propn|dare cm|cm propn|ke propn|unjuri propn|dæst propn|o propn|pasho propn|saf propn|negær propn|dashte .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|PUNCT 5|3|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|5|FLAT-NAME 9|10|PUNCT 10|5|CONJ 11|10|FLAT-NAME 12|10|FLAT-NAME 13|10|FLAT-NAME 14|10|FLAT-NAME 15|10|FLAT-NAME 16|10|FLAT-NAME 17|10|FLAT-NAME 18|1|PUNCT
+*FAT:	unaro xxx pærtabesh koni xxx . 1122351_1126258
+%xmor:	pro:dem|un-PL ptl|ro unk|xxx pv:adj|pærtab-3S v:lv|kærdæn&pres-2s unk|xxx .
+%mor:	propn|unaro propn|pærtabesh propn|koni .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	dige næræqse bærat . 1126258_1128369
+%xmor:	adv|dige neg#v|ræqsidæn&PRES-3S prep|bæra-2s .
+%mor:	propn|dige propn|næræqse propn|bærat .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	dige næræqse bærat . 1128369_1129916
+%xmor:	adv|dige neg#v|ræqsidæn&PRES-3S prep|bæra-2s .
+%mor:	propn|dige propn|næræqse propn|bærat .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	bebinæm . 1129916_1132443
+%xmor:	subj#v|didæn&pres-1s .
+%mor:	propn|bebinæm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	tu dæstesh . 1132443_1136915
+%xmor:	prep|tu n|dæst-3S .
+%mor:	propn|tu propn|dæstesh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	ei vai . 1136915_1139841
+%xmor:	co|ei co|vai .
+%mor:	propn|ei propn|vai .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	xxx . 1139841_1141554
+%xmor:	unk|xxx .
+*CHI:	&~singing . 1141554_1160091
+*CHI:	nish næzænæn . 1160091_1163498
+%xmor:	pv:n|nish neg#v:lv|zædæn&PRES-3P .
+%mor:	propn|nish propn|næzænæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	&~yell . 1163498_1167970
+*CHI:	nishæm zæd . 1167970_1168520
+%xmor:	pv:n|nish-1S v:lv|zædæn&PAST&3S .
+%mor:	propn|nishæm propn|zæd .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	domæmo nish zæd . 1168520_1169600
+%xmor:	n|dom-1S ptl|ro pv:n|nish v:lv|zædæn&PAST&3S .
+%mor:	propn|domæmo propn|nish propn|zæd .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	domæmo nish zæd . 1169600_1171146
+%xmor:	n|dom-1S ptl|ro pv:n|nish v:lv|zædæn&PAST&3S .
+%mor:	propn|domæmo propn|nish propn|zæd .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	domæmo nish zæd . 1171146_1172942
+%xmor:	n|dom-1S ptl|ro pv:n|nish v:lv|zædæn&PAST&3S .
+%mor:	propn|domæmo propn|nish propn|zæd .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	dome kio nish zæd baba jun ? 1172942_1176016
+%xmor:	n|dom-EZ wh|ki ptl|ro pv:n|nish v:lv|zædæn&PAST&3S n|baba n|jun ?
+%mor:	propn|dome propn|kio propn|nish propn|zæd propn|baba propn|jun ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*FAT:	hm ? 1176016_1178062
+%xmor:	co|hm ?
+%mor:	propn|hm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	hala bebin xxx . 1178062_1181654
+%xmor:	adv|hala imp#v|didæn&pres&2s unk|xxx .
+%mor:	propn|hala propn|bebin .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	jævab nemide . 1181654_1182301
+%xmor:	pv:n|jævab neg_prog#v:lv|dadæn&pres-3s .
+%mor:	propn|jævab propn|nemide .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	hala ki mixast pænir væræqei boxore minu ? 1182301_1193423
+%xmor:	adv|hala wh|ki prog#v|xastæn&past&3s n|pænir adj|væræqe-ADJR subj#v|xordæn&pres-3s n:prop|minu ?
+%mor:	propn|hala propn|ki propn|mixast propn|pænir propn|væræqei propn|boxore propn|minu ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*CHI:	mæn ! 1193423_1193939
+%xmor:	pro|mæn !
+%mor:	propn|mæn !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	næ [/] næ [/] næ . 1193939_1197396
+%xmor:	co|næ .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	mersi . 1197396_1200655
+%xmor:	co|mersi .
+%mor:	propn|mersi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	æz unvær bia sændæli biar . 1200655_1203729
+%xmor:	prep|æz adv|unvær imp#v|amædæn&pres&2s n|sændæli imp#v|aværdæn&pres&2s .
+%xcau:	$C:lex:aværdæn
+%mor:	propn|æz propn|unvær propn|bia propn|sændæli propn|biar .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*FAT:	hala ye xorde chai boxor gælut baz she . 1203729_1206174
+%xmor:	adv|hala qn|ye n|xorde n|chai imp#v|xordæn&pres&2s n|gælu-2S pv:adj|baz v:lv|shodæn&pres-3s .
+%mor:	propn|hala propn|ye propn|xorde propn|chai propn|boxor propn|gælut propn|baz propn|she .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*FAT:	hala sandevich pænir væræqei +/. 1206174_1208718
+%xmor:	adv|hala n|sandevich n|pænir adj|væræqe-ADJR +/.
+%mor:	propn|hala propn|sandevich propn|pænir propn|væræqei +/.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	xxx bia . 1208718_1209664
+%xmor:	unk|xxx imp#v|amædæn&pres&2s .
+%mor:	propn|bia .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	biain boxorin , xeili xoshmæzæst . 1209664_1211544
+%xmor:	imp#v|amædæn&PRES-2P subj#v|xordæn&PRES-2P adv|xeili adj|xoshmæze~v|budæn&PRES&3S .
+%mor:	propn|biain propn|boxorin cm|cm propn|xeili propn|xoshmæzæst .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|1|PUNCT
+*CHI:	xxx . 1211544_1212358
+%xmor:	unk|xxx .
+*CHI:	mæn unyeki xxx bia . 1212358_1224794
+%xmor:	pro|mæn pro:dem|unyeki unk|xxx imp#v|amædæn&pres&2s .
+%mor:	propn|mæn propn|unyeki propn|bia .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	unyeki . 1224794_1226488
+%xmor:	pro:dem|unyeki .
+%mor:	propn|unyeki .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	unyeki dige . 1226488_1230145
+%xmor:	pro:dem|unyeki pro:rel|dige .
+%mor:	propn|unyeki propn|dige .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	chi kar mikoni baba ? 1230145_1242099
+%xmor:	wh|chi n|kar prog#v|kærdæn&pres-2s n|baba ?
+%mor:	propn|chi propn|kar propn|mikoni propn|baba ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	daræm +/. 1242099_1243729
+%xmor:	v:mod|dashtæn&pres-1s +/.
+%mor:	propn|daræm +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	in xxx bazitun chie ? 1243729_1245589
+%xmor:	pro:dem|in unk|xxx n|bazi-2P wh|chi~v|budæn&PRES&3S ?
+%mor:	punct|in propn|bazitun propn|chie ?
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|PUNCT
+*CHI:	xob , baba , in tamashagær hæm nist . 1245589_1249081
+%xmor:	co|xob n|baba pro:dem|in n|tamashagær adv|hæm v|budæn&pres&neg&3s .
+%mor:	propn|xob cm|cm propn|baba cm|cm punct|in propn|tamashagær propn|hæm punct|nist .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|PUNCT 5|6|PUNCT 6|3|CONJ 7|6|FLAT-NAME 8|6|PUNCT 9|1|PUNCT
+*CHI:	in hævas pærtkone pæræns jane . 1249081_1253154
+%xmor:	pro:dem|in n|+n|hævas+n|pærtkon-EZ n:prop|pæræns_jan~v|budæn&PRES&3S .
+%mor:	punct|in propn|hævas propn|pærtkone propn|pæræns propn|jane .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|2|PUNCT
+*FAT:	e , hævæs pært kone pæræns jane in ? 1253154_1256330
+%xmor:	co|e n|+n|hævas+n|pærtkon-EZ n:prop|pæræns_jan~v|budæn&PRES&3S pro:dem|in ?
+%mor:	propn|e cm|cm propn|hævæs propn|pært propn|kone propn|pæræns propn|jane punct|in ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|1|PUNCT 9|1|PUNCT
+*CHI:	bæle , bayæd hævasesho pært kone . 1256330_1259172
+%xmor:	co|bæle v:mod|bayestæn&past&3s n|hævas-3S ptl|ro pv:adj|pært v:lv|kærdæn&pres-3s .
+%mor:	propn|bæle cm|cm propn|bayæd propn|hævasesho propn|pært propn|kone .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|1|PUNCT
+*AUN:	xxx . 1259172_1263246
+%xmor:	unk|xxx .
+*CHI:	chonke , æge hævasesho pært kone , mitune be rahæti dær bere . 1263246_1269762
+%xmor:	conj|chonke conj|æge n|hævas-3S ptl|o pv:adj|pært v:lv|kærdæn&pres-3s prog#v|tævanestæn&pres-3s prep|be adv|rahæti pv:prep|dær subj#v:lv|ræftæn&pres-3s .
+%mor:	propn|chonke cm|cm propn|æge propn|hævasesho propn|pært propn|kone cm|cm punct|mitune propn|be propn|rahæti propn|dær propn|bere .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|5|FLAT-NAME 7|9|PUNCT 8|9|PUNCT 9|1|CONJ 10|9|FLAT-NAME 11|9|FLAT-NAME 12|9|FLAT-NAME 13|1|PUNCT
+*FAT:	ki dær bere , babai ? 1269762_1271209
+%xmor:	wh|ki pv:prep|dær subj#v:lv|ræftæn&pres-3s n|babai ?
+%mor:	propn|ki propn|dær propn|bere cm|cm propn|babai ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT 5|1|CONJ 6|1|PUNCT
+*CHI:	æsbe . 1271209_1272191
+%xmor:	n|æsb-DEF .
+%mor:	propn|æsbe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	asbe ? 1272191_1273172
+%xmor:	n|asb-DEF ?
+%mor:	propn|asbe ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	karesh ine ke hævase pæræns jano pært kone bæd xodesh dær bere ? 1273172_1277477
+%xmor:	n|kar-3S pro:dem|in~v|budæn&PRES&3S conj|ke n|hævas-EZ n:prop|pæræns_jano pv:adj|pært v:lv|kærdæn&pres-3s adv|bæd n|xod-3s pv:prep|dær subj#v:lv|ræftæn&pres-3s ?
+%mor:	propn|karesh propn|ine propn|ke propn|hævase propn|pæræns propn|jano propn|pært propn|kone propn|bæd propn|xodesh propn|dær propn|bere ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|FLAT-NAME 11|1|FLAT-NAME 12|1|FLAT-NAME 13|1|PUNCT
+*FAT:	che kare æjibi . 1277477_1282514
+%xmor:	co|che n|kar-EZ adj|æjib-DEF .
+%mor:	propn|che propn|kare propn|æjibi .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	næ , hævase peræns jano pært kone . 1282514_1288782
+%xmor:	co|næ n|hævas-EZ n:prop|peræns_jan ptl|ro pv:adj|pært v:lv|kærdæn&pres-3s .
+%mor:	propn|næ cm|cm propn|hævase propn|peræns propn|jano propn|pært propn|kone .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|1|PUNCT
+*FAT:	ahan , xob mænæm hæmino goftæm . 1288782_1291292
+%xmor:	co|ahan co|xob pro|mæn adv|hæm pro:dem|hæmin ptl|ro v|goftæn&past-1s .
+%mor:	propn|ahan cm|cm propn|xob propn|mænæm propn|hæmino propn|goftæm .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|1|PUNCT
+*FAT:	hævase peræns jano pært kone bæd xodesh færar kone , han ? 1291292_1295616
+%xmor:	n|hævas-EZ n:prop|peræns_jan ptl|ro pv:adj|pært v:lv|kærdæn&pres-3s adv|bæd n|xod-3s pv:n|færar v:lv|kærdæn&pres-3s co|han ?
+%mor:	propn|hævase propn|peræns propn|jano propn|pært propn|kone propn|bæd propn|xodesh propn|færar propn|kone cm|cm propn|han ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|7|FLAT-NAME 9|7|FLAT-NAME 10|1|PUNCT 11|1|CONJ 12|1|PUNCT
+*CHI:	bæle . 1295616_1297394
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mænæm komækesh mikonæm , chon <færar kærdæn> [///] tu in hæva færar kærdæn +//. 1297394_1303079
+%xmor:	pro|mæn adv|hæm pv:n|komæk-3S prog#v:lv|kærdæn&pres-1s conj|chon prep|tu pro:dem|in n|hæva pv:n|færar v:lv|kærdæn&PAST-3P +//.
+%mor:	propn|mænæm propn|komækesh propn|mikonæm cm|cm punct|chon propn|tu punct|in propn|hæva propn|færar propn|kærdæn +//.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|6|PUNCT 5|6|PUNCT 6|1|CONJ 7|8|PUNCT 8|6|CONJ 9|8|FLAT-NAME 10|8|FLAT-NAME 11|1|PUNCT
+*CHI:	bebin ! 1303079_1303893
+%xmor:	imp#v|didæn&pres&2s !
+%mor:	propn|bebin !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bebin ! 1303893_1305773
+%xmor:	imp#v|didæn&pres&2s !
+%mor:	propn|bebin !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&~yell . 1305773_1308931
+*FAT:	in ahænge bi sær o seda bashe rahætær nist , ke hævase peræns jan hæm pært beshe , hævasemun jæm næshe behesh ke næxad pært beshe ? 1308931_1318357
+%xmor:	pro:dem|in n|ahæng-EZ adj|bi n|sær conj|o n|seda v|budæn&SUBJ&PRES-3S adj|rahæt-cp v|budæn&pres&neg&3s conj|ke n|hævas-EZ n:prop|peræns_jan adv|hæm pv:adj|pært subj#v:lv|shodæn&pres-3s n|hævas-1P pv:adj|jæm neg#v:lv|shodæn&pres-3s prep|be-3S conj|ke neg#v|xastæn&PRES&3S pv:adj|pært subj#v:lv|shodæn&pres-3s ?
+%mor:	punct|in propn|ahænge propn|bi propn|sær propn|o propn|seda punct|bashe propn|rahætær propn|nist cm|cm propn|ke propn|hævase propn|peræns propn|jan propn|hæm propn|pært punct|beshe cm|cm propn|hævasemun propn|jæm propn|næshe propn|behesh propn|ke propn|næxad propn|pært punct|beshe ?
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|2|FLAT-NAME 7|8|PUNCT 8|2|CONJ 9|8|FLAT-NAME 10|11|PUNCT 11|8|CONJ 12|11|FLAT-NAME 13|11|FLAT-NAME 14|11|FLAT-NAME 15|14|FLAT-NAME 16|15|FLAT-NAME 17|19|PUNCT 18|19|PUNCT 19|2|CONJ 20|19|FLAT-NAME 21|19|FLAT-NAME 22|21|FLAT-NAME 23|22|FLAT-NAME 24|19|FLAT-NAME 25|24|FLAT-NAME 26|25|PUNCT 27|2|PUNCT
+*CHI:	&~singing . 1318357_1329097
+*CHI:	mæn budæm ke xordæm . 1329097_1332106
+%xmor:	pro|mæn v|budæn&past-1s conj|ke v|xordæn&past-1s .
+%mor:	propn|mæn propn|budæm propn|ke propn|xordæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	xoshmæze bud . 1332106_1333569
+%xmor:	adj|xoshmæze v|budæn&past&3s .
+%mor:	propn|xoshmæze propn|bud .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	xoshmæze bud . 1333569_1334218
+%xmor:	adj|xoshmæze v|budæn&past&3s .
+%mor:	propn|xoshmæze propn|bud .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	mersi xxx . 1334218_1336495
+%xmor:	co|mersi unk|xxx .
+%mor:	propn|mersi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	dæstforusha umædæm . 1336495_1341930
+%xmor:	n|dæstforush-PL v|amædæn&PAST-1S .
+%mor:	propn|dæstforusha propn|umædæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	dæstforusha ? 1341930_1344041
+%xmor:	n|dæstforush-PL ?
+%mor:	propn|dæstforusha ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	dæstforusha ? 1344041_1346403
+%xmor:	n|dæstforush-PL ?
+%mor:	propn|dæstforusha ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	are , ye aqai ba bolændgu inja dare seda mikone . 1346403_1349495
+%xmor:	co|are qn|ye n|aqa-DEF prep|ba n|bolændgu pro:dem|inja v:mod|dashtæn&pres-3s pv:n|seda prog#v:lv|kærdæn&pres-3s .
+%mor:	propn|are cm|cm propn|ye propn|aqai propn|ba propn|bolændgu propn|inja propn|dare propn|seda propn|mikone .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|3|FLAT-NAME 9|3|FLAT-NAME 10|3|FLAT-NAME 11|1|PUNCT
+*FAT:	xxx . 1349495_1351689
+%xmor:	unk|xxx .
+*CHI:	ta bolændu ? 1351689_1354449
+%xmor:	prep|ta n|bolændu ?
+%mor:	propn|ta propn|bolændu ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	næ æzizæm . 1355032_1355763
+%xmor:	co|næ n|æziz-1S .
+%mor:	propn|næ propn|æzizæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	ba bolændgu . 1355763_1356495
+%xmor:	prep|ba n|bolændgu .
+%mor:	propn|ba propn|bolændgu .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	ba bolændgu . 1356495_1356845
+%xmor:	prep|ba n|bolændgu .
+%mor:	propn|ba propn|bolændgu .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	ba bolændgu . 1356845_1358939
+%xmor:	prep|ba n|bolændgu .
+%mor:	propn|ba propn|bolændgu .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	are , ye chizi mizaræn inja jeloye dæhæneshun +/. 1358939_1361865
+%xmor:	co|are qn|ye n|chiz-DEF prog#v|gozashtæn&pres-3p pro:dem|inja adv|jelo-EZ n|dæhæn-2P +/.
+%xcau:	$C:lex:gozashtæn
+%mor:	propn|are cm|cm propn|ye propn|chizi propn|mizaræn propn|inja propn|jeloye propn|dæhæneshun +/.
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|3|FLAT-NAME 9|1|PUNCT
+*FAT:	bolændgu baba jun xxx . 1361865_1362680
+%xmor:	n|bolændgu n|baba n|jun unk|xxx .
+%mor:	propn|bolændgu propn|baba propn|jun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	yæxchale kohne xæridarim . 1362680_1365606
+%xmor:	n|yæxchal-EZ adj|kohne adj|xæridar~v|budæn&PRES&1P .
+%mor:	propn|yæxchale propn|kohne propn|xæridarim .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*AUN:	ahænpare . 1365606_1367402
+%xmor:	n|ahænpare .
+%mor:	propn|ahænpare .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ahænpare ? 1367402_1369198
+%xmor:	n|ahænpare ?
+%mor:	propn|ahænpare ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	chizaye xærab shode shekæste . 1369198_1371392
+%xmor:	n|chiz-PL-EZ pv:adj|xærab v:lv:ptcp|shodæn-PTCP v:ptcp|shekæstæn-PTCP .
+%mor:	propn|chizaye propn|xærab propn|shode propn|shekæste .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	bia inja baba jun . 1371392_1375466
+%xmor:	imp#v|amædæn&pres&2s pro:dem|inja n|baba n|jun .
+%mor:	propn|bia propn|inja propn|baba propn|jun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	yæxchale xærab shode ? 1375466_1377013
+%xmor:	n|yæxchal-EZ pv:adj|xærab v:lv:ptcp|shodæn-ptcp ?
+%mor:	propn|yæxchale propn|xærab punct|shode ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT 4|1|PUNCT
+*AUN:	are . 1377013_1377976
+%xmor:	co|are .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	yæxchale [/] yæxchale xærab shode vase chi ? 1377976_1382365
+%xmor:	n|yæxchal-EZ pv:adj|xærab v:lv:ptcp|shodæn-PTCP conj|vase wh|chi ?
+%mor:	propn|yæxchale propn|xærab propn|shode propn|vase propn|chi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*FAT:	yæxchale xærab shode ro mibæræn dorost mikonæn dobare mifrushæn . 1382365_1387253
+%xmor:	n|yæxchal-EZ pv:adj|xærab v:lv:ptcp|shodæn-PTCP ptl|ro prog#v|bordæn&pres-3p pv:adj|dorost prog#v:lv|kærdæn&pres-3p adv|dobare prog#v|foruxtæn&PRES-3P .
+%xcau:	$C:lex:bordæn $C:lv:kærdæn $C:lex:foruxtæn
+%mor:	propn|yæxchale propn|xærab propn|shode propn|ro propn|mibæræn propn|dorost propn|mikonæn propn|dobare propn|mifrushæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|PUNCT
+*FAT:	ya xxx ro dær miyaræn , michæspunæn unayi ke saleme , mizænæn be yæxchalaye dige . 1387253_1394834
+%xmor:	conj|ya unk|xxx ptl|ro prep|dær prog#v|aværdæn&PRES-3P prog#v|chæspandæn&pres-3p pro:dem|un-PL-DEF conj|ke adj|salem~v|budæn&PRES&3S prog#v|zædæn&PRES-3P prep|be n|yæxchal-PL-DEF adv|dige .
+%xcau:	$C:mor:chæspandæn
+%mor:	propn|ya propn|ro propn|dær propn|miyaræn cm|cm propn|michæspunæn propn|unayi propn|ke propn|saleme cm|cm propn|mizænæn propn|be propn|yæxchalaye propn|dige .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|6|FLAT-NAME 9|6|FLAT-NAME 10|11|PUNCT 11|6|CONJ 12|11|FLAT-NAME 13|11|FLAT-NAME 14|11|FLAT-NAME 15|1|PUNCT
+*FAT:	fæhmidi chi kar mikonæn ? 1394834_1404160
+%xmor:	v|fæhmidæn&PAST-2S wh|chi n|kar prog#v|kærdæn&pres-3p ?
+%mor:	propn|fæhmidi propn|chi propn|kar propn|mikonæn ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	bæle . 1404160_1404974
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	chejuri ino baz mikonæn ? 1404974_1407003
+%xmor:	adv|chejuri pro:Dem|in ptl|ro pv:adj|baz prog#v:lv|kærdæn&pres-3p ?
+%xcau:	$C:lv:kærdæn
+%mor:	propn|chejuri propn|ino propn|baz propn|mikonæn ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	chio baz mikonæn baba jun ? 1407003_1408716
+%xmor:	n|chi ptl|ro pv:adj|baz prog#v:lv|kærdæn&pres-3p n|baba n|jun ?
+%xcau:	$C:lv:kærdæn
+%mor:	propn|chio propn|baz propn|mikonæn propn|baba propn|jun ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	ino ? 1408716_1409780
+%xmor:	pro:dem|in ptl|ro ?
+%mor:	punct|ino ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	a , un giræro ? 1409780_1411475
+%xmor:	co|a pro:dem|un n|gire-DEF ptl|ro ?
+%mor:	propn|a cm|cm propn|un propn|giræro ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|1|PUNCT
+*CHI:	inesho feshar midæn ? 1411475_1415132
+%xmor:	pro:dem|in-3S ptl|ro pv:n|feshar prog#v:lv|dadæn&pres-3p ?
+%mor:	propn|inesho propn|feshar propn|midæn ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	ye qolop chai boxor ta behet begæm . 1415132_1417178
+%xmor:	qn|ye n|qolop n|chai imp#v|xordæn&pres&2s prep|ta prep|be-2s subj#v|goftæn&pres-1s .
+%mor:	propn|ye propn|qolop propn|chai propn|boxor propn|ta propn|behet propn|begæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*AUN:	xxx . 1417178_1420984
+%xmor:	unk|xxx .
+*FAT:	in dota ro miyaræn inja , bæd do væresh gir mikone . 1420984_1426437
+%xmor:	pro:dem|in qn|do-qn ptl|ro prog#v|aværdæn&PRES-3P pro:dem|inja adv|bæd num|do n|vær-3S pv:n|gir prog#v:lv|kærdæn&pres-3s .
+%xcau:	$C:lex:aværdæn
+%mor:	punct|in propn|dota propn|ro propn|miyaræn propn|inja cm|cm propn|bæd propn|do propn|væresh propn|gir propn|mikone .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|7|PUNCT 7|2|CONJ 8|7|FLAT-NAME 9|7|FLAT-NAME 10|7|FLAT-NAME 11|7|FLAT-NAME 12|2|PUNCT
+*FAT:	inaro feshar midæn , bæd dæhæne gire baz mishe . 1426437_1428715
+%xmor:	pro:Dem|in-PL ptl|ro pv:n|feshar prog#v:lv|dadæn&pres-3p adv|bæd n|dæhæn-EZ n|gire pv:adj|baz prog#v:lv|shodæn&pres-3s .
+%mor:	propn|inaro propn|feshar propn|midæn cm|cm propn|bæd propn|dæhæne propn|gire propn|baz punct|mishe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|7|FLAT-NAME 9|1|PUNCT 10|1|PUNCT
+*CHI:	xob . 1428715_1429927
+%xmor:	co|xob .
+%mor:	propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	pæs , in dota +... 1429927_1434733
+%xmor:	conj|pæs pro:dem|in qn|do-qn +...
+%mor:	propn|pæs cm|cm propn|in propn|dota +...
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|1|PUNCT
+*FAT:	væqti unjuri bezaræn , bæd nemixan baz konæn . 1434733_1438474
+%xmor:	adv|væqti adv|unjuri subj#v|gozashtæn&pres-3p adv|bæd neg_prog#v|xastæn&PRES-3P pv:adj|baz v:lv|kærdæn&pres-3p .
+%xcau:	$C:lv:kærdæn
+%mor:	propn|væqti propn|unjuri propn|bezaræn cm|cm propn|bæd propn|nemixan propn|baz propn|konæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|5|FLAT-NAME 9|1|PUNCT
+*AUN:	xxx . 1438474_1444010
+%xmor:	unk|xxx .
+*AUN:	e , yæni momkene in Obama bærænde she , xanume bærænde næshe ? 1444010_1451592
+%xmor:	co|e adv|yæni adj|momken~v|budæn&PRES&3S pro:dem|in n:prop|Obama pv:n|bærænde v:lv|shodæn&pres-3s n|xanum-DEF pv:n|bærænde neg#v:lv|shodæn&pres-3s ?
+%mor:	propn|e cm|cm propn|yæni propn|momkene propn|in propn|Obama propn|bærænde propn|she cm|cm propn|xanume propn|bærænde propn|næshe ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|3|FLAT-NAME 9|10|PUNCT 10|3|CONJ 11|10|FLAT-NAME 12|10|FLAT-NAME 13|1|PUNCT
+*FAT:	are momkene . 1451592_1453619
+%xmor:	co|are adj|momken~v|budæn&PRES&3S .
+%mor:	propn|are propn|momkene .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*AUN:	jævunæm hæst . 1453619_1455165
+%xmor:	adj|jævun adv|hæm v|budæn&pres&3s .
+%mor:	propn|jævunæm propn|hæst .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	felæn ke in jelotære , monteha , nemidunæm . 1455165_1457609
+%xmor:	adv|felæn conj|ke pro:dem|in adj|jelo-CP~v|budæn&PRES&3S n|monteha neg_prog#v|danestæn&pres-1s .
+%mor:	propn|felæn propn|ke propn|in propn|jelotære cm|cm propn|monteha cm|cm propn|nemidunæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|PUNCT 8|6|PUNCT 9|1|PUNCT
+*AUN:	xxx siapust . 1457609_1462813
+%xmor:	unk|xxx adj|siapust .
+%mor:	propn|siapust .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ye bæcheye siahpust . 1462813_1467600
+%xmor:	qn|ye n|bæche-EZ n|siahpust .
+%mor:	propn|ye propn|bæcheye propn|siahpust .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	siapustha . 1467600_1473369
+%xmor:	adj|siapust-PL .
+%mor:	propn|siapustha .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	ævælin dore entexabate moqædæmati . 1473369_1480285
+%xmor:	adv|ævælin n|dore n|entexabat-EZ adj|moqædæmat-ADJR .
+%mor:	propn|ævælin propn|dore propn|entexabate propn|moqædæmati .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*AUN:	yæni ævæl hæmintori ælæki xxx . 1480285_1483776
+%xmor:	adv|yæni adv|ævæl adv|hæmintori adv|ælæki unk|xxx .
+%mor:	propn|yæni propn|ævæl propn|hæmintori propn|ælæki .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	xxx tu hezbe . 1483776_1484359
+%xmor:	unk|xxx prep|tu n|hezb~v|budæn&PRES&3S .
+%mor:	propn|tu propn|hezbe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	bæraye moshæxæs shodæne kandide xodeshun . 1484359_1489396
+%xmor:	prep|bæra-EZ pv:adj|moshæxæs v:lv:inf|shodæn-INF-EZ n|kandid-EZ n|xod-3P .
+%mor:	propn|bæraye propn|moshæxæs propn|shodæne propn|kandide propn|xodeshun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*AUN:	xxx kio entexab konæn . 1489396_1491257
+%xmor:	unk|xxx wh|ki ptl|ro pv:n|entexab v:lv|kærdæn&pres-3p .
+%mor:	propn|kio propn|entexab propn|konæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	ki sherkæt kone , to entexabate riasæt jomhuri . 1491257_1496943
+%xmor:	wh|ki pv:n|sherkæt v:lv|kærdæn&pres-3s pro|to n|entexabat-EZ n|riasæt n|jomhuri .
+%mor:	propn|ki propn|sherkæt propn|kone cm|cm propn|to propn|entexabate propn|riasæt propn|jomhuri .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|5|FLAT-NAME 9|1|PUNCT
+*FAT:	bia baba jun . 1496943_1502877
+%xmor:	imp#v|amædæn&pres&2s n|baba n|jun .
+%mor:	propn|bia propn|baba propn|jun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	fæhmidi ke girehe chejuri baz mishe hala ? 1502877_1506452
+%xmor:	v|fæhmidæn&PAST-2S conj|ke n|gire-DEF wh|chejuri pv:adj|baz prog#v:lv|shodæn&pres-3s adv|hala ?
+%mor:	propn|fæhmidi propn|ke propn|girehe propn|chejuri propn|baz propn|mishe propn|hala ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*FAT:	are minu ? 1506452_1510692
+%xmor:	co|are n:prop|minu ?
+%mor:	propn|are propn|minu ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	chi kar dari mikoni , baba , ba gire ? 1510692_1516461
+%xmor:	wh|chi n|kar v:mod|dashtæn&pres-2s prog#v|kærdæn&pres-2s n|baba prep|ba n|gire ?
+%mor:	propn|chi propn|kar propn|dari propn|mikoni cm|cm propn|baba cm|cm propn|ba propn|gire ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|PUNCT 8|6|CONJ 9|8|FLAT-NAME 10|1|PUNCT
+*FAT:	han ? 1516461_1518821
+%xmor:	co|han ?
+%mor:	propn|han ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	ye jævabe kuchulu be mæn midi ? 1518821_1523044
+%xmor:	qn|ye pv:n|jævab-EZ adj|kuchulu prep|be pro|mæn prog#v:lv|dadæn&pres-2s ?
+%mor:	propn|ye propn|jævabe propn|kuchulu propn|be propn|mæn propn|midi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	mixam bebinæm ba in mohkæmish , chejuri bæcheha mitunæn bazesh konæn . 1523044_1531572
+%xmor:	prog#v|xastæn&pres-1s subj#v|didæn&pres-1s prep|ba pro:dem|in n|mohkæmi-3S wh|chejuri n|bæche-pl prog#v|tævanestæn&pres-3p pv:adj|baz-3S v:lv|kærdæn&pres-3p .
+%xcau:	$C:lv:kærdæn
+%mor:	propn|mixam propn|bebinæm propn|ba propn|in propn|mohkæmish cm|cm propn|chejuri propn|bæcheha propn|mitunæn propn|bazesh propn|konæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|CONJ 6|7|PUNCT 7|1|CONJ 8|7|FLAT-NAME 9|7|CONJ 10|9|FLAT-NAME 11|10|FLAT-NAME 12|1|PUNCT
+*FAT:	ahan , xob axe in æslæn bære bæcheha nist æzizæm . 1531572_1534414
+%xmor:	co|ahan co|xob pro:rel|axe pro:dem|in adv|æslæn prep|bæra-EZ n|bæche-pl v|budæn&pres&neg&3s n|æziz-1S .
+%mor:	propn|ahan cm|cm propn|xob propn|axe propn|in propn|æslæn propn|bære propn|bæcheha propn|nist propn|æzizæm .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|3|FLAT-NAME 9|3|FLAT-NAME 10|3|FLAT-NAME 11|1|PUNCT
+*FAT:	ke ba un mohkæmish betunæn bazesh konæn . 1534414_1537340
+%xmor:	conj|ke prep|ba pro:dem|un n|mohkæmi-3S subj#v|tævanestæn&pres-3p pv:adj|baz-3S v:lv|kærdæn&pres-3p .
+%xcau:	$C:lv:kærdæn
+%mor:	propn|ke propn|ba punct|un propn|mohkæmish propn|betunæn propn|bazesh propn|konæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|4|FLAT-NAME 7|4|FLAT-NAME 8|1|PUNCT
+*FAT:	male bozorgast . 1537340_1539634
+%xmor:	n|mal-EZ n|bozorg-PL~v|budæn&PRES&3S .
+%mor:	propn|male propn|bozorgast .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	xob , pæs vaseye bæchehaye char sale chi ? 1539634_1544571
+%xmor:	co|xob conj|pæs prep|vase-EZ n|bæche-PL-EZ num|char adj|sale pro:rel|chi ?
+%mor:	propn|xob cm|cm propn|pæs propn|vaseye propn|bæchehaye propn|char propn|sale propn|chi ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|3|FLAT-NAME 9|1|PUNCT
+*FAT:	vase bæchehaye char sale kæsi æz un gire kaqæza nemisaze æzizæm . 1544571_1548877
+%xmor:	conj|vase n|bæche-PL-EZ num|char adj|sale n|kæsi prep|æz pro:dem|un n|gire n|kaqæz-PL neg_prog#v|saxtæn&PRES-3S n|æziz-1S .
+%xcau:	$C:lex:saxtæn
+%mor:	propn|vase propn|bæchehaye propn|char propn|sale propn|kæsi propn|æz propn|un propn|gire propn|kaqæza propn|nemisaze propn|æzizæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|9|FLAT-NAME 11|1|FLAT-NAME 12|1|PUNCT
+*FAT:	bære bæchehaye char sale , æsbabbazihaye dige misazæn . 1548877_1556608
+%xmor:	prep|bæra-EZ n|bæche-PL-EZ num|char adj|sale n|æsbabbazi-PL-EZ adv|dige prog#v|saxtæn&PRES-3P .
+%xcau:	$C:lex:saxtæn
+%mor:	propn|bære propn|bæchehaye propn|char propn|sale cm|cm propn|æsbabbazihaye propn|dige propn|misazæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|6|FLAT-NAME 9|1|PUNCT
+*FAT:	væli , bæchehaye char sale xodeshun sheitunæn , miyan gire kaqæze babashuno bærmidaræn . 1556608_1561895
+%xmor:	conj|væli n|bæche-PL-EZ num|char adj|sale n|xod-3P adj|sheitun~v|budæn&PRES&3P prog#v|amædæn&PRES-3P n|gire n|kaqæz-EZ n|baba-3P ptl|ro pv:prep|bær prog#v:lv|dashtæn&PRES-3P .
+%mor:	propn|væli cm|cm propn|bæchehaye propn|char propn|sale propn|xodeshun propn|sheitunæn cm|cm propn|miyan propn|gire propn|kaqæze propn|babashuno propn|bærmidaræn .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|CONJ 7|6|FLAT-NAME 8|9|PUNCT 9|1|CONJ 10|9|FLAT-NAME 11|9|FLAT-NAME 12|9|FLAT-NAME 13|9|FLAT-NAME 14|1|PUNCT
+*CHI:	mænæm bærdashtæm ! 1561895_1566766
+%xmor:	pro|mæn adv|hæm pv:prep|bær v:lv|dashtæn&PAST-1S !
+%mor:	propn|mænæm propn|bærdashtæm !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	bæle , mibinæm . 1566766_1567895
+%xmor:	co|bæle prog#v|didæn&pres-1s .
+%mor:	propn|bæle cm|cm propn|mibinæm .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|1|PUNCT
+*AUN:	yæni to sheitun bælayi ? 1567895_1573099
+%xmor:	adv|yæni pro|to adj|sheitun adj|bæla~v|budæn&PRES&2S ?
+%mor:	propn|yæni propn|to propn|sheitun propn|bælayi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	bæle . 1573099_1574080
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	sheitun bælaye naqola . 1574080_1581895
+%xmor:	adj|sheitun adj|bæla-EZ adj|naqola .
+%mor:	propn|sheitun propn|bælaye propn|naqola .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	hær væqt xastin bæratun chai berizæm . 1581895_1583755
+%xmor:	adj|hær n|væqt v|xastæn&PRES-2P prep|bæra-2P n|chai subj#v|rixtæn&PRES-1S .
+%xcau:	$C:lex:rixtæn
+%mor:	propn|hær propn|væqt propn|xastin propn|bæratun propn|chai propn|berizæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*AUN:	xxx . 1583755_1585718
+%xmor:	unk|xxx .
+*CHI:	&~singing . 1585718_1588394
+*FAT:	hala ba gire dari che baziyi mikoni , minu jun ? 1588394_1602857
+%xmor:	adv|hala prep|ba n|gire v:mod|dashtæn&pres-2s wh|che pv:n|bazi-DEF prog#v:lv|kærdæn&pres-2s n:prop|minu n|jun ?
+%mor:	propn|hala propn|ba propn|gire propn|dari propn|che propn|baziyi propn|mikoni cm|cm propn|minu propn|jun ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|9|PUNCT 9|1|CONJ 10|9|FLAT-NAME 11|1|PUNCT
+*CHI:	daræm baziye dæstres mikonæm . 1602857_1606348
+%xmor:	v:mod|dashtæn&pres-1s pv:n|bazi-EZ n:prop|dæstres prog#v:lv|kærdæn&pres-1s .
+%mor:	propn|daræm propn|baziye propn|dæstres propn|mikonæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	chi ? 1606348_1606931
+%xmor:	wh|chi ?
+%mor:	propn|chi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	daræm bazi dæstresi mikonæm . 1606931_1610171
+%xmor:	v:mod|dashtæn&pres-1s pv:n|bazi n:prop|dæstresi prog#v:lv|kærdæn&pres-1s .
+%mor:	propn|daræm propn|bazi propn|dæstresi propn|mikonæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	dæst chichi ? 1610171_1610987
+%xmor:	n|dæst wh|chichi ?
+%mor:	propn|dæst propn|chichi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	dæstresi . 1610987_1612366
+%xmor:	n:prop|dæstresi .
+%mor:	propn|dæstresi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	bolænd sho begu dorost mæn nemishnævæm . 1612366_1614412
+%xmor:	pv:adj|bolænd v:lv|shodæn&pres&imp&2s imp#v|goftæn&pres&2s adj|dorost pro|mæn neg_prog#v|shenidæn&PRES-1S .
+%mor:	propn|bolænd propn|sho propn|begu propn|dorost propn|mæn propn|nemishnævæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	xxx baziye dæstresi . 1614412_1617420
+%xmor:	unk|xxx n|bazi-EZ n:prop|dæstresi .
+%mor:	propn|baziye propn|dæstresi .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	dæstresi ? 1617420_1618484
+%xmor:	n:prop|dæstresi ?
+%mor:	propn|dæstresi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bæle . 1618484_1619133
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	baziye dæstresi ? 1619133_1619947
+%xmor:	n|bazi-EZ n:prop|dæstresi ?
+%mor:	propn|baziye propn|dæstresi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	ahan . 1619947_1620429
+%xmor:	co|ahan .
+%mor:	propn|ahan .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	chejuriye baziye dæstresi ? 1620429_1622225
+%xmor:	adv|chejuri~v|budæn&PRES&3S n|bazi-EZ n:prop|dæstresi ?
+%mor:	propn|chejuriye propn|baziye propn|dæstresi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	xxx ye dæst mizaræm rush bædesh bang@o talapi feshar midæm ru xxx miyofte . 1622225_1632382
+%xmor:	unk|xxx qn|ye n|dæst prog#v|gozashtæn&pres-1s prep|ru-3s adv|bæd-3S o|bang n|talapi pv:n|feshar prog#v:lv|dadæn&pres-1s prep|ru unk|xxx prog#v|oftadæn&PRES-3S .
+%xcau:	$C:lex:gozashtæn
+%mor:	propn|ye propn|dæst propn|mizaræm propn|rush propn|bædesh on|bang propn|talapi propn|feshar propn|midæm propn|ru propn|miyofte .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|DEP 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|FLAT-NAME 11|1|FLAT-NAME 12|1|PUNCT
+*FAT:	xob , unvæqt chera behesh migi dæstresi ? 1632382_1634660
+%xmor:	co|xob adv|unvæqt wh|chera prep|be-3S prog#v|goftæn&pres-2s n:prop|dæstresi ?
+%mor:	propn|xob cm|cm propn|unvæqt propn|chera propn|behesh propn|migi propn|dæstresi ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|1|PUNCT
+*CHI:	axe dæst mirese behesh . 1634660_1637420
+%xmor:	pro:rel|axe n|dæst prog#v|residæn&pres-3s prep|be-3S .
+%mor:	propn|axe propn|dæst propn|mirese propn|behesh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	dæst mirese be chi , baba jun ? 1637420_1639216
+%xmor:	n|dæst prog#v|residæn&pres-3s prep|be wh|chi n|baba n|jun ?
+%mor:	propn|dæst propn|mirese propn|be propn|chi cm|cm propn|baba propn|jun ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|1|PUNCT
+*CHI:	bayæd injuri konim . 1639216_1642623
+%xmor:	v:mod|bayestæn&past&3s adv|injuri v|kærdæn&pres-1p .
+%mor:	propn|bayæd propn|injuri propn|konim .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	bæd pærtesh konim hæva , bæd dæstemuno bekeshim o begirimesh . 1642623_1647095
+%xmor:	adv|bæd pv:n|pært-3S v:lv|kærdæn&pres-1p n|hæva adv|bæd n|dæst-1P ptl|ro subj#v|keshidæn&PRES-1P conj|o subj#v|gereftæn&PRES-1P-3S .
+%mor:	propn|bæd propn|pærtesh propn|konim propn|hæva cm|cm propn|bæd propn|dæstemuno propn|bekeshim punct|o propn|begirimesh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|6|CONJ 9|10|PUNCT 10|6|CONJ 11|1|PUNCT
+*FAT:	ahan . 1647095_1647760
+%xmor:	co|ahan .
+%mor:	propn|ahan .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	xeiloxob . 1647760_1649938
+%xmor:	co|xeiloxob .
+%mor:	propn|xeiloxob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx . 1649938_1661974
+%xmor:	unk|xxx .
+*FAT:	bia baba jun . 1661974_1665466
+%xmor:	imp#v|amædæn&pres&2s n|baba n|jun .
+%mor:	propn|bia propn|baba propn|jun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	afærin . 1665466_1673012
+%xmor:	co|afærin .
+%mor:	propn|afærin .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx . 1673012_1674076
+%xmor:	unk|xxx .
+*CHI:	dæstres . 1674076_1675539
+%xmor:	n:prop|dæstres .
+%mor:	propn|dæstres .
+%gra:	1|0|ROOT 2|1|PUNCT
+*AUN:	xxx . 1675539_1677585
+%xmor:	unk|xxx .
+*CHI:	yæni dæst +/. 1677585_1678399
+%xmor:	adv|yæni n|dæst +/.
+%mor:	propn|yæni propn|dæst +/.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	nushe jan . 1678399_1679196
+%xmor:	n|nush-EZ n|jan .
+%mor:	propn|nushe propn|jan .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	dæst resi injuriye ke æz bala mindaze miyofte ru dæstet ? 1679196_1692047
+%xmor:	n:prop|dæstresi adv|injuri~v|budæn&PRES&3S conj|ke prep|æz adj|bala prog#v|ændaxtæn&PRES-3S prog#v|oftadæn&PRES-3S prep|ru n|dæst-2S ?
+%xcau:	$C:lex:ændaxtæn
+%mor:	propn|dæst propn|resi propn|injuriye propn|ke propn|æz propn|bala propn|mindaze propn|miyofte propn|ru propn|dæstet ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|FLAT-NAME 11|1|PUNCT
+*CHI:	bæle . 1692047_1693029
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	ye kæm chai boxor babai . 1693029_1700261
+%xmor:	qn|ye adj|kæm n|chai imp#v|xordæn&pres&2s n|babai .
+%mor:	propn|ye propn|kæm propn|chai propn|boxor propn|babai .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*FAT:	minu ? 1700261_1701724
+%xmor:	n:prop|minu ?
+%mor:	propn|minu ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	pasho vaista . 1701724_1703751
+%xmor:	pv:n|pa v:lv|shodæn&PRES&IMP&2S pv:prep|vai v:lv|istadæn&PRES&IMP&2S .
+%mor:	propn|pasho propn|vaista .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	baba dige nemixoræm . 1703751_1704167
+%xmor:	n|baba adv|dige neg_prog#v|xordæn&pres-1s .
+%mor:	propn|baba propn|dige propn|nemixoræm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	dige nemixoræm . 1704167_1704998
+%xmor:	adv|dige neg_prog#v|xordæn&pres-1s .
+%mor:	propn|dige propn|nemixoræm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	dige nemixori ? 1704998_1706111
+%xmor:	adv|dige neg_prog#v|xordæn&pres-2s ?
+%mor:	propn|dige propn|nemixori ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	næ . 1706111_1706677
+%xmor:	co|næ .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	chera ? 1706677_1707408
+%xmor:	wh|chera ?
+%mor:	propn|chera ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	a . 1707408_1708473
+%xmor:	co|a .
+%mor:	punct|a .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1708473_1709936
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	ab mixai ? 1709936_1710519
+%xmor:	n|ab prog#v|xastæn&pres-2s ?
+%mor:	propn|ab propn|mixai ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	abububi@wp . 1710519_1713278
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx . 1713278_1717251
+%xmor:	unk|xxx .
+*AUN:	xxx . 1717251_1718398
+%xmor:	unk|xxx .
+*CHI:	ab . 1718398_1719047
+%xmor:	n|ab .
+%mor:	propn|ab .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bubu@wp . 1719047_1721640
+%xmor:	wplay|bubu .
+%mor:	wplay|bubu .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bi@wp . 1721640_1724000
+%xmor:	wplay|bi .
+%mor:	wplay|bi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1724000_1726926
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1726926_1728157
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1728157_1729370
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1729370_1734009
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1734009_1736685
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1736685_1745778
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1745778_1747657
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	abububi@wp ? 1747657_1748787
+%xmor:	wplay|abububi ?
+%mor:	wplay|abububi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	bia ab bærat ovordæm , ab mixasti ? 1748787_1753044
+%xmor:	imp#v|amædæn&pres&2s n|ab prep|bæra-2s v|aværdæn&past-1s n|ab prog#v|xastæn&past-2s ?
+%xcau:	$C:lex:aværdæn
+%mor:	propn|bia propn|ab propn|bærat propn|ovordæm cm|cm propn|ab propn|mixasti ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|1|PUNCT
+*CHI:	are . 1753044_1753907
+%xmor:	co|are .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	pæs pasho bia . 1753907_1755055
+%xmor:	conj|pæs pv:n|pa v:lv|shodæn&PRES&IMP&2S imp#v|amædæn&pres&2s .
+%mor:	propn|pæs propn|pasho propn|bia .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	abububi@wp . 1755055_1756102
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	abububi@wp . 1756102_1759278
+%xmor:	wplay|abububi .
+%mor:	wplay|abububi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ax . 1759278_1760342
+%xmor:	co|ax .
+%mor:	propn|ax .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	hær moqei ke migæm abububi@wp bæram ab biyar , bashe ? 1760342_1765295
+%xmor:	adj|hær n|moqe-DEF conj|ke prog#v|goftæn&pres-1s wplay|abububi prep|bæra-1s n|ab imp#v|aværdæn&PRES&IMP&2S co|bashe ?
+%xcau:	$C:lex:aværdæn
+%mor:	propn|hær propn|moqei propn|ke propn|migæm wplay|abububi propn|bæram propn|ab propn|biyar cm|cm punct|bashe ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|DEP 6|1|FLAT-NAME 7|6|FLAT-NAME 8|7|FLAT-NAME 9|1|PUNCT 10|1|PUNCT 11|1|PUNCT
+*FAT:	hær væqt ke migi abububi@wp bærat ab biyaræm ? 1765295_1767805
+%xmor:	adj|hær n|væqt conj|ke prog#v|goftæn&pres-2s wplay|abububi prep|bæra-2s n|ab subj#v|aværdæn&PRES-1S ?
+%xcau:	$C:lex:aværdæn
+%mor:	propn|hær propn|væqt propn|ke propn|migi wplay|abububi propn|bærat propn|ab propn|biyaræm ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|DEP 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*CHI:	are . 1767805_1768953
+%xmor:	co|are .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	baba , binitæm gerefte a . 1768953_1772527
+%xmor:	n|baba pv:n|bini-2S adv|hæm v:lv|gereftæn&past-3s co|a .
+%mor:	propn|baba cm|cm propn|binitæm propn|gerefte punct|a .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|PUNCT 6|1|PUNCT
+*FAT:	pætuto dade budi kenar dishæb ? 1772527_1774323
+%xmor:	n|pætu-2S ptl|ro v:ptcp|dadæn-PTCP v:aux|budæn&past-2s n|kenar n|dishæb ?
+%mor:	propn|pætuto propn|dade propn|budi propn|kenar propn|dishæb ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	ki dade bud kenar ? 1774323_1780823
+%xmor:	wh|ki v:ptcp|dadæn-PTCP v:aux|budæn&past&3s n|kenar ?
+%mor:	propn|ki propn|dade propn|bud propn|kenar ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	xodet . 1780823_1781405
+%xmor:	n|xod-2s .
+%mor:	propn|xodet .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	xodet pætuto kenar ændaxte budi ? 1781405_1782935
+%xmor:	n|xod-2s n|pætu-2S ptl|ro n|kenar v:ptcp|ændaxtæn-ptcp v|budæn&past-2s ?
+%mor:	propn|xodet propn|pætuto propn|kenar propn|ændaxte propn|budi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	næ . 1782935_1784629
+%xmor:	co|næ .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	næ ? 1784629_1785611
+%xmor:	co|næ ?
+%mor:	propn|næ ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	pætu rut bud hæmæsh ? 1785611_1786758
+%xmor:	n|pætu prep|ru-2S v|budæn&past&3s adv|hæmæsh ?
+%mor:	propn|pætu propn|rut propn|bud propn|hæmæsh ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	&~singing . 1786758_1800905
+*FAT:	chi ? 1800905_1801453
+%xmor:	wh|chi ?
+%mor:	propn|chi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&~singing . 1801453_1816582
+*FAT:	ye kæmi sheraye mænidar bexun ærusækat ye kæm yad begiræn . 1816582_1820637
+%xmor:	qn|ye adj|kæmi n|sher-PL-EZ adj|mænidar imp#v|xandæn&PRES&2S n|ærusæk-PL-2S qn|ye adj|kæm pv:n|yad subj#v:Lv|gereftæn&pres-3p .
+%mor:	propn|ye propn|kæmi propn|sheraye propn|mænidar propn|bexun propn|ærusækat punct|ye propn|kæm propn|yad propn|begiræn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|CONJ 6|1|FLAT-NAME 7|8|PUNCT 8|1|CONJ 9|8|FLAT-NAME 10|8|FLAT-NAME 11|1|PUNCT
+*FAT:	xob ? 1820637_1822832
+%xmor:	co|xob ?
+%mor:	propn|xob ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xob . 1822832_1852258
+%xmor:	co|xob .
+%mor:	propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xob . 1852258_1852822
+%xmor:	co|xob .
+%mor:	propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xob . 1852822_1853638
+%xmor:	co|xob .
+%mor:	propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xob . 1853638_1854851
+%xmor:	co|xob .
+%mor:	propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	hala , xob . 1854851_1860637
+%xmor:	adv|hala co|xob .
+%mor:	propn|hala cm|cm propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|1|PUNCT
+*CHI:	hala . 1860637_1861434
+%xmor:	adv|hala .
+%mor:	propn|hala .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	baba , giræro dari mizæni be ærusækat ? 1861434_1891109
+%xmor:	n|baba n|gire-DEF ptl|ro v:mod|dashtæn&pres-2s prog#v|zædæn&PRES-2S prep|be n|ærusæk-PL-2S ?
+%mor:	propn|baba cm|cm propn|giræro propn|dari propn|mizæni propn|be propn|ærusækat ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|1|PUNCT
+*CHI:	in gire , baba +... 1891109_1892822
+%xmor:	pro:dem|in n|gire n|baba +...
+%mor:	punct|in propn|gire cm|cm propn|baba +...
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|PUNCT 4|2|CONJ 5|2|PUNCT
+*CHI:	in gire chera injuri kar mikone ? 1892822_1897942
+%xmor:	pro:dem|in n|gire wh|chera adv|injuri n|kar prog#v|kærdæn&pres-3s ?
+%mor:	punct|in propn|gire propn|chera propn|injuri propn|kar propn|mikone ?
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|2|FLAT-NAME 7|2|PUNCT
+*CHI:	gireye æjib qæribiye . 1897942_1900452
+%xmor:	n|gire-EZ adj|æjib adj|qæribi~v|budæn&PRES&3S .
+%mor:	propn|gireye propn|æjib propn|qæribiye .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	in ye gireyiye , xob +/. 1900452_1903146
+%xmor:	pro:dem|in qn|ye n|gire-DEF-EZ co|xob +/.
+%mor:	punct|in propn|ye propn|gireyiye cm|cm propn|xob +/.
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|PUNCT 5|2|CONJ 6|2|PUNCT
+*CHI:	esmesh chie ? 1903146_1903794
+%xmor:	n|esm-3s wh|chi~v|budæn&PRES&3S ?
+%mor:	propn|esmesh propn|chie ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	gireye kaqæz . 1903794_1904692
+%xmor:	n|gire-EZ n|kaqæz .
+%mor:	propn|gireye propn|kaqæz .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	esmesh chie ? 1904692_1905905
+%xmor:	n|esm-3s wh|chi~v|budæn&PRES&3S ?
+%mor:	propn|esmesh propn|chie ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	væli , bæraye ine ke kaqæzaye bishtæri , mæsælæn bebin un gire kaqæz kuchulua ke mesle sænjaq mimune , unaro yadet miyad ? 1905905_1913387
+%xmor:	conj|væli prep|bæra-EZ pro:dem|in~v|budæn&PRES&3S conj|ke n|kaqæz-PL-EZ adj|bish-CP-DEF adv|mæsælæn imp#v|didæn&pres&2s pro:dem|un n|gire n|kaqæz n|kuchulu-PL conj|ke adj|mesl-EZ n|sænjaq prog#v|mandæn&PRES-3S pro:dem|un-PL ptl|ro pv:n|yad-2s prog#v:lv|amædæn&pres&3s ?
+%mor:	propn|væli cm|cm propn|bæraye propn|ine propn|ke propn|kaqæzaye propn|bishtæri cm|cm propn|mæsælæn propn|bebin propn|un propn|gire propn|kaqæz propn|kuchulua propn|ke propn|mesle propn|sænjaq propn|mimune cm|cm propn|unaro propn|yadet propn|miyad ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|CONJ 8|9|PUNCT 9|1|CONJ 10|9|FLAT-NAME 11|9|FLAT-NAME 12|9|FLAT-NAME 13|9|FLAT-NAME 14|13|FLAT-NAME 15|14|FLAT-NAME 16|14|FLAT-NAME 17|9|FLAT-NAME 18|9|FLAT-NAME 19|20|PUNCT 20|9|CONJ 21|20|FLAT-NAME 22|20|FLAT-NAME 23|1|PUNCT
+*CHI:	bæle . 1913387_1913952
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	una ke ye dunæsho xxx bærash kelid dorost kærdim a ? 1913952_1918007
+%xmor:	pro:dem|un-pl conj|ke qn|ye n|dune-3S ptl|ro unk|xxx prep|bæra-3S n|kelid pv:adj|dorost v:lv|kærdæn&PAST-1P co|a ?
+%mor:	propn|una propn|ke propn|ye propn|dunæsho propn|bærash propn|kelid propn|dorost propn|kærdim punct|a ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT 10|1|PUNCT
+*FAT:	æzæsh kelid dorost kærdim yadete ? 1918007_1921183
+%xmor:	prep|æz-3s n|kelid pv:adj|dorost v:lv|kærdæn&PAST-1P n|yad-2S~v|budæn&PRES&3S ?
+%xcau:	$C:lv:kærdæn
+%mor:	propn|æzæsh propn|kelid propn|dorost propn|kærdim propn|yadete ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*FAT:	uno yadete ? 1921183_1923543
+%xmor:	pro:dem|un ptl|ro n|yad-2S~v|budæn&PRES&3S ?
+%mor:	propn|uno propn|yadete ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	una bæraye ine ke mæsælæn dæhta kaqæzo foqesh ba hæm gir xxx xob ? 1923543_1932404
+%xmor:	pro:dem|un-pl prep|bæra-EZ pro:dem|in~v|budæn&PRES&3S conj|ke adv|mæsælæn qn|dæh-qn n|kaqæz ptl|ro n|foq-3S prep|ba adv|hæm n|gir unk|xxx co|xob ?
+%mor:	propn|una propn|bæraye propn|ine propn|ke propn|mæsælæn propn|dæhta propn|kaqæzo propn|foqesh propn|ba propn|hæm punct|gir propn|xob ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|FLAT-NAME 11|1|PUNCT 12|1|CONJ 13|1|PUNCT
+*FAT:	væli ina tedade kaqæze bishtæriye . 1932404_1934848
+%xmor:	conj|væli pro:dem|in-PL n|tedad-EZ n|kaqæz-EZ adj|bish-CP-DEF~v|budæn&PRES&3S .
+%mor:	propn|væli propn|ina propn|tedade propn|kaqæze propn|bishtæriye .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*FAT:	mæsælæn pænjata kaqæzo xxx . 1934848_1937126
+%xmor:	adv|mæsælæn qn|pænja-qn n|kaqæz ptl|ro unk|xxx .
+%mor:	propn|mæsælæn propn|pænjata propn|kaqæzo .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	gasp . 1937126_1937774
+%mor:	propn|gasp .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	uah ! 1937774_1939320
+%xmor:	co|uah !
+%mor:	propn|uah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	uah ! 1939320_1939969
+%xmor:	co|uah !
+%mor:	propn|uah !
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	taze æz in bozorgtæreshæm hæst . 1939969_1942579
+%xmor:	adj|taze prep|æz pro:dem|in adj|bozorg-CP-3S adv|hæm v|budæn&pres&3s .
+%mor:	propn|taze propn|æz propn|in propn|bozorgtæreshæm propn|hæst .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	e ? 1942579_1944524
+%xmor:	co|e ?
+%mor:	punct|e ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	m . 1944524_1945024
+%xmor:	co|m .
+%mor:	punct|m .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	che qædiye ? 1945024_1946718
+%xmor:	wh|che adj|qædi~v|budæn&PRES&3S ?
+%mor:	propn|che propn|qædiye ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	enqædi . 1946718_1947450
+%xmor:	adj|enqædi .
+%mor:	propn|enqædi .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ei dad o bidad . 1947450_1949579
+%xmor:	co|ei n|dad conj|o n|bidad .
+%mor:	propn|ei propn|dad propn|o propn|bidad .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	un fekr konæm xeili sængin vaseye ængoshtaye mæn bæde . 1949579_1955597
+%xmor:	pro:dem|un pv:n|fekr v:lv|kærdæn&pres-1s adv|xeili adj|sængin prep|vase-EZ n|ængosht-PL-EZ pro|mæn adj|bæd~v|budæn&PRES&3S .
+%mor:	punct|un propn|fekr propn|konæm propn|xeili propn|sængin propn|vaseye propn|ængoshtaye propn|mæn propn|bæde .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|2|FLAT-NAME 7|2|FLAT-NAME 8|2|FLAT-NAME 9|2|FLAT-NAME 10|2|PUNCT
+*FAT:	bære ængoshtaye to sefte , næ sængin , baba jun , æge bexai bazesh koni . 1955597_1960486
+%xmor:	prep|bæra-EZ n|ængosht-PL-EZ pro|to adj|seft~v|budæn&PRES&3S co|næ adj|sængin n|baba n|jun conj|æge subj#v|xastæn&pres&2s pv:adj|baz-3S v:lv|kærdæn&pres-2s .
+%xcau:	$C:lv:kærdæn
+%mor:	propn|bære propn|ængoshtaye propn|to propn|sefte cm|cm propn|næ propn|sængin cm|cm propn|baba propn|jun cm|cm propn|æge propn|bexai propn|bazesh propn|koni .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|9|PUNCT 9|6|CONJ 10|9|FLAT-NAME 11|12|PUNCT 12|9|CONJ 13|12|FLAT-NAME 14|12|FLAT-NAME 15|14|FLAT-NAME 16|1|PUNCT
+*FAT:	ziyad sængin nist , væli ye zære sefte . 1960486_1963578
+%xmor:	adv|ziyad adj|sængin v|budæn&pres&neg&3s conj|væli qn|ye n|zære adj|seft~v|budæn&PRES&3S .
+%mor:	propn|ziyad propn|sængin propn|nist cm|cm propn|væli propn|ye propn|zære propn|sefte .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|5|FLAT-NAME 9|1|PUNCT
+*FAT:	æz in seftære . 1963578_1965125
+%xmor:	prep|æz pro:dem|in adj|seft-CP~v|budæn&PRES&3S .
+%mor:	propn|æz propn|in propn|seftære .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	næ , kæmtære . 1965125_1967884
+%xmor:	co|næ adj|kæm-CP~v|budæn&PRES&3S .
+%mor:	propn|næ cm|cm propn|kæmtære .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+*CHI:	&~laugh . 1967884_1969930
+*CHI:	væqti xxx mizænæn . 1969930_1972523
+%xmor:	adv|væqti unk|xxx prog#v|zædæn&PRES-3Ps .
+%mor:	propn|væqti propn|mizænæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	hodude yek o do . 1972523_1974467
+%xmor:	n|hodud-EZ num|yek conj|o num|do .
+%mor:	propn|hodude propn|yek propn|o propn|do .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	hodude yek o do chi ? 1974467_1976430
+%xmor:	n|hodud-EZ num|yek conj|o num|do wh|chi ?
+%mor:	propn|hodude propn|yek propn|o propn|do propn|chi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*FAT:	han ? 1976430_1981699
+%xmor:	co|han ?
+%mor:	propn|han ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&~singing . 1981699_1991208
+*FAT:	xoshet amæd æz in gire kaqæz ? 1991208_1997310
+%xmor:	pv:n|xosh-2s v:lv|amædæn&past&3s prep|æz pro:dem|in n|gire n|kaqæz ?
+%mor:	propn|xoshet propn|amæd propn|æz punct|in propn|gire propn|kaqæz ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|1|PUNCT
+*FAT:	are ? 1997310_1999837
+%xmor:	co|are ?
+%mor:	propn|are ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	mituni bahesh bazi koni , væli movazeb bash gomesh nækoni , bashe ? 1999837_2005920
+%xmor:	prog#v|tævanestæn&pres-2s adj|bahesh pv:n|bazi v:lv|kærdæn&pres-2s conj|væli adj|movazeb v|budæn&imp&2s pv:adj|gom-3S neg#v:lv|kærdæn&PRES-2S co|bashe ?
+%mor:	propn|mituni propn|bahesh propn|bazi propn|koni cm|cm propn|væli propn|movazeb propn|bash propn|gomesh propn|nækoni cm|cm punct|bashe ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|6|FLAT-NAME 9|6|FLAT-NAME 10|9|FLAT-NAME 11|1|PUNCT 12|1|PUNCT 13|1|PUNCT
+*CHI:	gom , næ . 2005920_2006569
+%xmor:	adj|gom co|næ .
+%mor:	propn|gom cm|cm punct|næ .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|PUNCT 4|1|PUNCT
+*CHI:	in ke gom nemishe . 2006569_2007800
+%xmor:	pro:dem|in pro:rel|ke pv:adj|gom neg_prog#v:lv|shodæn&pres-3s .
+%mor:	punct|in propn|ke propn|gom propn|nemishe .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|PUNCT
+*CHI:	mibini , ændazeye zæmine . 2007800_2010958
+%xmor:	prog#v|didæn&pres-2s adj|ændaze-EZ n|zæmin~v|budæn&PRES&3S .
+%mor:	propn|mibini cm|cm propn|ændazeye propn|zæmine .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|1|PUNCT
+*FAT:	ændezeye zæmine , baba jun ? 2010958_2013152
+%xmor:	n|ændeze-EZ n|zæmin~v|budæn&PRES&3S n|baba n|jun ?
+%mor:	propn|ændezeye propn|zæmine cm|cm propn|baba propn|jun ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|1|PUNCT
+*FAT:	yæni chi ? 2013152_2013735
+%xmor:	adv|yæni wh|chi ?
+%mor:	propn|yæni propn|chi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	bæle . 2013735_2014300
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	yæni <ændazeye ye dune> [/] <ændazeye ye dune> [///] ye [///] ændazeye ye sænjaq qofliye mushe . 2014300_2028115
+%xmor:	adv|yæni adj|ændaze-EZ qn|ye n|+n|sænjaq+adj|qofl-ADJR-EZ n|mush~v|budæn&PRES&3S .
+%mor:	propn|yæni propn|ændazeye propn|ye propn|sænjaq propn|qofliye propn|mushe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	ændazeye ye dune +/. 2028115_2029976
+%xmor:	adj|ændaze-EZ qn|ye n|dune +/.
+%mor:	propn|ændazeye propn|ye propn|dune +/.
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	æge mænzuret ine ke kuchike , xob pæs momkene gom beshe . 2029976_2034948
+%xmor:	conj|æge n|mænzur-2S pro:dem|in~v|budæn&PRES&3S conj|ke adj|kuchik~v|budæn&PRES&3S co|xob conj|pæs adj|momken~v|budæn&PRES&3S pv:adj|gom subj#v:lv|shodæn&pres-3s .
+%mor:	propn|æge propn|mænzuret propn|ine propn|ke propn|kuchike cm|cm propn|xob propn|pæs propn|momkene propn|gom propn|beshe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|7|PUNCT 7|1|CONJ 8|7|FLAT-NAME 9|7|FLAT-NAME 10|7|FLAT-NAME 11|7|FLAT-NAME 12|1|PUNCT
+*CHI:	&~singing . 2034948_2045439
+*FAT:	baba , giræro zædi be dome xxx are ? 2045439_2050559
+%xmor:	n|baba n|gire-DEF ptl|ro v|zædæn&past-2s prep|be n|dom-EZ unk|xxx co|are ?
+%mor:	propn|baba cm|cm propn|giræro propn|zædi propn|be propn|dome propn|are ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|1|PUNCT
+*CHI:	bæle . 2050559_2051373
+%xmor:	co|bæle .
+%mor:	propn|bæle .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	dærdesh næyad ye væqt gire be domeshe . 2051373_2057077
+%xmor:	pv:n|dærd-3S neg#v:lv|amædæn&pres-3s qn|ye n|væqt n|gire prep|be n|dom-3S~v|budæn&PRES&3S .
+%mor:	propn|dærdesh propn|næyad propn|ye propn|væqt propn|gire propn|be propn|domeshe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*CHI:	næ , dærdæm nemiyad , xeili hæm asun rah miræm , qelqelækæmæm miyad . 2057077_2062846
+%xmor:	co|næ pv:n|dærd-1s neg#v:Lv|amædæn&pres&3s adv|xeili adv|hæm adj|asun pv:n|rah prog#v:lv|ræftæn&pres-1s pv:n|qelqelæk-1S adv|hæm prog#v:lv|amædæn&pres&3s .
+%mor:	propn|næ cm|cm propn|dærdæm propn|nemiyad cm|cm propn|xeili propn|hæm propn|asun propn|rah propn|miræm cm|cm propn|qelqelækæmæm propn|miyad .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|6|PUNCT 6|3|CONJ 7|6|FLAT-NAME 8|6|FLAT-NAME 9|8|FLAT-NAME 10|6|FLAT-NAME 11|12|PUNCT 12|6|CONJ 13|12|FLAT-NAME 14|1|PUNCT
+*FAT:	qelqelækesh miyad . 2062846_2063809
+%xmor:	pv:n|qelqelæk-3S prog#v:lv|amædæn&pres&3s .
+%mor:	propn|qelqelækesh propn|miyad .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	are . 2063809_2064707
+%xmor:	co|are .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

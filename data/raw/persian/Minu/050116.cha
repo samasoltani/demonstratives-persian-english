@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/c-00026940-1
+@Begin
+@Languages:	fas
+@Participants:	CHI Minu Target_Child, MOT Fatemeh Mother, FAT Ali Father
+@ID:	fas|Family|CHI|5;01.16|female|||Target_Child|||
+@ID:	fas|Family|MOT||female|||Mother|||
+@ID:	fas|Family|FAT||male|||Father|||
+@Media:	050116, audio
+@Activities:	Playtime .
+@Date:	10-DEC-2008
+@Location:	Tehran , Iran
+@Transcriber:	Neiloufar Family
+@Types:	long, toyplay, TD
+*MOT:	xob , sævare mushæket shodi ? 0_11055
+%xmor:	co|xob pv:adj|sævar-EZ n|mushæk-2S v:lv|shodæn&past-2s ?
+*MOT:	pæridi bala ? 11055_11704
+%xmor:	v|pæridæn&PAST-2S adj|bala ?
+*CHI:	are . 11704_13167
+%xmor:	co|are .
+*CHI:	yæni mushækæm dasht rah mioftad ke pæridæm bala sævare mushækæm shodæm . 13167_19750
+%xmor:	adv|yæni n|mushæk-1S v:mod|dashtæn&past&3s pv:n|rah prog#v:lv|oftadæn&PAST&3S conj|ke v|pæridæn&past-1s adj|bala pv:adj|sævar-EZ n|mushæk-1S v:lv|shodæn&past-1s .
+*MOT:	xob ? 19750_21213
+%xmor:	co|xob ?
+*CHI:	bæd mushækæm dær hale koli rah oftad . 21213_26749
+%xmor:	adv|bæd n|mushæk-1S prep|dær n|hal-EZ adv|koli pv:n|rah v:lv|oftadæn&past&3s .
+*CHI:	bæd mæn hæm ke hænuz kamel sævar næshode budæm gereftæm o ba zanum +//. 26749_37240
+%xmor:	adv|bæd pro|mæn adv|hæm conj|ke adv|hænuz adj|kamel pv:adj|sævar neg#v:lv:ptcp|shodæn-PTCP v:aux|budæn&past-1s v|gereftæn&PAST-1S conj|o prep|ba n|zanum +//.
+*CHI:	chon dasht hærekæt mikærd ba zanum ræftæm bala o særi nætunestæm hæmæro xxx . 37240_47230
+%xmor:	conj|chon v:mod|dashtæn&past&3s pv:n|hærekæt prog#v:lv|kærdæn&past&3s prep|ba n|zanum v|ræftæn&past-1s adj|bala conj|o adv|særi neg#v|tævanestæn&PAST-1S pro|hæme ptl|ro unk|xxx .
+*CHI:	hala +... 47230_69508
+%xmor:	adv|hala +...
+*CHI:	maman mixam seda ro beshnævæm . 69508_89424
+%xmor:	n|maman prog#v|xastæn&pres-1s n|seda ptl|ro subj#v|shenidæn&PRES-1S .
+*MOT:	sedaye chi o ? 89424_91702
+%xmor:	n|seda-EZ wh|chi ptl|ro ?
+*CHI:	sedaye in o . 91702_93515
+%xmor:	n|seda-EZ pro:dem|in ptl|ro .
+*MOT:	sedaye chi o ? 93515_94579
+%xmor:	n|seda-EZ wh|chi ptl|ro ?
+*CHI:	sedaye in o . 94579_95359
+%xmor:	n|seda-EZ pro:dem|in ptl|ro .
+*MOT:	xxx . 95359_99432
+%xmor:	unk|xxx .
+*MOT:	mæge mushæket o hæva nemikærdi ? 99432_106831
+%xmor:	adv|mæge n|mushæk-2S ptl|ro pv:n|hæva neg_prog#v:lv|kærdæn&PAST-2S ?
+%xcau:	$C:lv:kærdæn
+*CHI:	næ , dær hali ke mushækæm o hæva +//. 106831_109340
+%xmor:	co|næ prep|dær n|hal-DEF conj|ke n|mushæk-1S ptl|ro n|hæva +//.
+*CHI:	dær hali ke sævare mushækæm o xxx daræm xxx +/. 109340_113597
+%xmor:	prep|dær n|hal-DEF conj|ke adj|sævar-EZ n|mushæk-1S conj|o unk|xxx v:mod|dashtæn&pres-1s unk|xxx +/.
+*MOT:	axe , doxtæræm , daræm seda o zæbt mikonæm . 113597_118118
+%xmor:	pro:rel|axe n|doxtær-1S v:mod|dashtæn&pres-1s n|seda ptl|ro pv:n|zæbt prog#v:lv|kærdæn&pres-1s .
+%xcau:	$C:lv:kærdæn
+*MOT:	æge sedaye televizion hæm pæxsh beshe , dige Nilufær jun nemitune æz in sedaye zæbt shode rahæt estefade kone . 118118_125866
+%xmor:	conj|æge n|seda-EZ n|televizion adv|hæm pv:adj|pæxsh subj#v:lv|shodæn&pres-3s adv|dige n:prop|Nilufær n|jun neg_prog#v|tævanestæn&pres-3s prep|æz pro:dem|in n|seda-EZ pv:n|zæbt v:lv:ptcp|shodæn-PTCP adv|rahæt pv:n|estefade v:lv|kærdæn&pres-3s .
+*MOT:	væli , æge mixai ke televizion o nega koni , mitunim zæbt o xamush konim . 125866_133347
+%xmor:	conj|væli conj|æge prog#v|xastæn&pres-2s conj|ke n|televizion ptl|ro pv:n|nega v:lv|kærdæn&pres-2s prog#v|tævanestæn&pres-1p n|zæbt ptl|ro pv:adj|xamush v:lv|kærdæn&pres-1p .
+%xcau:	$C:lv:kærdæn
+*CHI:	mixam nega konæm . 133347_134376
+%xmor:	prog#v|xastæn&pres-1s pv:n|nega v:lv|kærdæn&pres-1s .
+*MOT:	mixai nega koni ? 134376_134942
+%xmor:	prog#v|xastæn&pres-2s pv:n|nega v:lv|kærdæn&pres-2s ?
+*CHI:	zæbt o xamush kon . 134942_137636
+%xmor:	n|zæbt ptl|ro pv:adj|xamush v:lv|kærdæn&pres&imp&2s .
+%xcau:	$C:lv:kærdæn
+@End

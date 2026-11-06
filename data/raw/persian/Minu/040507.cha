@@ -1,0 +1,67 @@
+@UTF8
+@PID:	11312/c-00026886-1
+@Begin
+@Languages:	fas
+@Participants:	CHI Minu Target_Child, MOT Fatemeh Mother, FAT Ali Father
+@ID:	fas|Family|CHI|4;05.07|female|||Target_Child|||
+@ID:	fas|Family|MOT||female|||Mother|||
+@ID:	fas|Family|FAT||male|||Father|||
+@Media:	040507, audio
+@Activities:	discussion after previous singing of CHI .
+@Date:	31-MAR-2008
+@Location:	Tehran , Iran
+@Transcriber:	Neiloufar Family
+@Types:	long, toyplay, TD
+*CHI:	&~singing . 1_2610
+*FAT:	xoshal shodi (.) æz in chizi ke zæbt kærdi ? 2610_6583
+%xmor:	pv:adj|xoshal v:Lv|shodæn&past-2s prep|æz pro:dem|in n|chiz-DEF conj|ke pv:n|zæbt v:Lv|kærdæn&past-2s ?
+%xcau:	$C:lv:kærdæn
+*MOT:	ba mæni ? 6583_7481
+%xmor:	prep|ba pro|mæn~v|budæn&PRES&2S ?
+*FAT:	næ ba Minuæm . 7481_7981
+%xmor:	co|næ prep|ba n:prop|Minuæm .
+*MOT:	ahan . 7981_8378
+%xmor:	co|ahan .
+*FAT:	xoshal shodi baba æz in avazi ke zæbt kærdi ? 8378_11638
+%xmor:	pv:adj|xoshal v:Lv|shodæn&past-2s n|baba prep|æz pro:dem|in n|avaz-DEF conj|ke pv:n|zæbt v:lv|kærdæn&past-2s ?
+%xcau:	$C:lv:kærdæn
+*CHI:	bæle . 11638_12120
+%xmor:	co|bæle .
+*CHI:	maman mæn Ey Iran zæbt kærdæm . 12120_14879
+%xmor:	n|maman pro|mæn n:prop|Ey n:prop|Iran pv:n|zæbt v:lv|kærdæn&past-1s .
+%xcau:	$C:lv:kærdæn
+*MOT:	shenidæm dashti mixundi . 14879_17323
+%xmor:	v|shenidæn&PAST-1S v:mod|dashtæn&past-2s prog#v|xandæn&PAST-2S .
+*MOT:	xub shod ? 17323_18869
+%xmor:	pv:adj|xub v:Lv|shodæn&past&3s ?
+*MOT:	shenidi sedat o ? 18869_20082
+%xmor:	v|shenidæn&PAST-2S n|seda-2s ptl|ro ?
+*CHI:	taze maman . 20082_21331
+%xmor:	adj|taze n|maman .
+*CHI:	in Ey Iran o negæh midarim . 21331_23342
+%xmor:	pro:dem|in n:prop|Ey n:prop|Iran ptl|ro pv:n|negæh prog#v:lv|dashtæn&PRES-1P .
+*MOT:	ahan ? 23342_24388
+%xmor:	co|ahan ?
+*CHI:	ye ruz ke +... 24388_25286
+%xmor:	qn|ye n|ruz conj|ke +...
+*MOT:	xob ? 25286_31304
+%xmor:	co|xob ?
+*MOT:	che ruzi ? 31304_33749
+%xmor:	wh|che n|ruz-DEF ?
+*CHI:	tævælode yekishun xastim berim unja +... 33749_37240
+%xmor:	n|tævælod-EZ qn|yeki-3p v|xastæn&PAST-1P subj#v|ræftæn&pres-1p pro:dem|unja +...
+*MOT:	ahan ? 37240_38369
+%xmor:	co|ahan ?
+*CHI:	migæm bebærim +//. 38369_39749
+%xmor:	prog#v|goftæn&pres-1s subj#v|bordæn&pres-1p +//.
+%xcau:	$C:lex:bordæn
+*CHI:	Ey Iran o zæbt konim bebærim bexunim . 39749_42758
+%xmor:	n:prop|Ey n:prop|Iran ptl|ro pv:n|zæbt v:lv|kærdæn&pres-1p subj#v|bordæn&pres-1p subj#v|xandæn&PRES-1P .
+%xcau:	$C:lv:kærdæn $C:lex:bordæn
+*CHI:	bæd hærki shenid +/. 42758_44638
+%xmor:	adv|bæd pro|hærki v|shenidæn&PAST&3S +/.
+*MOT:	xoshal mishe . 44638_46981
+%xmor:	pv:adj|xoshal prog#v:lv|shodæn&pres-3s .
+*CHI:	xxx . 46981_52601
+%xmor:	unk|xxx .
+@End

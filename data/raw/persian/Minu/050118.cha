@@ -1,0 +1,641 @@
+@UTF8
+@PID:	11312/c-00026941-1
+@Begin
+@Languages:	fas
+@Participants:	CHI Minu Target_Child, MOT Fatemeh Mother, FAT Ali Father
+@ID:	fas|Family|CHI|5;01.18|female|||Target_Child|||
+@ID:	fas|Family|MOT||female|||Mother|||
+@ID:	fas|Family|FAT||male|||Father|||
+@Media:	050118, audio
+@Activities:	Playtime .
+@Date:	12-DEC-2008
+@Location:	Tehran , Iran
+@Transcriber:	Neiloufar Family
+@Types:	long, toyplay, TD
+*CHI:	xxx . 0_15861
+%xmor:	unk|xxx .
+*CHI:	tæmum shod ? 15861_16342
+%xmor:	pv:adj|tæmum v:lv|shodæn&past&3s ?
+*MOT:	chi tæmum shod maman jun ? 16342_17490
+%xmor:	wh|chi pv:adj|tæmum v:lv|shodæn&past&3s n|maman n|jun ?
+*CHI:	un zæbt o xamush kærdi ? 17490_20333
+%xmor:	pro:dem|un n|zæbt ptl|ro pv:adj|xamush v:lv|kærdæn&past-2s ?
+%xcau:	$C:lv:kærdæn
+*CHI:	ya roshæn kærdi ? 20333_22110
+%xmor:	conj|ya pv:adj|roshæn v:lv|kærdæn&past-2s ?
+%xcau:	$C:lv:kærdæn
+*MOT:	næ , roshæn kærdæm . 22110_24389
+%xmor:	co|næ pv:adj|roshæn v:lv|kærdæn&past-1s .
+%xcau:	$C:lv:kærdæn
+*MOT:	mixai roshæn bashe , ya mixai xamush bashe ? 24389_27565
+%xmor:	prog#v|xastæn&pres-2s adj|roshæn v|budæn&SUBJ&PRES-3S conj|ya prog#v|xastæn&pres-2s adj|xamush v|budæn&SUBJ&PRES-3S ?
+*CHI:	hichi , mixastæm +/. 27565_29775
+%xmor:	co|hichi prog#v|xastæn&PAST-1S +/.
+*MOT:	kari be kare to nædare ke . 29775_31453
+%xmor:	pv:n|kar-DEF prep|be n|kar-EZ pro|to neg#v:lv|dashtæn&pres-3s pro:rel|ke .
+*MOT:	æge ke +/. 31453_32053
+%xmor:	conj|æge conj|ke +/.
+*CHI:	næ , fekr kærdæm xamush kærdi . 32053_34231
+%xmor:	co|næ pv:n|fekr v:lv|kærdæn&past-1s pv:adj|xamush v:lv|kærdæn&past-2s .
+%xcau:	$C:lv:kærdæn
+*MOT:	m , næ . 34231_34645
+%xmor:	co|m co|næ .
+*MOT:	taze roshæn kærdæm . 34645_35361
+%xmor:	adj|taze pv:adj|roshæn v:lv|kærdæn&past-1s .
+%xcau:	$C:lv:kærdæn
+*CHI:	xob . 35361_37305
+%xmor:	co|xob .
+*MOT:	mixaim berim koja ? 37305_39500
+%xmor:	prog#v|xastæn&pres-1p subj#v|ræftæn&pres-1p wh|koja ?
+*CHI:	mixaim berim be shæhre xodemun . 39500_42277
+%xmor:	prog#v|xastæn&pres-1p subj#v|ræftæn&pres-1p prep|be n|shæhr-EZ n|xod-1p .
+*CHI:	xxx shæhre siahpustast . 42277_44471
+%xmor:	unk|xxx n|shæhr-EZ n|siahpust-PL .
+*MOT:	ah ah . 44471_45601
+%xmor:	co|ah co|ah .
+*MOT:	hæme bæcheha sævare xxx +/. 45601_46897
+%xmor:	pro|hæme n|bæche-pl adj|sævar-EZ unk|xxx +/.
+*CHI:	næ , xxx +/. 46897_47629
+%xmor:	co|næ unk|xxx +/.
+*CHI:	næ , shæhre sorxpustast . 47629_49592
+%xmor:	co|næ n|shæhr-EZ n|sorxpust-PL~v|budæn&PRES&3S .
+*MOT:	shæhre sorxpusta ? 49592_50822
+%xmor:	n|shæhr-EZ n|sorxpust-PL ?
+*MOT:	xob , bæd ba chi darin sæfær mikonin ? 50822_54479
+%xmor:	co|xob adv|bæd prep|ba wh|chi v:mod|dashtæn&PRES-2P pv:n|sæfær prog#v:lv|kærdæn&PRES-2P ?
+*CHI:	ba in kæshtiye xxx . 54479_58136
+%xmor:	prep|ba pro:dem|in n|kæshti-EZ unk|xxx .
+*MOT:	kashke mishod mæn ælan ækse to ro bæraye Nilufær jun inja zæmine konæm be in seda . 58136_65220
+%xmor:	adv|kash conj|ke prog#v|shodæn&past&3s pro|mæn adv|ælan n|æks-EZ pro|to ptl|ro prep|bæra-EZ n:prop|Nilufær n|jun pro:dem|inja pv:n|zæmine v:lv|kærdæn&pres-1s prep|be pro:dem|in n|seda .
+%xcau:	$C:lv:kærdæn
+*MOT:	bebine ke che keshtiyi dorost kærde Minu . 65220_67497
+%xmor:	subj#v|didæn&pres-3s conj|ke wh|che n|keshti-DEF pv:adj|dorost v:lv|kærdæn&PAST-3s n:prop|Minu .
+%xcau:	$C:lv:kærdæn
+*CHI:	xob , dæfehaye bæd hæm in keshti ro injuri dorost mikonæm . 67497_70923
+%xmor:	co|xob n|dæfe-PL-EZ adv|bæd adv|hæm pro:dem|in n|keshti ptl|ro adv|injuri pv:adj|dorost prog#v:lv|kærdæn&pres-1s .
+%xcau:	$C:lv:kærdæn
+*MOT:	are . 70923_71604
+%xmor:	co|are .
+*CHI:	xeili keshtiye xubie . 71604_73766
+%xmor:	adv|xeili n|keshti-EZ adj|xub-DEF~v|budæn&PRES&3S .
+*MOT:	xeili . 73766_75543
+%xmor:	adv|xeili .
+*CHI:	residim . 75543_77173
+%xmor:	n|residæn&PAST-1P .
+*CHI:	unjast shæhre sorxpusta . 77173_79801
+%xmor:	pro:dem|unja~v|budæn&PRES&3S n|shæhr-EZ n|sorxpust-PL .
+*MOT:	e ? 79801_80382
+%xmor:	co|e ?
+*MOT:	unvæqt lakposhta montæzeretunæn ? 80382_82627
+%xmor:	adv|unvæqt n|lakposht-PL adj|montæzer-2P~v|budæn&PRES&3P ?
+*CHI:	xxx bæle . 82627_84007
+%xmor:	unk|xxx co|bæle .
+*CHI:	hæme montæzeræn . 84007_86932
+%xmor:	pro|hæme adj|montæzer~v|budæn&PRES&3P .
+*MOT:	hæme montæzeretæn ? 86932_87664
+%xmor:	pro|hæme adj|montæzer-2S~v|budæn&PRES&3P ?
+*CHI:	+< maman Vinipu ro bordi ? 87664_89293
+%xmor:	n|maman n:prop|Vinipu ptl|ro v|bordæn&PAST-2S ?
+%xcau:	$C:lex:bordæn
+*MOT:	Vinipu ro ? 89293_89893
+%xmor:	n:prop|Vinipu ptl|ro ?
+*MOT:	næ mæn næbordæm . 89893_90756
+%xmor:	co|næ pro|mæn neg#v|bordæn&PAST-1S .
+%xcau:	$C:lex:bordæn
+*CHI:	kojast pæs ? 90756_92219
+%xmor:	wh|koja~v|budæn&PRES&3S adv|pæs ?
+*MOT:	tu otaq fekr konæm bordi . 92219_94496
+%xmor:	prep|tu n|otaq pv:n|fekr v:lv|kærdæn&pres-1s v|bordæn&PAST-2S .
+%xcau:	$C:lex:bordæn
+*MOT:	xodet bayæd xodet bayæd beri biarish . 94496_95561
+%xmor:	n|xod-2s v:mod|bayestæn&past&3s n|xod-2s v:mod|bayestæn&past&3s subj#v|ræftæn&pres-2s subj#v|aværdæn&PRES-2S-3S .
+%xcau:	$C:lex:aværdæn
+*CHI:	mæn næbordæm . 95561_97755
+%xmor:	pro|mæn neg#v|bordæn&PAST-1S .
+%xcau:	$C:lex:bordæn
+*MOT:	ye xxx begir o bodo boro biaresh . 97755_99718
+%xmor:	qn|ye unk|xxx imp#v|gereftæn&pres&2s conj|o imp#v|doidæn&pres&2s imp#v|ræftæn&pres&2s imp#v|aværdæn&PRES&2S-3S .
+%xcau:	$C:lex:aværdæn
+*CHI:	xodæm bordæmesh . 99718_112236
+%xmor:	n|xod-1s subj#v|bordæn&PRES-1S-3s .
+%xcau:	$C:lex:bordæn
+*MOT:	ahan ? 112236_114829
+%xmor:	co|ahan ?
+*CHI:	xxx bud . 114829_116625
+%xmor:	unk|xxx v|budæn&past&3s .
+*CHI:	xxx . 116625_120115
+%xmor:	unk|xxx .
+*CHI:	ævæl shoma piade shin , æzizaye mæn . 120115_140431
+%xmor:	adv|ævæl pro|shoma pv:adj|piade v:lv|shodæn&PRES&IMP&2P n|æziz-PL-EZ pro|mæn .
+*CHI:	bæd shoma . 140431_143107
+%xmor:	adv|bæd pro|shoma .
+*CHI:	be tærtib . 143107_144338
+%xmor:	prep|be n|tærtib .
+*CHI:	xxx . 144338_148477
+%xmor:	unk|xxx .
+*CHI:	ax æz xxx . 148477_149208
+%xmor:	co|ax prep|æz unk|xxx .
+*CHI:	ah , mæge ma axe +... 149208_153597
+%xmor:	co|ah adv|mæge pro|ma pro:rel|axe +...
+*CHI:	xxx . 153597_160995
+%xmor:	unk|xxx .
+*CHI:	maman ? 160995_161393
+%xmor:	n|maman ?
+*CHI:	hala miduni esme in chi shod ? 161393_162791
+%xmor:	adv|hala prog#v|danestæn&pres-2s n|esm-EZ pro:dem|in wh|chi v|shodæn&past&3s ?
+*MOT:	chi ? 162791_163588
+%xmor:	wh|chi ?
+*MOT:	esme ki ? 163588_164121
+%xmor:	n|esm-EZ wh|ki ?
+*CHI:	esme in ? 164121_164735
+%xmor:	n|esm-EZ pro:dem|in ?
+*MOT:	e ? 164735_165217
+%xmor:	co|e ?
+*MOT:	emruz . 165217_165701
+%xmor:	n|emruz .
+*MOT:	xob ? 165701_166132
+%xmor:	co|xob ?
+*MOT:	emruz esmesh chie ? 166132_167196
+%xmor:	n|emruz n|esm-3s wh|chi~v|budæn&PRES&3S ?
+*CHI:	Alma . 167196_168659
+%xmor:	n:prop|Alma .
+*MOT:	Alma . 168659_169558
+%xmor:	n:prop|Alma .
+*MOT:	Alma miduni yæni chi ? 169558_173298
+%xmor:	n:prop|Alma prog#v|danestæn&pres-2s adv|yæni wh|chi ?
+*CHI:	yæni chi ? 173298_173697
+%xmor:	adv|yæni wh|chi ?
+*MOT:	Alma torkie . 173697_175410
+%xmor:	n:prop|Alma adj|tork-ADJR~v|budæn&PRES&3S .
+*MOT:	yæni sib . 175410_176224
+%xmor:	adv|yæni n|sib .
+*CHI:	sib . 176224_178002
+%xmor:	n|sib .
+*MOT:	are , xeili esme qæshængie . 178002_179715
+%xmor:	co|are adv|xeili n|esm-EZ adj|qæshæng-DEF~v|budæn&PRES&3S .
+*CHI:	Alma . 179715_181659
+%xmor:	n:prop|Alma .
+*CHI:	Alma ? 181659_185002
+%xmor:	n:prop|Alma ?
+*CHI:	bæle . 185002_185816
+%xmor:	co|bæle .
+*CHI:	xxx . 185816_188011
+%xmor:	unk|xxx .
+*CHI:	mæmnunæm . 188011_193298
+%xmor:	n|mæmnun~v|budæn&PRES&1S .
+*CHI:	sælam . 193298_197687
+%xmor:	co|sælam .
+*MOT:	Minu , ye xorde bolændtær sohbæt kon ke sedat zæbt beshe , bashe maman jun ? 197687_209141
+%xmor:	n:prop|Minu qn|ye n|xorde adj|bolænd-CP pv:n|sohbæt v:lv|kærdæn&pres&imp&2s conj|ke n|seda-2s pv:n|zæbt subj#v:lv|shodæn&pres-3s v|budæn&SUBJ&PRES-3S n|maman n|jun ?
+*CHI:	bashe . 209141_209824
+%xmor:	co|bashe .
+*CHI:	maman , mishe gush nædi ? 209824_214761
+%xmor:	n|maman prog#v|shodæn&pres-3s pv:n|gush neg#v:lv|dadæn&PRES-2S ?
+*MOT:	næ , mæn gush nemidæm , væli bære in ke sedat zæbt beshe , ye kæm bolændtær sohbæt kon , bashe ? 214761_219882
+%xmor:	co|næ pro|mæn pv:n|gush neg_prog#v:lv|dadæn&pres-1s conj|væli prep|bæra-EZ pro:dem|in conj|ke n|seda-2s pv:n|zæbt subj#v:lv|shodæn&pres-3s qn|ye adj|kæm adj|bolænd-CP pv:n|sohbæt v:lv|kærdæn&pres&imp&2s co|bashe ?
+*CHI:	xxx . 219882_221113
+%xmor:	unk|xxx .
+*MOT:	chi doxtæræm ? 221113_223224
+%xmor:	wh|chi n|doxtær-1S ?
+*CHI:	bashe . 223224_224770
+%xmor:	co|bashe .
+*CHI:	maman , mishe gush nædi ? 224770_227928
+%xmor:	n|maman prog#v|shodæn&pres-3s pv:n|gush neg#v:lv|dadæn&PRES-2S ?
+*MOT:	næ , mæn gush nemidæm . 227928_229391
+%xmor:	co|næ pro|mæn pv:n|gush neg_prog#v:lv|dadæn&pres-1s .
+*CHI:	+< gushat o begir . 229391_229741
+%xmor:	pv:n|gush-PL-2S ptl|ro imp#v:lv|gereftæn&pres&2s .
+*MOT:	mæn gusham o migiræm , bashe . 229741_230788
+%xmor:	pro|mæn pv:n|gush-PL-1S ptl|ro prog#v:lv|gereftæn&PRES-1S co|bashe .
+*CHI:	&~singing . 230788_240047
+*CHI:	hala . 240047_243455
+%xmor:	adv|hala .
+*CHI:	xxx . 243455_244686
+%xmor:	unk|xxx .
+*CHI:	chera inja neshesti ? 244686_256621
+%xmor:	wh|chera pro:dem|inja v|neshæstæn&PAST-2S ?
+*CHI:	em , chize . 256621_260113
+%xmor:	co|em n|chiz~v|budæn&PRES&3S .
+*CHI:	xxx . 260113_265483
+%xmor:	unk|xxx .
+*CHI:	ængoshtær ro xxx . 265483_271982
+%xmor:	n|ængoshtær ptl|ro unk|xxx .
+*CHI:	chize mohemi nist . 271982_275075
+%xmor:	n|chiz-EZ adj|mohem-DEF v|budæn&pres&neg&3s .
+*CHI:	næ , hætmæn bayæd bebinæm . 275075_277751
+%xmor:	co|næ adv|hætmæn v:mod|bayestæn&past&3s subj#v|didæn&pres-1s .
+*CHI:	æge ængoshtær xxx bashe , mæn migiræm mixoræmesh . 277751_283288
+%xmor:	conj|æge n|ængoshtær unk|xxx v|budæn&SUBJ&PRES-3S pro|mæn prog#v|gereftæn&PRES-1S prog#v|xordæn&PRES-1S-3S .
+*CHI:	ængoshtær sæhi nist . 283288_286547
+%xmor:	n|ængoshtær adj|sæhi v|budæn&pres&neg&3s .
+*CHI:	midunæm ængoshtær sæhi xxx . 286547_289390
+%xmor:	prog#v|danestæn&pres-1s n|ængoshtær adj|sæhi unk|xxx .
+*CHI:	bebin , fæqæt ye mobailæm hæst . 289390_294693
+%xmor:	imp#v|didæn&pres&2s adv|fæqæt qn|ye n|mobail-1S v|budæn&pres&3s .
+*CHI:	hæmin chizast dige . 294693_299897
+%xmor:	pro:dem|hæmin n|chiz-PL~v|budæn&PRES&3S pro:rel|dige .
+*CHI:	xxx chizaye xxx Almast . 299897_304553
+%xmor:	unk|xxx n|chiz-PL-EZ unk|xxx n:prop|Alma~v|budæn&PRES&3S .
+*CHI:	in rusærie Almast . 304553_308110
+%xmor:	pro:dem|in n|rusæri-EZ n:prop|Alma~v|budæn&PRES&3S .
+*CHI:	mæn ke xodæm rusæri xxx . 308110_312017
+%xmor:	pro|mæn conj|ke n|xod-1s n|rusæri unk|xxx .
+*CHI:	xxx chiz beshe særdet beshe . 312017_316638
+%xmor:	unk|xxx n|chiz subj#v|shodæn&pres-3s pv:adj|særd-2S subj#v:lv|shodæn&pres-3s .
+*CHI:	særdæm beshe ? 316638_318434
+%xmor:	pv:adj|særd-1S subj#v:lv|shodæn&pres-3s ?
+*CHI:	xxx . 318434_321924
+%xmor:	unk|xxx .
+*CHI:	bexab . 321924_322490
+%xmor:	imp#v|xabidæn&PRES&2S .
+*CHI:	a , deraz keshid . 322490_325415
+%xmor:	co|a pv:adj|deraz v:lv|keshidæn&PAST&3S .
+*CHI:	a , beræm [/] beræm [/] beræm [/] beræm . 325415_335508
+%xmor:	co|a subj#v|ræftæn&pres-1s .
+*CHI:	&~singing . 335508_340942
+*CHI:	mixai rah berim ? 340942_348591
+%xmor:	prog#v|xastæn&pres-2s pv:n|rah subj#v:lv|ræftæn&pres-1p ?
+*CHI:	næ , miræm bala . 348591_350137
+%xmor:	co|næ prog#v|ræftæn&pres-1s adj|bala .
+*CHI:	xxx . 350137_354193
+%xmor:	unk|xxx .
+*CHI:	berim æz xxx . 354193_362072
+%xmor:	subj#v|ræftæn&pres-1p prep|æz unk|xxx .
+*CHI:	xxx . 362072_364267
+%xmor:	unk|xxx .
+*CHI:	mæn mixam beræm jelo beshinæm . 364267_369304
+%xmor:	pro|mæn prog#v|xastæn&pres-1s subj#v|ræftæn&pres-1s adv|jelo subj#v|neshæstæn&PRES-1S .
+*CHI:	jelo ? 369304_370468
+%xmor:	adv|jelo ?
+*CHI:	mæge un ræise ? 370468_371498
+%xmor:	adv|mæge pro:dem|un n|ræis~v|budæn&PRES&3S ?
+*CHI:	xxx bozorgtære . 371498_374757
+%xmor:	unk|xxx adj|bozorg-CP~v|budæn&PRES&3S .
+*CHI:	to mæge bozorgtær nisti ? 374757_378183
+%xmor:	pro|to adv|mæge adj|bozorg-cp v|budæn&pres&neg-1s ?
+*CHI:	bozorgtæræm , væli +... 378183_379562
+%xmor:	adj|bozorgtær~v|budæn&PRES&1S conj|væli +...
+*FAT:	chera enqædr bu dær miad ? 379562_382803
+%xmor:	wh|chera adv|enqædr n|bu pv:prep|dær prog#v:lv|amædæn&PRES&3S ?
+*MOT:	buye chi ? 382803_385812
+%xmor:	n|bu-EZ wh|chi ?
+*FAT:	buye qæzaye suxte miad . 385812_387924
+%xmor:	pv:n|bu-EZ n|qæza-EZ v:ptcp|suxtæn-PTCP prog#v:lv|amædæn&PRES&3S .
+*MOT:	xxx xamushe . 387924_391015
+%xmor:	unk|xxx adj|xamush~v|budæn&PRES&3S .
+*FAT:	han ? 391015_392081
+%xmor:	co|han ?
+*MOT:	qæzaye ma xamushe . 392081_393941
+%xmor:	n|qæza-EZ pro|ma adj|xamush~v|budæn&PRES&3S .
+*CHI:	mæn xxx +/. 393941_397117
+%xmor:	pro|mæn unk|xxx +/.
+*FAT:	xxx gaz nædarim , næ ? 397117_398016
+%xmor:	unk|xxx n|gaz neg#v|dashtæn&pres-1p co|næ ?
+*MOT:	næ . 398016_398797
+%xmor:	co|næ .
+*FAT:	chon xxx . 398797_399877
+%xmor:	conj|chon unk|xxx .
+*FAT:	polopæz . 399877_400859
+%xmor:	n|polopæz .
+*MOT:	tsk . 400859_401192
+%xmor:	co|tsk .
+*MOT:	ælan ye bui æz inja amæd . 401192_403136
+%xmor:	adv|ælan qn|ye pv:n|bu-DEF prep|æz pro:dem|inja v:lv|amædæn&past&3s .
+*CHI:	næ , bui næyamæd . 403136_405747
+%xmor:	co|næ pv:n|bu-DEF neg#v:lv|amædæn&past&3s .
+*CHI:	bui næyamæd . 405747_406793
+%xmor:	pv:n|bu-DEF neg#v:lv|amædæn&past&3s .
+*CHI:	mæn xxx nækærdæm . 406793_408356
+%xmor:	pro|mæn unk|xxx neg#v|kærdæn&past-1s .
+*MOT:	næ , buye xasi næyamæd . 408356_410136
+%xmor:	co|næ pv:n|bu-EZ adj|xas-DEF neg#v:lv|amædæn&past&3s .
+*FAT:	fæhmidæm chi shod . 410136_410951
+%xmor:	v|fæhmidæn&past-1s n|chi v|shodæn&past&3s .
+*MOT:	shayæd buye qæzaye hæmsayehast . 410951_415507
+%xmor:	conj|shayæd n|bu-EZ n|qæza-EZ n|hæmsaye-PL~v|budæn&PRES&3S .
+*FAT:	mixai roshænesh konim ? 415507_416720
+%xmor:	prog#v|xastæn&pres-2s pv:adj|roshæn-3S v:lv|kærdæn&pres-1p ?
+%xcau:	$C:lv:kærdæn
+*MOT:	næ , xxx . 416720_419414
+%xmor:	co|næ unk|xxx .
+*CHI:	shayæd hæm polopæz dæreje gozashte . 419414_428025
+%xmor:	conj|shayæd adv|hæm n|polopæz n|dæreje v|gozashtæn&past-3s .
+*CHI:	&~singing . 428025_456219
+*CHI:	xob . 456219_456619
+%xmor:	co|xob .
+*CHI:	xxx . 456619_459876
+%xmor:	unk|xxx .
+*CHI:	væli æge un xxx . 459876_464117
+%xmor:	conj|væli conj|æge pro:dem|un unk|xxx .
+*CHI:	a , bashe . 464117_468189
+%xmor:	co|a co|bashe .
+*CHI:	bashe . 468189_469070
+%xmor:	co|bashe .
+*CHI:	hala bashe . 469070_469886
+%xmor:	adv|hala co|bashe .
+*CHI:	xxx . 469886_477366
+%xmor:	unk|xxx .
+*CHI:	bashe . 477366_484747
+%xmor:	co|bashe .
+%com:	CHI whispering , playing with dolls .
+*CHI:	xxx . 514747_523366
+%xmor:	unk|xxx .
+*CHI:	bebæxshid , mæn poshtetunæm a . 523366_529884
+%xmor:	imp#v|bæxshidæn&PRES&2S pro|mæn n|posht-2P~v|budæn&PRES&1S co|a .
+*CHI:	xxx . 529884_534838
+%xmor:	unk|xxx .
+*CHI:	næ , kash bæchæm xxx . 534838_537847
+%xmor:	co|næ co|kash n|bæche-1S unk|xxx .
+*CHI:	boro biar . 537847_539227
+%xmor:	imp#v|ræftæn&pres&2s imp#v|aværdæn&pres&2s .
+%xcau:	$C:lex:aværdæn
+*CHI:	mæge xxx . 539227_541254
+%xmor:	adv|mæge unk|xxx .
+*CHI:	næ , in shæmshire mæne . 541254_542900
+%xmor:	co|næ pro:dem|in n|shæmshir-EZ pro|mæn~v|budæn&PRES&3S .
+*CHI:	æge xxx amæd , bæd xxx . 542900_545743
+%xmor:	conj|æge unk|xxx v|amædæn&past&3s adv|bæd unk|xxx .
+*CHI:	xxx . 545743_549634
+%xmor:	unk|xxx .
+*CHI:	shæmshirayi ke xxx . 549634_557995
+%xmor:	n|shæmshir-PL-DEF conj|ke unk|xxx .
+*CHI:	xxx migoftæm bayæd xxx . 557995_564662
+%xmor:	unk|xxx prog#v|goftæn&past-1s v:mod|bayestæn&past&3s unk|xxx .
+*CHI:	zud biare ke dust xxx . 564662_571726
+%xmor:	adv|zud subj#v|aværdæn&pres-3s conj|ke n|dust unk|xxx .
+%xcau:	$C:lex:aværdæn
+*CHI:	unja koja gozashti . 571726_575252
+%xmor:	pro:dem|unja wh|koja v|gozashtæn&past-2s .
+%xcau:	$C:lex:gozashtæn
+*CHI:	jayi næzashtæm . 575252_578727
+%xmor:	n|ja-DEF neg#v|gozashtæn&PAST-1S .
+%xcau:	$C:lex:gozashtæn
+*CHI:	tu lebaset gozashti . 578727_585957
+%xmor:	prep|tu n|lebas-2S v|gozashtæn&past-2s .
+%xcau:	$C:lex:gozashtæn
+*CHI:	han ? 585957_586856
+%xmor:	co|han ?
+*CHI:	bæle . 586856_587537
+%xmor:	co|bæle .
+*CHI:	bæle . 587537_587852
+%xmor:	co|bæle .
+*CHI:	tu lebasæm gozashtæm . 587852_589449
+%xmor:	prep|tu n|lebas-1S v|gozashtæn&PAST-1S .
+%xcau:	$C:lex:gozashtæn
+*CHI:	mixam xxx bazi konæm . 589449_591078
+%xmor:	prog#v|xastæn&pres-1s unk|xxx pv:n|bazi v:lv|kærdæn&pres-1s .
+*CHI:	&~singing . 591078_596513
+*CHI:	mæn miræm tu dæshta . 596513_599041
+%xmor:	pro|mæn prog#v|ræftæn&pres-1s prep|tu n|dæsht-PL .
+*CHI:	tu sæhra . 599041_600587
+%xmor:	prep|tu n|sæhra .
+*CHI:	&~singing . 600587_675513
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 675513_677659
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 677659_679901
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 679901_685022
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 685022_688679
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 688679_691855
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 691855_695428
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 695428_697623
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 697623_700966
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm . 700966_707299
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 707299_709493
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	ovordæm [/] ovordæm [/] ovordæm . 709493_714364
+%xmor:	v|aværdæn&past-1s .
+%xcau:	$C:lex:aværdæn
+*CHI:	mæn xxx . 714364_718021
+%xmor:	pro|mæn unk|xxx .
+*CHI:	xxx ta kærdæn . 718021_758585
+%xmor:	unk|xxx pv:n|ta v:lv|kærdæn&PAST-3P .
+*CHI:	xxx . 758585_766715
+%xmor:	unk|xxx .
+*CHI:	nækon xxx . 766715_767363
+%xmor:	neg_imp#v|kærdæn&pres&2s unk|xxx .
+*CHI:	xxx . 767363_770373
+%xmor:	unk|xxx .
+*CHI:	næ , Vinipu amæd . 770373_776456
+%xmor:	co|næ n:prop|Vinipu v|amædæn&past&3s .
+*CHI:	e , bazi kon dige . 776456_787428
+%xmor:	co|e pv:n|bazi v:lv|kærdæn&pres&imp&2s pro:rel|dige .
+*MOT:	Minu , mæn æsæn be hærfat gush nemidæm , væli bolændtær sohbæt kon ke zæbt beshe . 787428_795990
+%xmor:	n:prop|Minu pro|mæn adv|æsæn prep|be n|hærf-PL-2S pv:n|gush neg_prog#v:lv|dadæn&pres-1s conj|væli adj|bolænd-CP pv:n|sohbæt v:lv|kærdæn&pres&imp&2s conj|ke pv:n|zæbt subj#v:lv|shodæn&pres-3s .
+*CHI:	maman , æsæn gushat o begir . 795990_797353
+%xmor:	n|maman adv|æsæn pv:n|gush-PL-2S ptl|ro imp#v:lv|gereftæn&pres&2s .
+*MOT:	æsæn mæn gusham o bæstæm . 797353_798483
+%xmor:	adv|æsæn pro|mæn n|gush-PL-1S ptl|ro v|bæstæn&past-1s .
+%xcau:	$C:lex:bæstæn
+*MOT:	chon daræm bære xodæm avaz mixunæm , xob ? 798483_800529
+%xmor:	conj|chon v:mod|dashtæn&pres-1s prep|bæra-EZ n|xod-1s n|avaz prog#v|xandæn&PRES-1S co|xob ?
+*MOT:	væli to arum sohbæt koni , zæbt nemishe dorost . 800529_803686
+%xmor:	conj|væli pro|to adj|arum pv:n|sohbæt v:lv|kærdæn&pres-2s pv:n|zæbt neg_prog#v:lv|shodæn&pres-3s adv|dorost .
+*CHI:	bashe . 803686_805149
+%xmor:	co|bashe .
+*CHI:	xxx . 805149_810038
+%xmor:	unk|xxx .
+*CHI:	e , bashe . 810038_813445
+%xmor:	co|e co|bashe .
+*CHI:	axe shahzade xxx . 813445_820278
+%xmor:	pro:rel|axe n|shahzade unk|xxx .
+*CHI:	xxx . 820278_837834
+%xmor:	unk|xxx .
+*CHI:	xob . 837834_849139
+%xmor:	co|xob .
+*CHI:	xxx . 849139_867509
+%xmor:	unk|xxx .
+%com:	CHI whispering to dolls .
+*CHI:	mæxusæn xabæm xxx . 1047509_1054202
+%xmor:	adv|mæxusæn n|xab-1S unk|xxx .
+*CHI:	chi ? 1054202_1055665
+%xmor:	wh|chi ?
+*CHI:	chera ? 1055665_1055998
+%xmor:	wh|chera ?
+*CHI:	æge to nemixabi , mæn nemixabæm . 1055998_1068433
+%xmor:	conj|æge pro|to neg_prog#v|xabidæn&PRES-2S pro|mæn neg_prog#v|xabidæn&PRES-1S .
+*CHI:	chera ? 1068433_1069182
+%xmor:	wh|chera ?
+*CHI:	mæn hæm dige xabæm nemiad . 1069182_1072905
+%xmor:	pro|mæn adv|hæm adv|dige pv:n|xab-1S neg_prog#v:lv|amædæn&PRES-3S .
+*CHI:	xxx . 1072905_1077609
+%xmor:	unk|xxx .
+*CHI:	xahær ? 1107609_1124690
+%xmor:	n|xahær ?
+*CHI:	han , chi xxx ? 1124690_1127515
+%xmor:	co|han wh|chi unk|xxx ?
+*CHI:	xahær xxx . 1127515_1139784
+%xmor:	n|xahær unk|xxx .
+%com:	CHI whispers for several minutes .
+*CHI:	maman ? 1859000_1860619
+%xmor:	n|maman ?
+*MOT:	bæle æzizæm ? 1860619_1871941
+%xmor:	co|bæle n|æziz-1S ?
+*MOT:	begu æzizæm . 1871941_1897776
+%xmor:	imp#v|goftæn&pres&2s n|æziz-1S .
+*CHI:	hichi . 1897776_1902831
+%xmor:	co|hichi .
+*MOT:	Minu , in væsayel pezeshkit o mæn jæm mikonæm dige , væli behtære xodet jæm koni , doxtæræm . 1902831_1914219
+%xmor:	n:prop|Minu pro:dem|in n|væsayel adj|pezeshk-ADJR-2S ptl|ro pro|mæn pv:adj|jæm prog#v:lv|kærdæn&pres-1s pro:rel|dige conj|væli adj|beh-CP~v|budæn&PRES&3S n|xod-2s pv:adj|jæm v:lv|kærdæn&pres-2s n|doxtær-1S .
+%xcau:	$C:lv:kærdæn
+*CHI:	miduni chie ? 1914219_1915266
+%xmor:	prog#v|danestæn&pres-2s wh|chi~v|budæn&PRES&3S ?
+*CHI:	mæn ælan daræm bazi mikonæm maman jan . 1915266_1918923
+%xmor:	pro|mæn adv|ælan v:mod|dashtæn&pres-1s pv:n|bazi prog#v:lv|kærdæn&pres-1s n|maman n|jan .
+*MOT:	mamani . 1918923_1919556
+%xmor:	n|mamani .
+*MOT:	hær dæfe baziye jædid mikoni , bayæd æsbabaye bazie qæblit o jæm koni . 1919556_1924294
+%xmor:	adj|hær n|dæfe pv:n|bazi-EZ adj|jædid prog#v:lv|kærdæn&pres-2s v:mod|bayestæn&past&3s n|æsbab-PL-EZ n|bazi-EZ adj|qæbl-DEF-2S ptl|ro pv:adj|jæm v:lv|kærdæn&pres-2s .
+*MOT:	doroste ? 1924294_1925840
+%xmor:	adj|dorost~v|budæn&PRES&3S ?
+*MOT:	ya næ ? 1925840_1927635
+%xmor:	conj|ya co|næ ?
+*CHI:	nemidunæm . 1927635_1930311
+%xmor:	neg_prog#v|danestæn&pres-1s .
+*MOT:	xob , axe momkene ye moqe æsbabaziat qæhr konæn , dige beræn æz xxx . 1930311_1934301
+%xmor:	co|xob pro:rel|axe adj|momken~v|budæn&PRES&3S qn|ye n|moqe n|æsbabazi-PL-2S pv:n|qæhr v:lv|kærdæn&pres-3p pro:rel|dige subj#v|ræftæn&pres-3p prep|æz unk|xxx .
+*CHI:	nemidunæm maman . 1934301_1935764
+%xmor:	neg_prog#v|danestæn&pres-1s n|maman .
+*MOT:	nemiduni ? 1935764_1936596
+%xmor:	neg_prog#v|danestæn&pres-2s ?
+*MOT:	chi ro nemiduni ? 1936596_1937393
+%xmor:	wh|chi ptl|ro neg_prog#v|danestæn&pres-2s ?
+*CHI:	nemidunæm +... 1937393_1938690
+%xmor:	neg_prog#v|danestæn&pres-1s +...
+*MOT:	nemiduni ke in kar doroste ya næ ? 1938690_1949828
+%xmor:	neg_prog#v|danestæn&pres-2s conj|ke pro:dem|in n|kar adj|dorost~v|budæn&PRES&3S conj|ya co|næ ?
+*CHI:	nemidunæm . 1949828_1950810
+%xmor:	neg_prog#v|danestæn&pres-1s .
+*MOT:	æjæb . 1950810_1953653
+%xmor:	co|æjæb .
+*MOT:	pæs fekr konæm væqti ke qæhr kærdæn ye moqe ræftæn , unvæqt dige miduni xodet . 1953653_1960486
+%xmor:	conj|pæs pv:n|fekr v:lv|kærdæn&pres-1s adv|væqti conj|ke pv:n|qæhr v:lv|kærdæn&PAST-3P qn|ye n|moqe v|ræftæn&past-3p adv|unvæqt pro:rel|dige prog#v|danestæn&pres-2s n|xod-2s .
+*CHI:	nemidunæm axe . 1960486_1961633
+%xmor:	neg_prog#v|danestæn&pres-1s pro:rel|axe .
+*CHI:	væqti adæm nemidune ye chizi o , chejuri befæhme chi kar kone , chi kar nækone ? 1961633_1968948
+%xmor:	adv|væqti n|adæm neg_prog#v|danestæn&pres-3s qn|ye n|chiz-DEF ptl|ro wh|chejuri subj#v|fæhmidæn&pres-3s wh|chi n|kar v|kærdæn&pres-3s wh|chi n|kar neg#v|kærdæn&PRES-3S ?
+*CHI:	chi kara . 1968948_1970263
+%xmor:	n|chi n|kar-PL .
+*CHI:	chi karayi ! 1970263_1971726
+%xmor:	n|chi n|kar-PL-DEF !
+*CHI:	che karayi . 1971726_1973670
+%xmor:	wh|che n|kar-PL-DEF .
+*CHI:	che kara xxx . 1973670_1976280
+%xmor:	wh|che n|kar-PL unk|xxx .
+*CHI:	chi kara . 1976280_1978641
+%xmor:	n|chi n|kar-PL .
+*CHI:	chi chi ke chi kara . 1978641_1982465
+%xmor:	n|chi n|chi conj|ke n|chi n|kar-PL .
+*CHI:	chi ke chi kara . 1982465_1985391
+%xmor:	n|chi conj|ke n|chi n|kar-PL .
+*CHI:	chi ke chi kara . 1985391_1987751
+%xmor:	n|chi conj|ke n|chi n|kar-PL .
+*CHI:	chi ke chi kara . 1987751_1991576
+%xmor:	n|chi conj|ke n|chi n|kar-PL .
+*CHI:	belæxære xxx . 1991576_2006222
+%xmor:	adv|belæxære unk|xxx .
+*CHI:	mæn chejuri mitunæm biam pain . 2006222_2012539
+%xmor:	pro|mæn wh|chejuri prog#v|tævanestæn&pres-1s subj#v|amædæn&PRES-1S adv|pain .
+*CHI:	mesle mæn bia . 2012539_2016529
+%xmor:	adj|mesl-EZ pro|mæn imp#v|amædæn&pres&2s .
+*CHI:	tæadol . 2016529_2017992
+%xmor:	n|tæadol .
+*CHI:	hala . 2017992_2019205
+%xmor:	adv|hala .
+*CHI:	&~singing . 2019205_2028881
+*CHI:	hærfet pv:gush mikonæm . 2028881_2043761
+%xmor:	n|hærf-2S pv:n|gush prog#v:lv|kærdæn&pres-1s .
+*CHI:	xxx . 2043760_2047251
+%xmor:	unk|xxx .
+*CHI:	be hærfe mæn gush kon , bashe ? 2047251_2048381
+%xmor:	prep|be n|hærf-EZ pro|mæn pv:n|gush v:lv|kærdæn&pres&imp&2s co|bashe ?
+*CHI:	a . 2048381_2050908
+%xmor:	co|a .
+*MOT:	ræxtexabaye bæcheha kojast Minu ? 2050908_2115112
+%xmor:	n|ræxtexab-EZ n|bæche-pl wh|koja~v|budæn&PRES&3S n:prop|Minu ?
+*CHI:	tu otaqæme . 2115112_2118204
+%xmor:	prep|tu n|otaq-1S~v|budæn&PRES&3S .
+*MOT:	tæxteshun pæs chera xalie ? 2118204_2119834
+%xmor:	n|tæxt-3P adv|pæs wh|chera adj|xali~v|budæn&PRES&3S ?
+*CHI:	hæminjuri . 2119834_2121861
+%xmor:	adv|hæminjuri .
+*CHI:	xob delæm næxast +//. 2121861_2125370
+%xmor:	co|xob n|del-1S neg#v|xastæn&PAST&3S +//.
+*CHI:	ræxtexabeshun o delæm næxast . 2125370_2127879
+%xmor:	n|ræxexab-2P ptl|ro n|del-1S neg#v|xastæn&PAST&3S .
+*MOT:	a , rasti Minu , dæftær næqashit in o mixasti ? 2127879_2134795
+%xmor:	co|a adv|rasti n:prop|Minu n|dæftær n|næqashi-2S pro:dem|in ptl|ro prog#v|xastæn&past-2s ?
+*CHI:	dige nemixamesh . 2134795_2137388
+%xmor:	adv|dige neg_prog#v|xastæn&PRES-1S-3S .
+*CHI:	neveshtæm un chizi ke mixastæm . 2137388_2139749
+%xmor:	v|neveshtæn&PAST-1S pro:dem|un n|chiz-DEF conj|ke prog#v|xastæn&PAST-1S .
+*MOT:	pæs in o mizaræm sære jash . 2139749_2142841
+%xmor:	adv|pæs pro:dem|in ptl|ro prog#v|gozashtæn&pres-1s n|sær-EZ n|ja-3S .
+%xcau:	$C:lex:gozashtæn
+*CHI:	xxx . 2142841_2155194
+%xmor:	unk|xxx .
+*CHI:	xob . 2155194_2156258
+%xmor:	co|xob .
+*CHI:	xob . 2156258_2158202
+%xmor:	co|xob .
+*CHI:	mæn bayæd in ahæng o bezænæm . 2158202_2161527
+%xmor:	pro|mæn v:mod|bayestæn&past&3s pro:dem|in pv:n|ahæng ptl|ro subj#v:lv|zædæn&pres-1s .
+*CHI:	&~singing . 2161527_2166166
+*MOT:	Minu , ruye miz o xali konim , bæd betuni bezæni . 2166166_2168443
+%xmor:	n:prop|Minu prep|ru-EZ n|miz ptl|ro adj|xali v|kærdæn&pres-1p adv|bæd subj#v|tævanestæn&pres-2s subj#v|zædæn&PRES-2S .
+%xcau:	$C:lv:kærdæn
+*MOT:	hæmin ælan mixai bezæni ? 2168443_2170304
+%xmor:	pro:dem|hæmin adv|ælan prog#v|xastæn&pres-2s subj#v|zædæn&PRES-2S ?
+*CHI:	inja mixam &~be +//. 2170304_2171767
+%xmor:	pro:dem|inja prog#v|xastæn&pres-1s +//.
+*CHI:	mixam inja bezænæmesh . 2171767_2172665
+%xmor:	prog#v|xastæn&pres-1s pro:dem|inja subj#v|zædæn&PRES-1S-3S .
+*CHI:	&~singing . 2172665_2177554
+*CHI:	maman , mixam ru in parchehe bezænæm . 2177554_2181544
+%xmor:	n|maman prog#v|xastæn&pres-1s prep|ru pro:dem|in n|parche-DEF subj#v|zædæn&pres-1s .
+*MOT:	bashe . 2181544_2182776
+%xmor:	co|bashe .
+*CHI:	jæmesh nækon . 2182776_2183673
+%xmor:	pv:adj|jæm-3S neg_imp#v:lv|kærdæn&pres&2s .
+%xcau:	$C:lv:kærdæn
+*CHI:	mixam ru in bezænæm . 2183673_2186449
+%xmor:	prog#v|xastæn&pres-1s prep|ru pro:dem|in subj#v|zædæn&pres-1s .
+*CHI:	&~singing . 2186449_2272448
+*FAT:	in xodesh xamush shod Fateme , ya to xamushesh kærdi ? 2272448_2324216
+%xmor:	pro:dem|in n|xod-3s adj|xamush v|shodæn&past&3s n:prop|Fateme conj|ya pro|to pv:adj|xamush-3s v:lv|kærdæn&past-2s ?
+%xcau:	$C:lv:kærdæn
+*MOT:	polopæz o ? 2324216_2326244
+%xmor:	n|polopæz ptl|ro ?
+*FAT:	han . 2326244_2326827
+%xmor:	co|han .
+*MOT:	xodesh xamush shod . 2326827_2327790
+%xmor:	n|xod-3s pv:adj|xamush v:lv|shodæn&past&3s .
+*MOT:	mæn kari nædashtæm . 2327790_2329420
+%xmor:	pro|mæn n|kar-DEF neg#v|dashtæn&past-1s .
+*CHI:	bayæd æz ævæl bezænæm . 2329420_2331364
+%xmor:	v:mod|bayestæn&past&3s prep|æz n|ævæl subj#v|zædæn&pres-1s .
+*CHI:	&~singing . 2331364_2551017
+*FAT:	un zæbt o mixai xamush koni ? 2551017_2553711
+%xmor:	pro:dem|un n|zæbt ptl|ro prog#v|xastæn&pres-2s pv:adj|xamush v:lv|kærdæn&pres-2s ?
+%xcau:	$C:lv:kærdæn
+*MOT:	are dige xamush mikonæm . 2553711_2555090
+%xmor:	co|are pro:rel|dige pv:adj|xamush prog#v:lv|kærdæn&pres-1s .
+%xcau:	$C:lv:kærdæn
+@End

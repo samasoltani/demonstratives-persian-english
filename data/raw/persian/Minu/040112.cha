@@ -1,0 +1,985 @@
+@UTF8
+@PID:	11312/c-00026846-1
+@Begin
+@Languages:	fas
+@Participants:	CHI Minu Target_Child, MOT Fatemeh Mother, FAT Ali Father
+@ID:	fas|Family|CHI|4;01.12|female|||Target_Child|||
+@ID:	fas|Family|MOT||female|||Mother|||
+@ID:	fas|Family|FAT||male|||Father|||
+@Comment:	[ba3 morphotag | engine=stanza-1.11.1 ; lang=fas | 2026-05-07T08:19:59-04:00]
+@Media:	040112, audio
+@Activities:	Dinner
+@Date:	06-DEC-2007
+@Location:	Tehran , Iran
+@Transcriber:	Neiloufar Family
+@Types:	long, toyplay, TD
+*MOT:	mæn [/] ægær mæn be to begæm [= beguyæm] to boro ælan bia dæhta qashoq shærbæte tælx boxor . 1_6535
+%xmor:	conj|ægær=if pro|mæn=I PREP|be=to pro|to=you subj#v|goftæn&PRES-1S=say pro|to=you IMP#v|ræftæn&PRES-2S=go adv|ælan=now imp#v|amædæn&PRES&2S nUM|dæh-Qn n|qashoq=spoon n|shærbæt-EZ=syrup adj|tælx IMP#v|xordæn&PRES&2S .
+%eng:	if I tell you to come here and drink ten spoons of bitter syrup ?
+%mor:	propn|ægær propn|mæn propn|be propn|to propn|begæm propn|to propn|boro propn|ælan propn|bia propn|dæhta propn|qashoq propn|shærbæte propn|tælx propn|boxor .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|FLAT-NAME 11|1|FLAT-NAME 12|1|FLAT-NAME 13|1|FLAT-NAME 14|1|FLAT-NAME 15|1|PUNCT
+*MOT:	dust dari ? 6535_8546
+%xmor:	pv:n|dust v:lv|dashtæn&PRES-2S ?
+%eng:	would you like that ?
+%mor:	propn|dust propn|dari ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	&=laugh . 8546_9444
+*CHI:	næ . 9444_10192
+%xmor:	CO|næ=no .
+%eng:	no .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xob dige pæs mænæm ye karayi hæst ke dust nædaræm ke bokonæm . 10192_13333
+%xmor:	co|xob adv|dige adv|pæs pro|mæn adv|hæm qn|ye pv:n|kar-PL-DEF v|budæn&PRES&3S conj|ke pv:n|dust nEG#v:lv|dashtæn&PRES-1S conj|ke IMP#v:lv|kærdæn&PRES-1S .
+%eng:	well then there are some things that I also don't like to do .
+%mor:	propn|xob propn|dige propn|pæs propn|mænæm propn|ye propn|karayi propn|hæst propn|ke propn|dust propn|nædaræm propn|ke propn|bokonæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|FLAT-NAME 11|1|FLAT-NAME 12|1|FLAT-NAME 13|1|PUNCT
+*CHI:	næ . 13333_13833
+%xmor:	CO|næ .
+%eng:	no .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	dus(t) daræm . 13833_14498
+%xmor:	pv:n|dust v:lv|dashtæn&PRES-1S .
+%eng:	I'd like it .
+%mor:	propn|dust propn|daræm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	dus(t) daræm . 14498_14879
+%xmor:	pv:n|dust v:lv|dashtæn&PRES-1S .
+%eng:	I'd like it .
+%mor:	propn|dust propn|daræm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	dust dari dæhta qashoqe shærbæte tælx boxori ? 14879_16692
+%xmor:	pv:n|dust v:lv|dashtæn&PRES-2S nUM|dæh-Qn n|qashoq n|shærbæt-EZ adj|tælx IMP#v|xordæn&PRES-2S ?
+%eng:	you'd like to drink ten spoons of bitter syrup ?
+%mor:	propn|dust propn|dari propn|dæhta propn|qashoqe propn|shærbæte propn|tælx propn|boxori ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*FAT:	biaræm ? 17324_18055
+%xmor:	SUBJ#v|aværdæn&PRES-1S ?
+%xcau:	$C:lex:aværdæn
+%eng:	should I bring some ?
+%mor:	propn|biaræm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	biare ? 18055_18703
+%xmor:	SUBJ#v|aværdæn&PRES-3S ?
+%xcau:	$C:lex:aværdæn
+%eng:	should he bring some ?
+%mor:	propn|biare ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	næ . 18703_19518
+%xmor:	CO|næ .
+%eng:	no .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	yæni ægær bet [//] bem migofti . 19518_23758
+%xmor:	adv|yæni conj|ægær PREP|be-1S proG#v|goftæn&PAST-2S .
+%eng:	I mean if you'd told me .
+%mor:	propn|yæni propn|ægær propn|bem propn|migofti .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*MOT:	næ dige . 23758_24804
+%xmor:	CO|næ adv|dige .
+%eng:	no .
+%mor:	propn|næ propn|dige .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	xob ælan darim behet migim . 24804_26184
+%xmor:	co|xob adv|ælan v:mod|dashtæn&PRES-1P PREP|be-2S proG#v|goftæn&PRES-1P .
+%eng:	well , we're telling you now .
+%mor:	propn|xob propn|ælan propn|darim propn|behet propn|migim .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	nemigæm . 26184_27099
+%xmor:	nEG#proG#v|goftæn&PRES-1S .
+%eng:	I won't say it .
+%mor:	propn|nemigæm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bænabærin bæzi kara hæst adæma dust nædaræn bokonæn . 27099_29759
+%xmor:	adv|bænabærin pro|bæzi pv:n|kar-PL v|budæn&PRES&3S n|adæm-PL pv:n|dust nEG#v:lv|dashtæn&PRES-3P subj#v:lv|kærdæn&PRES-3P .
+%eng:	so there are some things that people don't like to do .
+%mor:	propn|bænabærin propn|bæzi propn|kara propn|hæst propn|adæma propn|dust propn|nædaræn propn|bokonæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*CHI:	dust nædaræm . 29759_30573
+%xmor:	pv:n|dust nEG#v:lv|dashtæn&PRES-1S .
+%eng:	I don't like it .
+%mor:	propn|dust propn|nædaræm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	dust nædari ? 30573_31388
+%xmor:	pv:n|dust nEG#v:lv|dashtæn&PRES-2S ?
+%eng:	you don't like it ?
+%mor:	propn|dust propn|nædari ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	xob mænæm dust nædashtæm un kari ke to migofti ro bokonæm . 31388_34147
+%xmor:	co|xob pro|mæn adv|hæm pv:n|dust nEG#v:lv|dashtæn&PAST-1S pro:dem|un pv:n|kar-DEF PREP|ke pro|to proG#v|goftæn&PAST-2S PTL|ra SUBJ#v:lv|kærdæn&PRES-1S .
+%eng:	well , I wouldn't have like to do what you had said .
+%mor:	propn|xob propn|mænæm propn|dust propn|nædashtæm propn|un propn|kari propn|ke propn|to propn|migofti propn|ro propn|bokonæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|FLAT-NAME 11|1|FLAT-NAME 12|1|PUNCT
+*MOT:	xub shod hala yadet ræft dige . 34147_38055
+%xmor:	pv:adj|xub v:lv|shodæn&PAST&3S adv|hala pv:n|yad-2s v:lv|ræftæn&PAST&3S adv|dige .
+%eng:	it's good you've forgotten now .
+%mor:	propn|xub propn|shod propn|hala propn|yadet propn|ræft propn|dige .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	are yadæm ræft . 38055_40332
+%xmor:	CO|are pv:n|yad-1s v:lv|ræftæn&3S .
+%eng:	yeah , I forgot .
+%mor:	propn|are propn|yadæm propn|ræft .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	yadæm næræft a ! 40332_43008
+%xmor:	pv:n|yad-1s nEG#v:lv|ræftæn&3S CO|a !
+%eng:	hey , I didn't forget !
+%mor:	propn|yadæm propn|næræft punct|a !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT 4|1|PUNCT
+*MOT:	yadet næræft ? 43008_43907
+%xmor:	pv:n|yad-2s nEG#v:lv|ræftæn&3S ?
+%eng:	you didn't forget ?
+%mor:	propn|yadet propn|næræft ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	shuxi kærdæm bahat . 43907_45620
+%xmor:	pv:n|shuxi v:lv|kærdæn&PAST-1S PREP|ba-2S .
+%eng:	I was joking with you .
+%mor:	propn|shuxi propn|kærdæm propn|bahat .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	fekr kærdæm ke jeddi gofti . 45620_50971
+%xmor:	pv:n|fekr v:lv|kærdæn&PAST-1S conj|ke adj|jeddi v|goftæn&PAST-2S .
+%eng:	I thought you were serious .
+%mor:	propn|fekr propn|kærdæm propn|ke propn|jeddi propn|gofti .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	fekr kærdi ke jeddi goftæm ? 50971_56342
+%xmor:	pv:n|fekr v:lv|kærdæn&PAST-2S conj|ke adv|jeddi v|goftæn&PAST-1S ?
+%eng:	you thought I was serious ?
+%mor:	propn|fekr propn|kærdi propn|ke propn|jeddi propn|goftæm ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	mhm . 56342_57339
+%xmor:	CO|mhm .
+%eng:	mhm .
+%tim:	01:00
+%mor:	propn|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mæge kæsi ta hala jeddi yæni injuri gofteye [= gofte] ? 57339_65035
+%xmor:	adv|mæge n|kæs-DEF prep|ta adv|hala adv|yæni adv|injuri v|goftæn&PAST-3S ?
+%eng:	why , has anyone ever seriously , I mean said it like that ?
+%mor:	propn|mæge propn|kæsi propn|ta propn|hala propn|jeddi propn|yæni propn|injuri propn|gofteye ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*MOT:	are adæm bæzi væqta bæzi æzæsh ye karayi mikæn [//] mixan ke xoshesh nemiyad ænjam bede . 65035_72267
+%xmor:	CO|are n|adæm pro|bæzi n|væqt-PL PREP|æz-3S Qn|ye n|kar-PL-DEF prog#v|xastæn&PRES-3P conj|ke pv:adj|xosh-3S nEG#prog#v:lv|amædæn&PRES-3S pv:n|ænjam subj#v:lv|dadæn&PRES-3S .
+%xcau:	$C:lv:dadæn
+%eng:	yes , people sometimes want someone to do something that that person doesn't want to do .
+%mor:	punct|are propn|adæm propn|bæzi propn|væqta propn|bæzi propn|æzæsh propn|ye propn|karayi propn|mixan propn|ke propn|xoshesh propn|nemiyad propn|ænjam punct|bede .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|2|CONJ 7|6|FLAT-NAME 8|2|CONJ 9|2|CONJ 10|9|FLAT-NAME 11|9|FLAT-NAME 12|9|FLAT-NAME 13|12|FLAT-NAME 14|13|PUNCT 15|2|PUNCT
+*FAT:	næyofti babayi . 72267_75610
+%xmor:	neg_subj#v|oftadæn&PRES-2S n|babayi .
+%eng:	don't fall baba .
+%mor:	propn|næyofti propn|babayi .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	&=laugh . 75610_77156
+*CHI:	&=yell . 77156_78452
+*MOT:	miduni ye qashoq æz in poloe æqælæn boxor . 78452_80480
+%xmor:	prog#v|danestæn&PRES-2S Qn|ye n|qashoq PREP|æz pro:dem|in n|polo-dem adv|æqælæn IMP#v|xordæn&PRES&2S .
+%eng:	you know , have a spoon of this rice at least .
+%mor:	propn|miduni propn|ye propn|qashoq propn|æz propn|in propn|poloe propn|æqælæn propn|boxor .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*CHI:	&=yell . 80480_81295
+*MOT:	che qædr polo xorde ? 81295_83239
+%xmor:	WH|che n|qædr n|polo v|xordæn&PAST-3S ?
+%eng:	how much rice has she eaten ?
+%add:	FAT
+%mor:	propn|che propn|qædr propn|polo propn|xorde ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	&=yell . 83239_84138
+*MOT:	nesvesh o xorde . 84138_86682
+%xmor:	n|nesv-3S PTL|ra v|xordæn&PAST-3S .
+%eng:	she's had half of it .
+%add:	FAT
+%mor:	propn|nesvesh propn|o propn|xorde .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	chi shodi ? 86682_89008
+%xmor:	wh|chi v|shodæn&PAST-2S ?
+%eng:	what happened to you ?
+%mor:	propn|chi propn|shodi ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	biyoftæm . 89008_90155
+%xmor:	subj#v|oftadæn&PRES-1S .
+%eng:	fall .
+%mor:	propn|biyoftæm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	hæminjuri . 90155_91785
+%xmor:	adv|hæminjuri .
+%eng:	just like this .
+%mor:	propn|hæminjuri .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	mixam hæminjuri biyoftæm . 91785_95674
+%xmor:	prog#v|xastæn&PRES-1S adv|hæminjuri subj#v|oftadæn&PRES-1S .
+%eng:	I want to fall just like this .
+%mor:	propn|mixam propn|hæminjuri propn|biyoftæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	hæminjuri . 95674_96406
+%xmor:	adv|hæminjuri .
+%eng:	just like this .
+%mor:	propn|hæminjuri .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	bedunke xodæm bexam . 96406_101726
+%xmor:	adv|bedune pro|inke n|xod-1S subj#v|xastæn&PRES-1S .
+%eng:	without wanting it myself .
+%mor:	propn|bedunke propn|xodæm propn|bexam .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	bedune inke xodet bexai ? 101726_103322
+%xmor:	adv|bedune pro:dem|inke n|xod-2S subj#v|xastæn&PRES-2S ?
+%eng:	without wanting it yourself ?
+%mor:	propn|bedune propn|inke propn|xodet propn|bexai ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	bexai bedune inke xodet bexai beyofti ? 103322_105183
+%xmor:	subj#v|xastæn&PRES-2S adv|bedune pro:dem|inke n|xod-2S subj#v|xastæn&PRES-2S subj#v|oftadæn&PRES-2S ?
+%eng:	wanting to fall without wanting it yourself ?
+%mor:	propn|bexai propn|bedune propn|inke propn|xodet propn|bexai propn|beyofti ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*MOT:	mesle un xanumi ke un shæb Kurosh ina migoftæn . 105183_110886
+%xmor:	n|mesl-EZ pro:dem|un n|xanum-det conj|ke pro:dem|un n|shæb n:proP|kurosh pro:dem|in-PL proG#v|goftæn&PAST-3P .
+%eng:	like that woman that night Kurosh and them were talking about .
+%mor:	propn|mesle propn|un propn|xanumi propn|ke propn|un propn|shæb propn|Kurosh propn|ina propn|migoftæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|PUNCT
+*FAT:	chi ? 110886_111849
+%xmor:	wh|chi ?
+%eng:	what ?
+%mor:	propn|chi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ke be pesæresh gofte ke shoma be mæn begin ke mæn o char ruz dige æmæl mikonin bæd do ruz dige biain mæn o bebærin , bavær kon . 111849_119895
+%xmor:	conj|ke PREP|be n|pesær-3S v|goftæn&PAST-3S conj|ke prep|be pro|mæn IMP#v|goftæn&PRES-2P conj|ke pro|mæn PTL|ra nUM|chahar n|ruz adv|digær pv:n|æmæl proG#v:lv|kærdæn&PRES-2P adv|bæd nUM|do n|ruz adv|digær IMP#v|amædæn&PRES-2P pro|mæn PTL|ra IMP#v|bordæn&PRES-2P pv:n|bavær v:lv|kærdæn&PRES&3S .
+%xcau:	$C:lex:aværdæn
+%eng:	that her son had said that you tell me that you'll operate on me in four days but then come and take me in two days , believe it .
+%tim:	02:00
+%mor:	propn|ke punct|be propn|pesæresh propn|gofte punct|ke propn|shoma propn|be propn|mæn propn|begin punct|ke propn|mæn punct|o propn|char punct|ruz propn|dige propn|æmæl punct|mikonin propn|bæd propn|do punct|ruz propn|dige propn|biain propn|mæn punct|o propn|bebærin cm|cm propn|bavær propn|kon .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|6|PUNCT 6|3|CONJ 7|6|FLAT-NAME 8|6|CONJ 9|8|FLAT-NAME 10|11|PUNCT 11|9|CONJ 12|13|PUNCT 13|11|CONJ 14|15|PUNCT 15|13|CONJ 16|15|FLAT-NAME 17|18|PUNCT 18|15|CONJ 19|18|FLAT-NAME 20|21|PUNCT 21|18|CONJ 22|21|FLAT-NAME 23|21|FLAT-NAME 24|25|PUNCT 25|21|CONJ 26|25|PUNCT 27|25|CONJ 28|27|FLAT-NAME 29|1|PUNCT
+*MOT:	axei . 119895_124284
+%xmor:	CO|axei .
+%eng:	awww .
+%mor:	propn|axei .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	baba movazeb bash unja . 124284_128125
+%xmor:	n|baba adj|movazeb v|budæn&PRES&IMP&2S pro:dem|unja .
+%eng:	careful there .
+%add:	CHI
+%mor:	propn|baba propn|movazeb propn|bash propn|unja .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	baba ! 128125_129006
+%xmor:	n|baba !
+%eng:	baba !
+%mor:	propn|baba !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=laugh . 129006_133312
+*CHI:	dæmaqæm ! 133312_135523
+%xmor:	n|dæmaq-1S !
+%eng:	my nose !
+%mor:	propn|dæmaqæm !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	dæmaqæm ! 135523_137052
+%xmor:	n|dæmaqæm-1S !
+%eng:	my nose !
+%mor:	propn|dæmaqæm !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	dæmaqæm ræft tu surax . 137052_139662
+%xmor:	n|dæmaq-1S v|ræftæn&PAST&3S PREP|tu n|surax .
+%eng:	my nose has gone in the hole !
+%mor:	propn|dæmaqæm propn|ræft propn|tu propn|surax .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*MOT:	kodum surax ? 139662_141209
+%xmor:	WH|kodum n|surax ?
+%eng:	what hole ?
+%mor:	propn|kodum propn|surax ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	&=laugh . 141209_142024
+*CHI:	&=laugh . 142024_142588
+*CHI:	geli shod dæmaqæm ! 142588_144068
+%xmor:	pv:adj|geli v:lv|shodæn&PRES&3S n|dæmaq-1S !
+%eng:	my nose got muddy !
+%mor:	propn|geli propn|shod propn|dæmaqæm !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	vay . 144068_145033
+%xmor:	CO|vay .
+%eng:	oh .
+%mor:	propn|vay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	geli shod . 145033_145598
+%xmor:	pv:adj|geli v:lv|shodæn&PRES&3S .
+%eng:	it got muddy .
+%mor:	propn|geli propn|shod .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	gelgeli@wp shod . 145598_147077
+%xmor:	wplay|gelgeli v:lv|shodæn&PRES&3S .
+%eng:	it got muddy .
+%mor:	wplay|gelgeli propn|shod .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	vay vay vay ! 147077_148607
+%xmor:	CO|vay CO|vay CO|vay !
+%eng:	oh oh oh !
+%mor:	propn|vay propn|vay propn|vay !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	qiyafæsh o bebin . 148607_151681
+%xmor:	n|qiyafe-3S PTL|ra IMP#v|didæn&PRES&2S .
+%eng:	look at her face .
+%add:	FAT .
+%mor:	propn|qiyafæsh propn|o propn|bebin .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	&=noise . 151681_152496
+*CHI:	surætæm geli shod . 152496_153144
+%xmor:	n|suræt-1S pv:adj|geli v:lv|shodæn&PRES&3S .
+%eng:	my face got muddy .
+%mor:	propn|surætæm propn|geli propn|shod .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	hæmeye surætæm . 153144_155290
+%xmor:	det|hæme-EZ n|suræt-1S .
+%eng:	all my face .
+%mor:	propn|hæmeye propn|surætæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	inja mæge zæmine xakiye ? 155290_158348
+%xmor:	pro:dem|inja adv|mægær n|zæmin-EZ adj|xak-adjR~v|budæn&PRES&3S ?
+%eng:	why , is this a dirt-filled land ?
+%mor:	propn|inja propn|mæge propn|zæmine propn|xakiye ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	&=noise . 158348_158948
+*CHI:	hæme mum geli shod . 158948_160958
+%xmor:	pro|hæme n|mu-1S pv:adj|geli v:lv|shodæn&PAST&3S .
+%eng:	all my hair's got muddy .
+%mor:	propn|hæme propn|mum propn|geli propn|shod .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*MOT:	hæme mush geli shod ! 160958_162438
+%xmor:	pro|hæme n|mu-2S pv:adj|geli v:lv|shodæn&PAST&3S !
+%eng:	all her hair's got muddy !
+%mor:	propn|hæme propn|mush propn|geli propn|shod !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	&=gasp . 162438_163901
+*CHI:	vay . 163901_167392
+%xmor:	CO|vay .
+%eng:	oh .
+%mor:	propn|vay .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	hæmeye pam . 167392_169403
+%xmor:	pro|hæme-EZ n|pa-1S .
+%eng:	all my leg .
+%mor:	propn|hæmeye propn|pam .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	&=gasp . 169403_171033
+*MOT:	miduni ye qas:hoq mast mixori ? 171033_173560
+%xmor:	prog#v|danestæn&PRES-2S Qn|ye n|qashoq n|mast proG#v|xordæn&PRES-2S ?
+%eng:	you know , do you want a spoon of yogurt ?
+%mor:	propn|miduni propn|ye propn|qashoq propn|mast propn|mixori ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	e jun ! 173560_176236
+%xmor:	CO|e n|jun !
+%eng:	oh dear !
+%mor:	propn|e propn|jun !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	e vay ! 176236_177716
+%xmor:	CO|e CO|vay !
+%eng:	oh no !
+%mor:	propn|e propn|vay !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	hæmeye astin . 177716_179162
+%xmor:	pro|hæme-EZ n|astin .
+%eng:	my whole sleeve .
+%tim:	03:00
+%mor:	propn|hæmeye propn|astin .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	hæmeye patom [*] . 179162_180375
+%xmor:	pro|hæme-EZ n|pa-2S .
+%eng:	my whole leg .
+%mor:	propn|hæmeye propn|patom .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	mama ? 180375_183187
+%xmor:	n|mama ?
+%eng:	mom ?
+%mor:	propn|mama ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	junæm ? 183187_183834
+%xmor:	n|jun-1S ?
+%eng:	yes dear ?
+%mor:	propn|junæm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	begu æzizækæm . 183834_187690
+%xmor:	IMP#v|goftæn&PRES&2S n|æzizæk-1S .
+%eng:	tell me my dear .
+%mor:	propn|begu propn|æzizækæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	mama ? 187690_190782
+%xmor:	n|mama ?
+%eng:	mom ?
+%mor:	propn|mama ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	jan ? 190782_191847
+%xmor:	n|jan ?
+%eng:	yes ?
+%mor:	propn|jan ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	sedash o &~zi ziyad 0kon . 191847_195088
+%xmor:	n|seda-3S PTL|ra pv:adj|ziyad v:lv|kærdæn&PRES&IMP&2S .
+%xcau:	$C:lv:kærdæn
+%eng:	make it louder .
+%com:	child wants the Tv sound on (it is probably on mute)
+%mor:	propn|sedash propn|o propn|ziyad .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	hala ke chizi nædare ke sedasho besh(nævi) . 195088_196718
+%xmor:	adv|hala conj|ke n|chizi nEG#v|dashtæn&PRES-3S conj|ke n|seda-3S PTL|ra subj#v|shenidæn&PRES-2S .
+%eng:	there is nothing on now for you to hear .
+%mor:	propn|hala propn|ke propn|chizi propn|nædare propn|ke propn|sedasho propn|beshnævi .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*CHI:	næ mixam . 196718_197282
+%xmor:	CO|næ prog#v|xastæn&PRES-1S .
+%eng:	no , I want .
+%mor:	propn|næ propn|mixam .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	tæbliqe baba jun . 197282_198828
+%xmor:	n|tæbliq~v|budæn&PRES&3S n|baba_jun .
+%eng:	there's commercials .
+%mor:	propn|tæbliqe propn|baba propn|jun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	bia injast . 198828_199644
+%xmor:	IMP#v|amædæn&PRES&2S pro:dem|inja~v|budæn&PRES&3S .
+%eng:	here , here it is .
+%mor:	propn|bia propn|injast .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	tæbliqaye gaze imeniye gaze . 199644_204847
+%xmor:	n|tæbliq-PL-EZ n|gaz~v|budæn&PRES&3S n|imeni-EZ n|gaz~v|budæn&PRES&3S .
+%eng:	it's commercials for gas safety .
+%com:	there is a public service cartoon frequently broadcasted on Iranian television during the time of this recording warning citizens about safety hazards of gas fueled heating systems
+%mor:	propn|tæbliqaye propn|gaze propn|imeniye propn|gaze .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	chi mixai bebini baba to tuye in ? 204847_210699
+%xmor:	wh|chi prog#v|xastæn&PRES&2S subj#v|didæn&PRES-2S n|baba pro|to PREP|tu-EZ pro:dem|in ?
+%eng:	what do you want to see in this ?
+%mor:	propn|chi propn|mixai propn|bebini propn|baba propn|to propn|tuye punct|in ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT 8|1|PUNCT
+*CHI:	+" estandardhaye &~mes melli bashæd . 210699_223401
+%xmor:	n|estandard-PL-EZ adj|melli v|budæn&PRES&SUBJ-3S .
+%eng:	must be national standards .
+%mor:	propn|estandardhaye propn|melli propn|bashæd .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	are . 223401_224115
+%xmor:	CO|are .
+%eng:	yes .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	estandard . 224115_227041
+%xmor:	adj|estandard .
+%eng:	standard .
+%mor:	propn|estandard .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	axe boxari hæm estandard dare dige . 227041_231578
+%xmor:	conj|axe n|boxari adv|hæm adj|estandard v|dashtæn&PRES-3S adv|digær .
+%eng:	well , heaters have standards too .
+%mor:	propn|axe propn|boxari propn|hæm propn|estandard propn|dare propn|dige .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	are . 231578_233707
+%xmor:	CO|are .
+%eng:	yeah .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	un boxariye mamanbozorg bababozorg un estandard bud . 233707_239708
+%xmor:	pro:dem|un n|boxari-EZ n|mamanbozorg n|bababozorg pro:dem|un adj|estandard v|budæn&PRES&3S .
+%eng:	that heater of grandma's and grandpa's that was standard .
+%tim:	04:00
+%mor:	punct|un propn|boxariye propn|mamanbozorg propn|bababozorg propn|un propn|estandard propn|bud .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|2|FLAT-NAME 7|2|FLAT-NAME 8|2|PUNCT
+*CHI:	fæqæt in estandard nist . 239708_241604
+%xmor:	adv|fæqæt pro:dem|in adj|estandard v|budæn&nEG&PRES&3S .
+%eng:	only , this one isn't standard .
+%mor:	propn|fæqæt propn|in propn|estandard propn|nist .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*MOT:	e ? 241604_242634
+%xmor:	CO|e ?
+%eng:	really ?
+%mor:	punct|e ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	æz koja miduni baba ? 242634_244513
+%xmor:	PREP|æz adv|koja prog#v|danestæn&PRES-2S n|baba ?
+%eng:	how do you know ?
+%mor:	propn|æz propn|koja propn|miduni propn|baba ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*MOT:	hænuz ke mælum nist æz qiyafæsh . 244513_246541
+%xmor:	adv|hænuz conj|ke adj|mælum v|budæn&nEG&PRES&3S PREP|æz n|qiyafe-3S .
+%eng:	we still can't tell from it's looks .
+%mor:	propn|hænuz propn|ke propn|mælum propn|nist propn|æz propn|qiyafæsh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*CHI:	næ mæn ruzo didæm ke estandard næbud . 246541_251097
+%xmor:	CO|næ pro|mæn n|ruz PTL|ra v|didæn&PAST-1S conj|ke adj|estandard nEG#v|budæn&PAST&3S .
+%eng:	no , I saw it in the day that it wasn't standard .
+%mor:	propn|næ propn|mæn propn|ruzo propn|didæm propn|ke propn|estandard propn|næbud .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*CHI:	&=gasp . 251097_251744
+*CHI:	are . 251744_252476
+%xmor:	CO|are .
+%eng:	yeah .
+%mor:	propn|are .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=gasp . 252476_253124
+*MOT:	&=gasp . 253124_254106
+*MOT:	vay vay vay . 254106_255252
+%xmor:	CO|vay CO|vay CO|vay .
+%eng:	oh oh oh .
+%mor:	propn|vay propn|vay propn|vay .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	pæs momkene xune atish begire ! 255252_258161
+%xmor:	conj|pæs adj|momken~v|budæn&PRES&3S n|xune pv:n|atish SUBJ#v:lv|gereftæn&PRES-3S !
+%eng:	so , the house might catch fire !
+%mor:	propn|pæs propn|momkene propn|xune propn|atish propn|begire !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	vay ! 258161_258993
+%xmor:	CO|vay !
+%eng:	oh !
+%mor:	propn|vay !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ay ! 258993_259707
+%xmor:	CO|ay !
+%eng:	ah !
+%mor:	propn|ay !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	bayæd moqeye xæridæn movazeb bashæn ke estandard bexæræn . 259707_263215
+%xmor:	v:mod|bayestæn&PAST&3S n|moqe-EZ v:inf|xæridæn-InF adj|movazeb v|budæn&PRES&SUBJ-3P conj|ke adj|estandard SUBJ#v|xæridæn&PRES-3P .
+%eng:	you have to be careful when you're buying for it to be standard .
+%mor:	propn|bayæd propn|moqeye propn|xæridæn propn|movazeb propn|bashæn propn|ke propn|estandard propn|bexæræn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*MOT:	hala ino boxor ba ye tæhmæze bebin chetore . 263215_265392
+%xmor:	adv|hala pro:dem|in PTL|ra IMP#v|xordæn&PRES&2S PREP|ba Qn|ye n|tæhmæze IMP#v|didæn&PRES&2S adv|chetor~v|budæn&PRES&3S .
+%eng:	now , eat this to see how it tastes .
+%mor:	propn|hala propn|ino propn|boxor propn|ba propn|ye propn|tæhmæze propn|bebin propn|chetore .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*CHI:	mmm . 265392_266458
+%xmor:	CO|mmm .
+%eng:	mmm .
+%mor:	punct|mmm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	chetore ? 266458_268235
+%xmor:	adv|chetor~v|budæn&PRES&3S ?
+%eng:	how is it ?
+%mor:	propn|chetore ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ye zære tælxe . 268235_271078
+%xmor:	Qn|ye n|zære adj|tælx~v|budæn&PRES&3S .
+%eng:	it's a little bitter .
+%mor:	propn|ye propn|zære propn|tælxe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	e ? 271078_271892
+%xmor:	CO|e ?
+%eng:	oh ?
+%mor:	punct|e ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	tæhmæzeye tælxi hæm dare ? 271892_273855
+%xmor:	n|tæhmæze-EZ n|tælxi adv|hæm v|dashtæn&PRES-3S ?
+%eng:	it has a bitter aftertaste ?
+%mor:	propn|tæhmæzeye propn|tælxi propn|hæm propn|dare ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	næ yæni ye zære mæzehæsh qatiye . 273855_279124
+%xmor:	CO|næ adv|yæni Qn|ye n|zære n|mæze-PL-3S adj|qati~v|budæn&PRES&3S .
+%eng:	no , I mean the taste is a bit mixed up .
+%mor:	propn|næ propn|yæni punct|ye propn|zære propn|mæzehæsh propn|qatiye .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|4|FLAT-NAME 7|1|PUNCT
+*CHI:	qatoqut@wp . 279124_280106
+%xmor:	wplay|qatoqut .
+%mor:	wplay|qatoqut .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	qatoqute@wp han ? 280106_281170
+%xmor:	wplay|qatoqut CO|han ?
+%tim:	05:05
+%mor:	wplay|qatoqute propn|han ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	boxari estandard momkene tæxta atish begire ! 281170_309929
+%xmor:	n|boxari adj|estandard adv|momken~v|budæn&PRES&3S n|tæxt-PL pv:n|atish SUBJ#v:lv|gereftæn&PRES-3S !
+%eng:	standard heaters , the bed might catch fire !
+%mor:	propn|boxari propn|estandard propn|momkene propn|tæxta propn|atish propn|begire !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*MOT:	næ qeyre estandard . 309929_311244
+%xmor:	CO|næ n|qeyr-EZ adj|estandard .
+%eng:	no , non standard .
+%mor:	propn|næ propn|qeyre propn|estandard .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	mige æge estandard næbashe momkene . 311244_316298
+%xmor:	proG#v|goftæn&PRES-3S conj|ægær adj|estandard nEG#v|budæn&PRES&SUBJ-3S adv|momken~v|budæn&PRES&3S .
+%eng:	they say that it's possible if it isn't standard .
+%mor:	punct|mige propn|æge propn|estandard propn|næbashe propn|momkene .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|2|PUNCT
+*CHI:	+" ægær ba sholeye abi næsuzæn [//] [* næsuzæd] næsuzæd , bayæd an ra jeddi gereft . 316298_327568
+%xmor:	conj|ægær PREP|ba n|shole-EZ adj|abi nEG#v|suxtæn&PRES-3S v:mod|bayestæn&PAST&3S pro:dem|an PTL|ra adv|jeddi v|gereftæn&PAST&3S .
+%eng:	if it doesn't burn with a blue flame , we must take it seriously .
+%mor:	propn|ægær propn|ba propn|sholeye propn|abi propn|næsuzæd cm|cm propn|bayæd punct|an propn|ra propn|jeddi propn|gereft .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|7|PUNCT 7|1|CONJ 8|9|PUNCT 9|7|CONJ 10|9|FLAT-NAME 11|9|FLAT-NAME 12|1|PUNCT
+*MOT:	&=laugh . 327568_328716
+*FAT:	&=laugh . 328716_329946
+*CHI:	+" deqat konid (.) boxari hæmvare ba sholeye abi besuzæd . 329946_338640
+%xmor:	pv:n|deqat v:lv|kærdæn&PRES-2P n|boxari adv|hæmvare PREP|ba n|shole-EZ adj|abi SUBJ#v|suxtæn&PAST-3S .
+%eng:	make sure the heater is burning with a blue flame .
+%mor:	propn|deqat propn|konid propn|boxari propn|hæmvare propn|ba propn|sholeye propn|abi propn|besuzæd .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*MOT:	ino bayæd be bababozorget begi . 338640_341001
+%xmor:	pro:dem|in PTL|ra v:mod|bayestæn&PAST&3S PREP|be n|bababozorg-2S SUBJ#v|goftæn&PRES-2S .
+%eng:	you have to tell that to your grandpa .
+%tim:	06:00
+%mor:	propn|ino propn|bayæd propn|be propn|bababozorget propn|begi .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	ye zære æz in morqe mæzedar mixai boxori ? 341001_361649
+%xmor:	Qn|ye n|zære PREP|æz pro:dem|im n|morq-EZ adj|mæzedar prog#v|xastæn&PRES-2S SUBJ#v|xordæn&PRES-2S ?
+%eng:	do you want to eat a bit of this tasty chicken ?
+%mor:	propn|ye propn|zære propn|æz propn|in propn|morqe propn|mæzedar propn|mixai propn|boxori ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*MOT:	ke dæste babast ? 361649_363827
+%xmor:	conj|ke n|dæst-EZ n|baba~v|budæn&PRES&3S ?
+%eng:	that dad has in his hand ?
+%mor:	propn|ke propn|dæste propn|babast ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	&=mumble . 363827_365688
+*MOT:	bababozorg tu fer poxte ino . 365688_367401
+%xmor:	n|bababozorg PREP|tu n|fer v|poxtæn&PAST-3S pro:dem|im PTL|ra .
+%xcau:	$C:lex:poxtæn
+%eng:	grandpa cooked this in the oven .
+%mor:	propn|bababozorg propn|tu propn|fer propn|poxte propn|ino .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	bia . 367401_370891
+%xmor:	IMP#v|amædæn&PRES&2S .
+%eng:	here .
+%mor:	propn|bia .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	in ye tikæro bezar dæhænet . 370891_373186
+%xmor:	pro:dem|in Qn|ye n|tike PTL|ra IMP#v|gozashtæn&PRES&2S n|dæhæn-2S .
+%eng:	put this piece in your mouth .
+%mor:	punct|in propn|ye propn|tikæro propn|bezar propn|dæhænet .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|FLAT-NAME 6|2|PUNCT
+*MOT:	xxx . 373186_376576
+%xmor:	unk|xxx .
+*MOT:	xxx . 376576_381132
+%xmor:	unk|xxx .
+*FAT:	baba sedasho yævash bokonæm ? 381132_398354
+%xmor:	n|baba n|seda-3S PTL|ra pv:adj|yævash SUBJ#v:lv|kærdæn&PRES-1S ?
+%xcau:	$C:lv:kærdæn
+%eng:	should I lower the volume ?
+%mor:	propn|baba propn|sedasho propn|yævash propn|bokonæm ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	babayi ? 398354_400549
+%xmor:	n|babayi ?
+%eng:	baba ?
+%mor:	propn|babayi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	næ . 400549_401796
+%xmor:	CO|næ .
+%eng:	no .
+%mor:	propn|næ .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	<maman in> [///] to rasti æz in tæbliqa æz chishun xoshet miyad ? 401796_405438
+%xmor:	pro|to adv|rasti PREP|æz pro:dem|in n|tæbliq-PL PREP|æz n|chi-3p pv:adj|xosh-2S prog#v:lv|amædæn&PRES&3S ?
+%eng:	mommy , what do you actually like about these commercials ?
+%mor:	propn|to propn|rasti propn|æz propn|in propn|tæbliqa propn|æz propn|chishun propn|xoshet punct|miyad ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT 10|1|PUNCT
+*CHI:	mæn dige . 405438_406419
+%xmor:	pro|mæn pro:rel|dige .
+%eng:	I then .
+%mor:	propn|mæn propn|dige .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	xxx bæchegune hæm ke nistæn ke . 406419_407882
+%xmor:	unk|xxx adj|bæchegune adv|hæm conj|ke v|budæn&nEG&PRES-3P pro:REL|ke .
+%eng:	They aren't even childish .
+%mor:	propn|bæchegune propn|hæm propn|ke propn|nistæn punct|ke .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT 6|1|PUNCT
+*CHI:	axe [/] axe chizaye bozorgtær æz adæm dare . 407882_412271
+%xmor:	conj|axe n|chiz-PL-EZ adj|bozorg-CP PREP|æz n|adæm v|dashtæn&PRES-3S .
+%eng:	But but it has things larger than humans .
+%mor:	propn|axe propn|chizaye propn|bozorgtær propn|æz propn|adæm propn|dare .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*MOT:	mhm . 412271_413169
+%xmor:	CO|mhm .
+%eng:	mhm .
+%mor:	propn|mhm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	chizaye bozorgtær æz adæm dare ? 413169_415297
+%xmor:	n|chiz-PL-EZ adj|bozorg-CP PREP|æz n|adæm v|dashtæn&PRES-3S ?
+%eng:	It has things larger than humans ?
+%mor:	propn|chizaye propn|bozorgtær propn|æz propn|adæm propn|dare ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*CHI:	yæni bozorgtær æz adæme . 415297_418605
+%xmor:	adv|yæni adj|bozorg-CP PREP|æz n|adæm~v|budæn&PRES&3S .
+%eng:	I mean bigger than humans .
+%tim:	07:00
+%mor:	propn|yæni propn|bozorgtær propn|æz propn|adæme .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	bæd adæm do næfæri ya chænd næfæri bebærætesh . 418605_422262
+%xmor:	adv|bæd n|adæm adv|+num|do+adj|næfæri conj|ya adv|+num|chænd+adj|næfæri SUBJ#v|bordæn&PRES-3S-3S .
+%xcau:	$C:lex:bordæn
+%eng:	then , one must take them with two people or several .
+%mor:	propn|bæd propn|adæm propn|do propn|næfæri propn|ya propn|chænd propn|næfæri propn|bebærætesh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*MOT:	chiro ? 422262_423243
+%xmor:	wh|chi PTL|ra ?
+%eng:	what ?
+%mor:	propn|chiro ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	chiro do næfæri ya chænd næfæri bebære ? 423243_426984
+%xmor:	wh|chi PTL|ra adv|+num|do+adj|næfæri SUBJ#v|bordæn&PRES-3S ?
+%xcau:	$C:lex:bordæn
+%eng:	what do you have to take with several people .
+%mor:	propn|chiro propn|do propn|næfæri propn|ya propn|chænd propn|næfæri propn|bebære ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*CHI:	chizaye +... 426984_428114
+%xmor:	n|chiz-PL-EZ +...
+%eng:	things .
+%com:	a commercial comes on with a jingle that distracts the child
+%mor:	punct|chizaye +...
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	&=singing . 428114_444372
+*MOT:	+" dorost kærdænesh ! 444372_452503
+%xmor:	pv:adj|dorost v:lv:inf|kærdæn-InF-3S !
+%eng:	fixing it .
+%mor:	propn|dorost propn|kærdænesh !
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	+" boros kærdænesh . 452503_454149
+%xmor:	pv:n|boros v:lv:inf|kærdæn-InF-3S .
+%eng:	brushing it .
+%mor:	propn|boros propn|kærdænesh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	xob . 454149_454399
+%xmor:	co|xob .
+%mor:	propn|xob .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	xob boros kærdænesh , hærdotashæm moshgel dare kælæmæsh . 454399_458222
+%xmor:	co|xob pv:n|boros v:lv:inf|kærdæn-InF-3S adv|hær Qn|dota-3S adv|hæm pv:n|moshgel v:lv|dashtæn&PRES-3S n|kælæme-3S .
+%eng:	well , brushing it , both words are wrong .
+%mor:	propn|xob propn|boros propn|kærdænesh cm|cm propn|hærdotashæm propn|moshgel propn|dare propn|kælæmæsh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|5|FLAT-NAME 9|1|PUNCT
+*MOT:	mituni ye zære +... 458222_479435
+%xmor:	prog#v|tævanestæn&PRES-2S Qn|ye n|zære +...
+%eng:	can you slightly .
+%tim:	08:00
+%mor:	propn|mituni propn|ye propn|zære +...
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*MOT:	næ hichi fekr kærdæm . 479435_485037
+%xmor:	CO|næ n|hichi pv:n|fekr v:lv|kærdæn&PAST-1S .
+%eng:	no nevermind , I thought .
+%mor:	propn|næ propn|hichi propn|fekr propn|kærdæm .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*MOT:	chejuri shunzdæhe azær shode ruze kudæk væ televizion ? 485037_489991
+%xmor:	adv|chejuri nUM|shanzdæh-EZ n:prop|azær v|shodæn&PAST-3S n|ruz-EZ n|kudæk conj|væ n|televizion ?
+%eng:	How did the 16th of Azær become kids and television day ?
+%mor:	propn|chejuri propn|shunzdæhe propn|azær propn|shode propn|ruze propn|kudæk propn|væ propn|televizion ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|PUNCT
+*MOT:	qædima shunzdæhe azær ruze daneshju bud ta unjayi ke yadæme . 489991_494082
+%xmor:	n|qædim-PL nUM|shanzdæh-EZ n|azær n|ruz-EZ n|daneshju v|budæn&PAST&3S PREP|ta adv|unja-def conj|ke n|yad-1S~v|budæn&PRES&3S .
+%eng:	Back then the 16th of Azar was student day as far as I can remember .
+%mor:	propn|qædima propn|shunzdæhe propn|azær propn|ruze propn|daneshju propn|bud propn|ta propn|unjayi propn|ke propn|yadæme .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|5|FLAT-NAME 7|5|FLAT-NAME 8|5|FLAT-NAME 9|5|FLAT-NAME 10|1|FLAT-NAME 11|1|PUNCT
+*MOT:	xob , fekr konæm ye chize . 494082_496657
+%xmor:	co|xob pv:n|fekr v:lv|kærdæn&PRES-1S Qn|ye n|chiz~v|budæn&PRES&3S .
+%eng:	well , I think it's thing .
+%mor:	propn|xob cm|cm propn|fekr propn|konæm propn|ye propn|chize .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|1|PUNCT
+*FAT:	jæhaniye ? 496657_499683
+%xmor:	adj|jæhani~v|budæn&PRES&3S ?
+%eng:	is it worldwide ?
+%mor:	propn|jæhaniye ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	jæhani hæm bashe hæm næbayæd bechærxe ke . 499683_501861
+%xmor:	adj|jæhani adv|hæm v|budæn&PRES&SUBJ-3S adv|hæm nEG#v:mod|bayestæn&PAST&3S SUBJ#v|chærxidæn&PRES-3S pro:REL|ke .
+%eng:	even if it was worldwide , it wouldn't alternate .
+%mor:	propn|jæhani propn|hæm punct|bashe propn|hæm propn|næbayæd propn|bechærxe punct|ke .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|PUNCT 4|1|CONJ 5|4|FLAT-NAME 6|4|FLAT-NAME 7|1|PUNCT 8|1|PUNCT
+*MOT:	fekr konæm ina , mixan ye juri bendazænesh ke ta ruze tætil beyofte . 501861_512535
+%xmor:	pv:n|fekr v:lv|kærdæn&PRES-1S pro:dem|in-PL prog#v|xastæn&PRES-3P Qn|ye adv|juri SUBJ#v|ændaxtæn&PRES-3S-3S conj|ke PREP|ta n|ruz-EZ adj|tætil SUBJ#v|oftadæn&PRES-3S .
+%eng:	I think that they , they want to make sure it falls on a weekend .
+%mor:	propn|fekr propn|konæm propn|ina cm|cm propn|mixan propn|ye propn|juri propn|bendazænesh propn|ke propn|ta propn|ruze propn|tætil propn|beyofte .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|5|PUNCT 5|1|CONJ 6|5|FLAT-NAME 7|5|FLAT-NAME 8|5|FLAT-NAME 9|8|FLAT-NAME 10|5|FLAT-NAME 11|5|FLAT-NAME 12|5|FLAT-NAME 13|5|FLAT-NAME 14|1|PUNCT
+*MOT:	jomme biyofte . 512535_513648
+%xmor:	n|jomme SUBJ#v|oftadæn&PRES-3S .
+%eng:	it falls on a Friday .
+%mor:	propn|jomme propn|biyofte .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	0be xatere in hær sal ævæz mishe tarixesh . 513648_517389
+%xmor:	prep|be n|xater-EZ pro:dem|in adj|hær n|sal pv:adj|ævæz proG#v:lv|shodæn&PRES-3S n|tarix-3S .
+%eng:	That's why the date changes every year .
+%mor:	propn|xatere punct|in propn|hær propn|sal propn|ævæz propn|mishe propn|tarixesh .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|FLAT-NAME 5|3|FLAT-NAME 6|3|FLAT-NAME 7|3|FLAT-NAME 8|1|PUNCT
+*MOT:	chetor bud hævijesh ? 517389_523074
+%xmor:	adv|chetor v|budæn&PAST&3S n|hævij-3S ?
+%eng:	How was the carrot ?
+%mor:	propn|chetor propn|bud propn|hævijesh ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	xub bud . 523074_523989
+%xmor:	adj|xub v|budæn&PAST&3S .
+%eng:	it was good .
+%tim:	09:38
+%mor:	propn|xub propn|bud .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	babayi dæst næzæn . 523989_579331
+%xmor:	n|babayi pv:n|dæst neg_imp#v:lv|zædæn&PRES&2S .
+%eng:	don't touch , daddy .
+%mor:	propn|babayi propn|dæst propn|næzæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	&=mumble . 579331_581277
+*CHI:	xxx chiye ? 581277_583703
+%xmor:	unk|xxx n|chi~v|budæn&PRES&3S ?
+%eng:	what is it ?
+%mor:	propn|chiye ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	mm ? 583703_585980
+%xmor:	co|mm ?
+%eng:	mm ?
+%mor:	propn|mm ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	in zæbte . 585980_588424
+%xmor:	pro:dem|in n|zæbt~v|budæn&PRES&3S .
+%eng:	it's a recorder .
+%mor:	propn|in propn|zæbte .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	in ye jur zæbte . 588424_588906
+%xmor:	pro:dem|im Qn|ye adj|jur n|zæbt~v|budæn&PAST&3S .
+%eng:	that's a type of recorder .
+%mor:	punct|in propn|ye propn|jur propn|zæbte .
+%gra:	1|2|PUNCT 2|0|ROOT 3|2|FLAT-NAME 4|2|FLAT-NAME 5|2|PUNCT
+*MOT:	didi ino ? 588906_591998
+%xmor:	v|didæn&PRES-2S pro:dem|in PTL|ra ?
+%eng:	did you see this ?
+%mor:	propn|didi propn|ino ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	chi shod ? 591998_592813
+%xmor:	wh|chi v|shodæn&PAST&3S ?
+%eng:	what happened ?
+%mor:	propn|chi propn|shod ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	chi shod ? 592813_594026
+%xmor:	wh|chi v|shodæn&PAST&3S ?
+%eng:	What happened ?
+%mor:	propn|chi propn|shod ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	ba motore ræft . 594026_594542
+%xmor:	PREP|ba n|motor-def v|ræftæn&PAST&3S .
+%eng:	He left with a motorbike .
+%tim:	10:00
+%mor:	propn|ba propn|motore propn|ræft .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*FAT:	babayi ? 594542_602073
+%xmor:	n|babayi ?
+%eng:	baba ?
+%mor:	propn|babayi ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*FAT:	dæst næzæn . 602073_603968
+%xmor:	pv:n|dæst neg_imp#v:lv|zædæn&PRES&2S .
+%eng:	don't touch .
+%mor:	propn|dæst propn|næzæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	karte suxtesh gom shode , minu , hala umæde dæva . 603968_610170
+%xmor:	n|kart-EZ n|suxt-3S pv:adj|gom v:lv|shodæn&PAST-3S n:prop|minu adv|hala v|amædæn&PAST-3S n|dæva .
+%eng:	His gas card got lost and he's come to fight .
+%mor:	propn|karte propn|suxtesh propn|gom propn|shode cm|cm propn|minu cm|cm propn|hala propn|umæde propn|dæva .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|PUNCT 8|6|CONJ 9|8|FLAT-NAME 10|8|FLAT-NAME 11|1|PUNCT
+*FAT:	ye kæm kælæm mixori ? 610170_612680
+%xmor:	Qn|ye adj|kæm n|kælæm proG#v|xordæn&PRES-2S ?
+%eng:	Do you want some cabbage ?
+%mor:	propn|ye propn|kæm propn|kælæm propn|mixori ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*MOT:	kælæm mixori jujeye mæn ? 612680_618133
+%xmor:	n|kælæm proG#v|xordæn&PRES-2S n|juje-EZ pro|mæn ?
+%eng:	Would you like some cabbage , my chick ?
+%mor:	propn|kælæm propn|mixori propn|jujeye propn|mæn ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	ba motore ræft ? 618133_647492
+%xmor:	PREP|ba n|motor-def v|ræftæn&PAST&3S ?
+%eng:	He left with the motorbike ?
+%mor:	propn|ba propn|motore propn|ræft ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|PUNCT
+*CHI:	motore mæge male ki bud ? 647492_649937
+%xmor:	n|motor-def adv|mægær n|mal-EZ wh|ki v|budæn&PAST&3S ?
+%eng:	But who's was the motorbike ?
+%mor:	propn|motore propn|mæge propn|male propn|ki propn|bud ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	male xodesh . 649937_650717
+%xmor:	n|mal-EZ n|xod-3S .
+%eng:	his own .
+%mor:	propn|male propn|xodesh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	male xodesh ? 650717_652346
+%xmor:	n|mal-EZ n|xod-3S ?
+%eng:	His own ?
+%mor:	propn|male propn|xodesh ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	un mashine hæm male un bud axe . 652346_654457
+%xmor:	pro:dem|un n|mashin-def adv|hæm n|male pro:dem|un v|budæn&PAST&3S pro:rel|axe .
+%eng:	But that car was his too .
+%mor:	propn|un propn|mashine propn|hæm propn|male propn|un propn|bud propn|axe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*MOT:	motore o mashine male in zæno shohære . 654457_656420
+%xmor:	n|motor-EZ conj|væ n|mashin-def n|mal-EZ pro:dem|in n|zæn conj|o n|shohær~v|budæn&PAST&3S .
+%eng:	The motorbike and the car belong to the husband and wife .
+%mor:	propn|motore propn|o propn|mashine propn|male punct|in propn|zæno propn|shohære .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|1|PUNCT
+*MOT:	bæd nobæti estefade mikonæn æzesh . 656420_659013
+%xmor:	adv|bæd adv|nobæti pv:n|estefade proG#v:lv|kærdæn&PRES-3p PREP|æz-3S .
+%eng:	They take turns using them .
+%tim:	11:00
+%mor:	propn|bæd propn|nobæti propn|estefade propn|mikonæn propn|æzesh .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	yekishun sævare mashin mishe , un yeki sævare motor bæd dæfeye dige +... 659013_664549
+%xmor:	Qn|yeki-3P pv:adj|sævar-EZ n|mashin proG#v:lv|shodæn&PRES-3S pro:dem|un Qn|yeki adj|sævar-EZ n|motor adv|bæd n|dæfe-EZ adj|digær +...
+%eng:	One of them rides the car , and the other the motorbike , then next time .
+%mor:	propn|yekishun propn|sævare propn|mashin propn|mishe cm|cm propn|un propn|yeki propn|sævare propn|motor propn|bæd propn|dæfeye propn|dige +...
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|6|PUNCT 6|1|CONJ 7|6|FLAT-NAME 8|6|FLAT-NAME 9|6|FLAT-NAME 10|6|FLAT-NAME 11|6|FLAT-NAME 12|6|FLAT-NAME 13|1|PUNCT
+*FAT:	++ baz un yeki sævare motor mishe . 664549_667541
+%xmor:	adv|baz pro:dem|un Qn|yeki pv:adj|sævar-EZ n|motor proG#v:lv|shodæn&PRES-3S .
+%eng:	The other one rides the motorbike .
+%mor:	propn|baz propn|un propn|yeki propn|sævare propn|motor punct|mishe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT 7|1|PUNCT
+*MOT:	&=laugh . 667541_668455
+*FAT:	&=laugh . 668455_669686
+*CHI:	jælese bæd jælese bæd jælese . 669686_678031
+%xmor:	n|jælese adv|bæd n|jælese adv|bæd n|jælese .
+%mor:	propn|jælese propn|bæd propn|jælese propn|bæd propn|jælese .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*FAT:	baba dige makaronisho nemixori ? 678031_691548
+%xmor:	n|baba adv|digær n|makaroni-3S PTL|ra nEG#proG#v|xordæn&PRES-2S ?
+%eng:	baba , you don't want anymore of the pasta ?
+%mor:	propn|baba propn|dige propn|makaronisho propn|nemixori ?
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*CHI:	nemixoræm . 691548_692362
+%xmor:	nEG#proG#v|xordæn&PRES-1S .
+%eng:	I don't want to eat anymore .
+%mor:	propn|nemixoræm .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	che æjæb (.) in næftiya ye ænimasione dorosti dorost kærdæn bære tæbliqateshun . 692362_706129
+%xmor:	adv|che co|æjæb pro:dem|in adj|næfti-PL Qn|ye n|ænimasion-EZ adj|dorost-DEF pv:adj|dorost v:lv|kærdæn&PAST-3P PREP|bæra-EZ n|tæbliq&PL-3P .
+%xcau:	$C:lv:kærdæn
+%eng:	what a surprise , these gas people actually made a decent animation for their commercial .
+%mor:	propn|che propn|æjæb propn|in propn|næftiya propn|ye propn|ænimasione propn|dorosti propn|dorost propn|kærdæn propn|bære propn|tæbliqateshun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|FLAT-NAME 9|1|FLAT-NAME 10|1|FLAT-NAME 11|1|FLAT-NAME 12|1|PUNCT
+*MOT:	bebin fæqæt hæm mærda behæm dæst midæn . 706129_713991
+%xmor:	IMP#v|didæn&PRES&2S adv|fæqæt adv|hæm n|mærda prep|be adv|hæm pv:n|dæst prog#v:lv|dadæn&PRES-3P .
+%eng:	look , and only the men shake hands .
+%mor:	propn|bebin propn|fæqæt propn|hæm propn|mærda propn|behæm propn|dæst propn|midæn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|FLAT-NAME 8|1|PUNCT
+*FAT:	are dige . 713991_714489
+%xmor:	CO|are adv|digær .
+%eng:	Well yes .
+%mor:	propn|are propn|dige .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*FAT:	zæna fæqæt xord be dæsteye chæpeshun . 714489_718047
+%xmor:	n|zæn-PL adv|fæqæt v|xordæn&PAST&3S PREP|be n|dæst-EZ adj|chæp-3P .
+%eng:	It just hit the women on their left hands .
+%tim:	12:00
+%mor:	propn|zæna propn|fæqæt propn|xord propn|be propn|dæsteye propn|chæpeshun .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|FLAT-NAME 7|1|PUNCT
+*MOT:	jaleb injast ke æmælæn hædæfe in tæbliq mæsælæn zænahæn dige ke bayæd xxx begiræn beræn beshuræn . 718047_737582
+%xmor:	adj|jaleb adv|inja~v|budæn&PRES&3S conj|ke adv|æmælæn n|hædæf-EZ pro:dem|in n|tæbliq adj|mæsælæn n|zæn-PL~v|budæn&PRES&3P adv|digær conj|ke v:mod|bayestæn&PAST&3S unk|xxx SUBJ#v|gereftæn&PRES&3P SUBJ#v|ræftæn&PRES&3P SUBJ#v|shostæn&PRES-3P .
+%eng:	The interesting thing is that the direct goal of this commercial is that the women have to take and wash them .
+%mor:	propn|jaleb propn|injast propn|ke propn|æmælæn propn|hædæfe punct|in propn|tæbliq propn|mæsælæn propn|zænahæn propn|dige propn|ke propn|bayæd propn|begiræn propn|beræn propn|beshuræn .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|7|PUNCT 7|1|CONJ 8|7|FLAT-NAME 9|7|FLAT-NAME 10|7|FLAT-NAME 11|10|FLAT-NAME 12|7|FLAT-NAME 13|7|FLAT-NAME 14|13|FLAT-NAME 15|7|FLAT-NAME 16|1|PUNCT
+*FAT:	fekr konæm xamushesh kon dige . 737582_739609
+%xmor:	pv:n|fekr v:lv|kærdæn&PRES-1S pv:adj|xamush-3S v:lv|kærdæn&PRES&3S adv|digær .
+%xcau:	$C:lv:kærdæn
+%eng:	I think turn it off now .
+%mor:	propn|fekr propn|konæm propn|xamushesh propn|kon propn|dige .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|FLAT-NAME 6|1|PUNCT
+*MOT:	dige ælan hærf nemizæne . 739609_741305
+%xmor:	adv|digær adv|ælan pv:n|hærf neg#prog#v:lv|zædæn&PRES-3S .
+%eng:	She's not talking anymore .
+%mor:	propn|dige propn|ælan propn|hærf propn|nemizæne .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT
+*FAT:	xamushesh kon . 741305_742004
+%xmor:	pv:adj|xamush-3S v:lv|kærdæn&PRES&IMP&2S .
+%xcau:	$C:lv:kærdæn
+%eng:	Turn it off .
+%mor:	propn|xamushesh propn|kon .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*MOT:	sedaye ma fæqæt zæbt mishe . 742004_747309
+%xmor:	n|seda-EZ pro|ma adv|fæqæt pv:adj|zæbt proG#v:lv|shodæn&PRES&3S .
+%eng:	Only our voices are being recorded .
+%tim:	12:27
+%mor:	propn|sedaye propn|ma propn|fæqæt propn|zæbt punct|mishe .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|FLAT-NAME 4|1|FLAT-NAME 5|1|PUNCT 6|1|PUNCT
+@End
